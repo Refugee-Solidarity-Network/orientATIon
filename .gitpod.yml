@@ -3,3 +3,15 @@ image:
 
 tasks:
   - init: pip install -r requirements.txt
+  - name: Shutdown daemon
+    command: |
+      function shutdown() {
+        # Commands that will run on shutdown
+        pip freeze > requirements.txt
+        
+      }
+
+      trap 'shutdown; exit' SIGTERM;
+      printf '\033[3J\033c\033[3J%s\n' 'Waiting for SIGTERM ...';
+      exec {sfd}<> <(:);
+      until read -t 3600 -u $sfd; do continue; done;
