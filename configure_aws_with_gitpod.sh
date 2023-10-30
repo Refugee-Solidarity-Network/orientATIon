@@ -98,4 +98,4 @@ jq ".credHelpers[\"${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com\"]=\"ec
 rm /home/gitpod/.docker/config_tmp.json
 
 echo "AWS SSO & ECR login requirements have been succesfully installed and configured."
-echo "You can start an AWS SSO login session."
+echo -e "To start your AWS SSO session, run the command \033[1;32maws sso login --no-browser\033[0m in the terminal."
