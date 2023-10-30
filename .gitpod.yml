@@ -2,6 +2,8 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
+  - name: Initialize & Configure AWS
+    command: bash $GITPOD_REPO_ROOT/configure_aws_with_gitpod.sh
   - init: pip install -r requirements.txt
   - name: Shutdown daemon
     command: |
