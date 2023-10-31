@@ -4,8 +4,11 @@ image:
 tasks:
   - name: Initialize & Configure AWS
     command: bash $GITPOD_REPO_ROOT/configure_aws_with_gitpod.sh
+    openMode: tab-before
   - init: pip install -r requirements.txt
+    openMode: tab-after
   - name: Shutdown daemon
+    openMode: tab-after
     command: |
       function shutdown() {
         # Commands that will run on shutdown
