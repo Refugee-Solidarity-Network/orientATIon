@@ -50,5 +50,6 @@ Since multiple contributors will be working within the same development environm
 
 ## Core Reference Documents
 
+- [Project Overview & Research Plan](/docs/project_overview.md)
 - [orientATIon Research Project Tasks Tracker](https://github.com/orgs/Refugee-Solidarity-Network/projects/1)
 - [Guide for Onboarding New orientATIon Contributors](/docs/onboarding.md)
