@@ -32,11 +32,13 @@ mpmath==1.3.0
 multidict==6.0.4
 mypy-extensions==1.0.0
 onnxruntime==1.16.1
+pandas==2.1.2
 posthog==3.0.2
 protobuf==4.24.4
 pulsar-client==3.3.0
 PyPika==0.48.9
 python-dotenv==1.0.0
+pytz==2023.3.post1
 s3transfer==0.7.0
 SQLAlchemy==2.0.22
 starlette==0.27.0
@@ -44,6 +46,7 @@ sympy==1.12
 tenacity==8.2.3
 tokenizers==0.14.1
 typing-inspect==0.9.0
+tzdata==2023.3
 uvicorn==0.23.2
 uvloop==0.18.0
 watchfiles==0.21.0
