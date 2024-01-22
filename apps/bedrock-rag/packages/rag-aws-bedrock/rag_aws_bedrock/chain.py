@@ -5,6 +5,8 @@ from langchain_community.llms.bedrock import Bedrock
 from langchain_community.vectorstores import FAISS
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
+from langchain.prompts import PromptTemplate
+from langchain_core.runnables import ConfigurableField
 from langchain_core.pydantic_v1 import BaseModel
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 from langchain_community.embeddings import BedrockEmbeddings
@@ -27,15 +29,18 @@ model = Bedrock(
 bedrock_embeddings = BedrockEmbeddings(model_id="amazon.titan-embed-text-v1")
 
 # Define metadata extraction function so we can filter on sections and return deep links as sources
+
+
 def metadata_func(record: dict, metadata: dict) -> dict:
     metadata["section"] = record.get("section")
     metadata["source"] = record.get("deep_link")
-    
+
     return metadata
 
 # Import JSON FAQ File using JSONLoader
 
-file_path='../../data/processed/faq_data/EN_SYR.json'
+
+file_path = '../../data/processed/faq_data/EN_SYR.json'
 
 loader = JSONLoader(
     file_path=file_path,
@@ -45,7 +50,6 @@ loader = JSONLoader(
 )
 
 data = loader.load()
-
 
 
 embeddings = BedrockEmbeddings(
@@ -68,30 +72,50 @@ Question: {question}
 Helpful Answer:"""
 custom_rag_prompt = PromptTemplate.from_template(prompt_template)
 
-llm = Bedrock(model_id="amazon.titan-text-express-v1", model_kwargs={"maxTokenCount": 4000})
+llm = Bedrock(model_id="amazon.titan-text-express-v1", model_kwargs={"maxTokenCount": 4000}).configurable_alternatives(
+    # This gives this field an id
+    # When configuring the end runnable, we can then use this id to configure this field
+    ConfigurableField(id="llm"),
+    # This sets a default_key.
+    # If we specify this key, the default LLM (ChatAnthropic initialized above) will be used
+    default_key="titan-text-express-v1",
+    # This adds a new option, with name `openai` that is equal to `ChatOpenAI()`
+    anthropic=Bedrock(model_id="anthropic.claude-v2:1"),
+    # This adds a new option, with name `gpt4` that is equal to `ChatOpenAI(model="gpt-4")`
+    cohere=Bedrock(model_id="cohere.command-text-v14"),
+    # You can add more configuration options here
+    ai2j=Bedrock(model_id="ai21.j2-ultra-v1")
+)
+
+# llm = Bedrock(model_id="amazon.titan-text-express-v1",
+#              model_kwargs={"maxTokenCount": 4000}).configurable_fields
+#
+
 
 def format_docs(docs):
     formatted_docs = "\n\n".join(doc.page_content for doc in docs)
-    urls = [doc.metadata.source for doc in docs]  # assuming each doc has a 'url' attribute
+    # assuming each doc has a 'url' attribute
+    urls = [doc.metadata["source"] for doc in docs]
     return formatted_docs, urls
 
 
 rag_chain_from_docs = (
-    RunnablePassthrough.assign(context=(lambda x: format_docs(x["context"])[0]))
+    RunnablePassthrough.assign(context=(lambda x: format_docs(x["context"])))
     | custom_rag_prompt
     | llm
     | StrOutputParser()
-    | RunnablePassthrough.assign(urls=(lambda x: format_docs(x["context"])[1]))
 )
 
 
 rag_chain_with_source = RunnableParallel(
-    {"context": retriever, "question": RunnablePassthrough(), "urls": RunnablePassthrough()}
+    {"context": retriever, "question": RunnablePassthrough(),
+     "urls": RunnablePassthrough()}
 ).assign(answer=rag_chain_from_docs)
 
 
 # Add typing for input
 class Question(BaseModel):
     __root__: str
+
 
 chain = rag_chain_with_source

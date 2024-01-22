@@ -34,6 +34,8 @@ GitPython==3.1.41
 greenlet==3.0.0
 grpcio==1.59.0
 h11==0.14.0
+haystack-ai==2.0.0b5
+haystack-bm25==1.0.2
 httpcore==1.0.2
 httptools==0.6.0
 httpx==0.26.0
@@ -49,7 +51,6 @@ langchain==0.1.1
 langchain-cli==0.0.20
 langchain-community==0.0.13
 langchain-core==0.1.13
-langchainhub==0.1.14
 langserve==0.0.39
 langsmith==0.0.83
 lazy-imports==0.3.1
@@ -92,7 +93,7 @@ python-dotenv==1.0.0
 python-ptrace==0.9.8
 pytz==2023.3.post1
 quantulum3==0.9.0
--e git+https://github.com/Refugee-Solidarity-Network/orientATIon.git@d9e1dc51618f60eda7ece78a16987b00ccec23fa#egg=rag_aws_bedrock&subdirectory=apps/bedrock-rag/packages/rag-aws-bedrock
+-e git+https://github.com/Refugee-Solidarity-Network/orientATIon.git@2ad029c84d517500b50e79f2ceaef39580889120#egg=rag_aws_bedrock&subdirectory=apps/bedrock-rag/packages/rag-aws-bedrock
 rank-bm25==0.2.2
 requests-cache==0.9.8
 rich==13.7.0
@@ -119,7 +120,6 @@ torch==2.1.2
 torchvision==0.16.2
 transformers==4.35.2
 triton==2.1.0
-types-requests==2.31.0.20240106
 typing-inspect==0.9.0
 tzdata==2023.3
 url-normalize==1.4.3
