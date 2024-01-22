@@ -5,7 +5,6 @@ amazon-bedrock-haystack==0.2.0
 anyio==3.7.1
 appdirs==1.4.4
 async-timeout==4.0.3
-awscli==1.32.23
 backoff==2.2.1
 bcrypt==4.0.1
 boilerpy3==1.0.7
