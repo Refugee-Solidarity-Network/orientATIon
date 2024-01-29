@@ -93,10 +93,7 @@ llm = Bedrock(model_id="amazon.titan-text-express-v1", model_kwargs={"maxTokenCo
 
 
 def format_docs(docs):
-    formatted_docs = "\n\n".join(doc.page_content for doc in docs)
-    # assuming each doc has a 'url' attribute
-    urls = [doc.metadata["source"] for doc in docs]
-    return formatted_docs, urls
+    return "\n\n".join(doc.page_content for doc in docs)
 
 
 rag_chain_from_docs = (
@@ -108,8 +105,7 @@ rag_chain_from_docs = (
 
 
 rag_chain_with_source = RunnableParallel(
-    {"context": retriever, "question": RunnablePassthrough(),
-     "urls": RunnablePassthrough()}
+    {"context": retriever, "question": RunnablePassthrough()}
 ).assign(answer=rag_chain_from_docs)
 
 
