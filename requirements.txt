@@ -92,6 +92,8 @@ python-dotenv==1.0.0
 python-ptrace==0.9.8
 pytz==2023.3.post1
 quantulum3==0.9.0
+# Editable install with no version control (rag-aws-bedrock==0.1.0)
+-e /workspace/orientATIon/src/rag-aws-bedrock/apps/bedrock-rag/packages/rag-aws-bedrock
 rank-bm25==0.2.2
 requests-cache==0.9.8
 rich==13.7.0
