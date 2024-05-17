@@ -1,22 +1,29 @@
 def CreateInferenceModifier(model_type, params=None, **kwargs):
     """
     Creates an inference modifier dictionary based on the model type and provided parameters.
-    
+
     Parameters:
-        model_type (str): The type of model ('claude', 'jurassic', or 'command').
+        model_type (str): The type of model ('amazon', 'claude', 'jurassic', or 'command').
         params (dict, optional): A dictionary of parameters. Defaults to None.
         **kwargs: Arbitrary keyword arguments.
-        
+
     Returns:
         dict: A dictionary containing the inference modifier parameters for the specified model type.
-    
+
     Raises:
         ValueError: If an unknown model_type is provided.
     """
     if params is None:
         params = kwargs
-    
-    if model_type == 'claude':
+
+    if model_type == 'amazon':
+        return {
+            "maxTokenCount": params.get("max_tokens", 8192),
+            "temperature": params.get("temperature", 0.5),
+            "topP": params.get("top_p"),
+            "stopSequences": ["User:"],
+        }
+    elif model_type == 'claude':
         return {
             "max_tokens_to_sample": params.get("max_tokens", 4096),
             "temperature": params.get("temperature", 0.5),
