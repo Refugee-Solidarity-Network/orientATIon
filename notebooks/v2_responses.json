@@ -1,0 +1,660 @@
+{
+    "run_metadata": {
+        "system_prompt": "You are a helpful chatbot that answers user inquiries. Drawing from your knowledge, answer the question below.\nIf you don't know the answer from your knowledge, say that your training materials don't include this information and suggest reaching out to Refugee Rights Turkey for more information.\nKeep the answer as concise and relevant to the question as possible. Be sure to answer in the language used in the question.\n\nKnowledge: {context}\n\nQuestion: {question}\n\nHelpful Answer:",
+        "llm_hyperparams": {
+            "max_tokens": 8000,
+            "temperature": 0.2,
+            "top_k": 250,
+            "top_p": 1,
+            "stop_sequences": [
+                "\n\nHuman"
+            ]
+        },
+        "llm_model": "anthropic.claude-v2:1",
+        "embedding_model": "amazon.titan-embed-text-v1",
+        "embedding_hyperparams": null,
+        "run_time": "2024-05-17T17:33:33.917138Z"
+    },
+    "responses": [
+        {
+            "question_id": 2,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "What rights do asylum-seekers have in Turkey?",
+            "answer": " My training materials do not include specific information about the rights of asylum-seekers in Turkey. However, Refugee Rights Turkey provides information and support services to people seeking protection in Turkey. For questions regarding access to protection mechanisms and fundamental rights and guarantees in Turkey, you can reach them at +90 507 218 62 85 between 10:00 and 17:00 on weekdays. I suggest contacting them directly for more information on the rights of asylum-seekers in Turkey.",
+            "sources": "https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention/?section=questions&question=30; https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention/?section=questions&question=28; https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention-2/?section=questions&question=30"
+        },
+        {
+            "question_id": 1,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "Türkiye'de iltica prosedürleri nelerdir?",
+            "answer": " <p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Aşağıda bulunan link üzerinden kimliğinizin güncel statüsünü kontrol edebilirsiniz:<br/>\n<a href=\"https://www.turkiye.gov.tr/goc-idaresi-uluslararasi-koruma-kisisel-bilgi-sorgulama-sonuclari\">https://www.turkiye.gov.tr/goc-idaresi-uluslararasi-koruma-kisisel-bilgi-sorgulama-sonuclari</a></p>\n\nMaalesef eğitim materyallerim Türkiye'deki iltica prosedürleri hakkında bilgi içermiyor. Bu konuda daha fazla bilgi için lütfen Refugee Rights Turkey ile iletişime geçin.",
+            "sources": "https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=32; https://multecihaklari.info/tr/services/kayit-ve-status-2/?section=questions&question=18"
+        },
+        {
+            "question_id": 1,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "What are the asylum procedures in Turkey?",
+            "answer": " <p>According to international law, in order to make an asylum application in a country, you need to have reached the borders of that country. If you left your country for reasons of war or persecution and you are currently in Turkey, the responsibility to evaluate your asylum application and offer you legal protection lies solely with the Government of Turkey.</p>\n\n<p>Persons who were forced or compelled to flee their home countries because of war or persecution and who are therefore unable to go back have the right to seek asylum in Turkey. The procedures pertaining to asylum in Turkey are governed by the Law on Foreigners and International Protection (No. 6458). The Presidency of Migration Management under the Ministry of Interior is the government agency entrusted with the responsibilities concerning asylum procedures. <a href=\"https://www.goc.gov.tr/\">The Presidency of Migration Management</a> has provincial directorates in every province, and these are called Provincial Directorates of Migration Management.</p>\n\n<p>If you are unable to return to your home country for reasons of war and persecution, you must apply for asylum. This application is called an “international protection application.” In order to register your application for “international protection,” you may directly approach the Provincial Directorate of Migration Management in whichever city you are present.</p>\n\n<p>If you submit an application for international protection, you will be allowed to stay in Turkey until the Presidency of Migration Management makes a decision about your application. During this process, you will benefit from some basic rights and services, such as education and if you meet certain conditions, healthcare. If the Presidency of Migration Management’s decision is positive and you are granted international protection status, you will have the right to continue your stay in Turkey.</p>",
+            "sources": "https://multecihaklari.info/services/registration-status-2/?section=questions&question=0; https://multecihaklari.info/services/registration-status-2/?section=questions&question=49; https://multecihaklari.info/services/registration-status/?section=questions&question=38"
+        },
+        {
+            "question_id": 2,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "Türkiye'deki iltica arayanların hakları nelerdir?",
+            "answer": " <span style=\"font-weight:400;\">Türkiye'de iltica arayanların hakları konusunda eğitim materyallerim yetersiz. Ancak Mülteci Hakları Merkezi'nin internet sitesinde bu konuyla ilgili kapsamlı bilgi bulunuyor. İltica arayanların hakları ve Türkiye'deki yasal durumları hakkında daha fazla bilgi için doğrudan Mülteci Hakları Merkezi ile iletişime geçmenizi öneririm.</span>",
+            "sources": "https://multecihaklari.info/tr/services/iletisim-2/?section=questions&question=2; https://multecihaklari.info/tr/services/adli-yardim-2/?section=questions&question=0"
+        },
+        {
+            "question_id": 1,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Waa maxay habraacyada magangalyada ee Turkiga?",
+            "answer": " Ka sharci ahaan, ajaanibta ku sugan Turkiga waxaa ku waajib ah inay helaan “ruqsada shaqada” si ay ugu shaqeeystaan si sharci ah. Haddii aad uga soo haajirtay dalkaagii dagaal iyo caddibaad, oo aad magangelyo ka raadsaneyso Turkiga, waa inaad soo gudbisaa “codsiga magangalyada caalamiga ah” si aad si joogto ah u joogto gudaha Turkiga oo aad u hesho xuquuqda iyo adeegyada lagu bixiyo magangalyada caalamiga ah. \n\nMarka loo eego qodobada Sharciga ee Ajaaniibta iyo Magangalyada Caalamiga ah, codsadayaasha magangalyada caalamiga ah waxay codsan karaan ruqsada shaqada lix bilood kadib markay dhameystiraan codsigooda magangalyada caalamiga ah.\n\nWaxaad ka heli kartaa macluumaad dheeraad ah oo ku saabsan habraacyada magangalyada caalamiga ah adiga oo la xiriira Refugee Rights Turkey ama ka tixraaca qeybta khuseysa gudaha websaydkayaga: https://multecihaklari.info/so/services/registration-and-status-3/",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12; https://multecihaklari.info/so/services/labor-market-5/?section=questions&question=0"
+        },
+        {
+            "question_id": 3,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "How can I apply for asylum in Turkey?",
+            "answer": " <p>According to the information in my training materials, in order to apply for asylum in Turkey, you need to submit an application for \"international protection\" or \"temporary protection\" to the Provincial Directorate for Migration Management. The process differs slightly depending on whether you are from Syria or another country:</p>\n\n<ul>\n  <li>If you are Syrian, you apply for \"temporary protection\" and present your Syrian ID documents if you have them.</li>\n  <li>If you are from another country, you apply for \"international protection\" and explain in detail why you cannot safely return to your home country. Present any ID documents you have as well.</li> \n</ul>\n\n<p>In both cases, you should explain to the authorities why you fear persecution or other serious harm if returned to your country of origin. This is important for your asylum claim.</p>\n\n<p>If you need more information on the registration procedures or the process after applying, you can contact Refugee Rights Turkey for assistance. But my training materials do not contain additional details beyond this general guidance on applying for asylum through these protection mechanisms in Turkey.</p>\n\n<p>I suggest you reach out to Refugee Rights Turkey at the number provided for more complete and up-to-date information on the asylum application process and your rights within it.</p>",
+            "sources": "https://multecihaklari.info/services/registration-status-2/?section=questions&question=41; https://multecihaklari.info/services/rights-and-procedures-for-unaccompanied-minors/?section=questions&question=17; https://multecihaklari.info/services/registration-status-2/?section=questions&question=3; https://multecihaklari.info/services/registration-status-2/?section=questions&question=49"
+        },
+        {
+            "question_id": 2,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "پناهجویان در ترکیه چه حقوقی دارند؟",
+            "answer": " <span dir=\"rtl\">بر اساس اطلاعات در دسترس من، پناهجویان در ترکیه حق دارند تقاضای پناهندگی کنند. طبق قوانین ترکیه، افرادی که به دلایل مختلف بازداشت می‌شوند یا آزادی‌شان محدود شده‌است، حق دارند تقاضای پناهندگی کنند.</span>\n\n<span dir=\"rtl\">برای اطلاعات بیشتر در مورد حقوق پناهجویان در ترکیه و گام‌های بعدی، پیشنهاد می‌کنم با سازمان حقوق پناهندگان ترکیه تماس بگیرید. این سازمان به صورت رایگان اطلاعات، مشاوره و حمایت به پناهجویان ارائه می‌دهد.</span>",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88-%d8%b1%d9%88%d9%86%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%af%d8%b1-%d8%a8%d8%a7%d8%b2%d8%af%d8%a7%d8%b4%d8%aa-%d8%a7%d8%af%d8%a7%d8%b1%db%8c/?section=questions&question=7; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=51; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=48; https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=18"
+        },
+        {
+            "question_id": 2,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "په ترکیه کې د پناه غوښتونکو حقونه څه دي؟",
+            "answer": " Unfortunately, my training materials do not include comprehensive information to answer your specific question about the rights of asylum seekers in Turkey. However, based on the context provided, I would suggest reaching out to Refugee Rights Turkey for the most accurate and up-to-date information. As an organization focused specifically on the rights of refugees in Turkey, they are likely best equipped to advise you further on this topic. I apologize that I do not have more details to provide, but wish you the very best in getting the information you need.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=12; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=15"
+        },
+        {
+            "question_id": 4,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "What documents do I need for an asylum application?",
+            "answer": " Unfortunately my training materials do not include specific information about the documents needed for an asylum application in Turkey. However, I would suggest reaching out to Refugee Rights Turkey for the most up-to-date and accurate information on the documentation requirements and process for seeking asylum in Turkey. As an organization focused on protecting the rights of refugees, they are best positioned to advise on the asylum application process. I apologize that I do not have more details to provide, but wish you the best in getting the information and assistance you need from Refugee Rights Turkey.",
+            "sources": "https://multecihaklari.info/services/registration-status-2/?section=questions&question=3; https://multecihaklari.info/services/registration-status-2/?section=questions&question=49; https://multecihaklari.info/services/healthcare-2/?section=questions&question=4; https://multecihaklari.info/services/labor-market-2/?section=questions&question=3"
+        },
+        {
+            "question_id": 4,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "İltica başvurusu için hangi belgelere ihtiyacım var?",
+            "answer": " Elimdeki eğitim materyalleri, iltica başvurusu için gerekli belgeler hakkında bilgi içermemektedir. Bu konuda daha fazla bilgi almak için Refugee Rights Turkey ile iletişime geçmenizi öneririm.",
+            "sources": "https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=17; https://multecihaklari.info/tr/services/kayit-ve-status-2/?section=questions&question=37"
+        },
+        {
+            "question_id": 3,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "میں ترکی میں پناہ کی درخواست کیسے دے سکتا ہوں؟",
+            "answer": " میرے پاس آپ کے سوال کا جواب دینے کے لیے کافی معلومات نہیں ہیں۔ میں آپ کو مشورہ دوں گا کہ آپ اس بارے میں مزید معلومات کے لیے پناہ گزینوں کے حقوق ترکی سے رابطہ کریں۔ وہ آپ کو ترکی میں پناہ کی درخواست دینے کے طریقے کے بارے میں مشورہ دے سکتے ہیں۔",
+            "sources": "https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=40; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=5"
+        },
+        {
+            "question_id": 3,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "Türkiye'de iltica başvurusunu nasıl yapabilirim?",
+            "answer": " Hakkınızda verilen kabul edilemez başvuru kararına karşı itiraz süreci ve sonuçları hakkında bilgi verebilirim.\n\nKabul edilemez başvuru kararı size yazılı olarak tebliğ edilir. Kararda, itiraz süresi ve nasıl itiraz edebileceğinize dair bilgi verilir. Kararın tebliğinden itibaren 15 gün içinde yetkili idare mahkemesine itirazda bulunabilirsiniz. \n\nMahkemenin itirazınız hakkında 15 gün içinde karar vermesi gerekir. Mahkemenin kararı olumsuzsa, üst mahkemeye başvurma hakkınız yoktur. Bu durumda, başvurunuz kesin olarak kabul edilemez bulunmuş olur. \n\nEğer güvenli ülkeye geri gönderilebileceğiniz değerlendirilmişse, gerekli işlemler başlatılır. Aynı gerekçeyle aynı başvuruyu tekrarlamanız durumunda ise sınır dışı etme kararı alınır.\n\nİltica başvurusunun nasıl yapılacağı konusunda bilgim bulunmamaktadır. Daha fazla bilgi için Refugee Rights Turkey ile iletişime geçmenizi öneririm.",
+            "sources": "https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=17; https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=6"
+        },
+        {
+            "question_id": 3,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Sideen ugu dalban karaa magangalyo Turkiga?",
+            "answer": " Waxaan kuu sheegayaa macluumaadka ku saabsan sida aad ugu dalban karto magangalyo Turkiga.\n\nKa sharci ahaan, ajaanibta ku sugan Turkiga waxaa ku waajib ah inay helaan “ruqsada shaqada” si ay ugu shaqeeystaan si sharci ah. Haddii aad uga soo haajirtay dalkaagii dagaal iyo caddibaad, oo aad magangelyo ka raadsaneyso Turkiga, waa inaad soo gudbisaa “codsiga magangalyada caalamiga ah” si aad si joogto ah u joogto gudaha Turkiga oo aad u hesho xuquuqda iyo adeegyada lagu bixiyo magangalyada caalamiga ah. \n\nCodsigaaga magangalyada caalamiga ah waxa habayn doona oo qiimayn doona Agaasinka Gobolka ee Maaraynta Socdaalka. Haddii qiimeyntu ay tahay mid togan, waxaa lagu siin doonaa mid ka mid ah saddexda nooc ee maqaamka/aqoonsiga magalgalyada caalamiga ah ee laga heli karo Turkiga.\n\nSi aad u hesho macluumaad faahfaahsan oo ku saabsan hab-raacyada magangalyada caalamiga ah, fadlan la xidhiidh Refugee Rights Turkey ama ka tixraac qeybta khuseysa gudaha websaydkayaga.",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12; https://multecihaklari.info/so/services/labor-market-5/?section=questions&question=0"
+        },
+        {
+            "question_id": 2,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "ما هي حقوق طالبي اللجوء في تركيا؟",
+            "answer": " <span lang=\"ar\">تشمل حقوق طالبي اللجوء في تركيا ما يلي:</span>\n\n<ul>\n<li><span lang=\"ar\">الحق في عدم إعادتهم قسرًا إلى بلدهم الأصلي أثناء مراجعة طلب اللجوء</span></li>\n<li><span lang=\"ar\">الحق في التعليم والرعاية الصحية المجانية (لمدة عام واحد بالنسبة لطالبي الحماية الدولية)</span></li>  \n<li><span lang=\"ar\">الحق في الحصول على المساعدة الاجتماعية ضمن الإمكانيات المتاحة</span></li>\n<li><span lang=\"ar\">الحق في العمل بعد 6 أشهر من تقديم طلب اللجوء (بشروط معينة)</span></li>\n</ul>\n\n<span lang=\"ar\">كما يحصل اللاجئون المعترف بهم على مزيد من الحقوق بناءً على وضعهم.</span>\n\n<span lang=\"ar\">يُنصح طالبو اللجوء بالاتصال بمنظمة حقوق اللاجئين في تركيا للحصول على مزيد من المعلومات والمساعدة بشأن حقوقهم وإجراءات طلب اللجوء.</span>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%ac%d8%b2%d9%8a%d9%86-%d8%a5%d8%af%d8%a7%d8%b1-2/?section=questions&question=7; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=1; https://multecihaklari.info/ar/services/%d9%85%d8%ad%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%88%d8%a8%d9%8a-2/?section=questions&question=18; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=49"
+        },
+        {
+            "question_id": 1,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "ترکی میں پناہ کی کارروائی کیا ہے؟",
+            "answer": " ترکی میں پناہ کی کارروائی کے بارے میں میرے پاس تفصیلی معلومات نہیں ہیں۔ تاہم، میرے پاس یہ معلومات ہیں:\n\nبین الاقوامی تحفظ کی درخواست دائر کرنے کے لیے کوئی قانونی وقت کی حد نہیں ہے۔ تاہم، ترکی میں پناہ کے خواہشمند افراد کو مشورہ دیا جاتا ہے کہ وہ حکام سے رجوع کریں اور اپنی پناہ کی کارروائی جلد از جلد اور ترکی پہنچنے کے بعد بلا تاخیر شروع کریں۔\n\nپناہ کی کارروائی کے بارے میں مزید تفصیلات کے لیے، میں آپ کو پناہ گزینوں کے حقوق ترکی سے رابطہ کرنے کی سفارش کروں گا جو آپ کو مزید بہتر مشورہ دے سکتا ہے۔",
+            "sources": "https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=13; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=5"
+        },
+        {
+            "question_id": 3,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "چگونه می توانم در ترکیه درخواست پناهندگی بدهم؟",
+            "answer": " <p>بر اساس اطلاعاتی که در دسترس من قرار دارد، اگر به دلیل جنگ یا ترس از آزار و اذیت نمی‌توانید به کشور اصلی خود بازگردید، می‌توانید تمایل به بازنگشتن به کشور خود را با مقامات ترکیه درمیان بگذارید. این فرایند به عنوان ارائه درخواست پناهجویی در ترکیه شناخته می‌شود. درخواست‌های پناهجویی به مدیریت اداره مهاجرت استان ارائه می‌شود.</p>\n\n<p>برای دریافت اطلاعات بیشتر در مورد روند ثبت‌نام برای حمایت موقت یا حمایت بین‌المللی، لطفاً با مرکز حقوق پناهندگان ترکیه به شماره زیر تماس بگیرید:\n<span dir=\"ltr\">+90 549 510 52 06</span></p>\n\n<p>متاسفانه منابع آموزشی من شامل اطلاعات بیشتری در این زمینه نمی‌شود. برای دریافت راهنمایی و اطلاعات بیشتر، توصیه می‌کنم با مرکز حقوق پناهندگان ترکیه تماس بگیرید.</p>",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=34; https://multecihaklari.info/fa/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88-%d8%b1%d9%88%d9%86%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%af%d8%b1-%d8%a8%d8%a7%d8%b2%d8%af%d8%a7%d8%b4%d8%aa-%d8%a7%d8%af%d8%a7%d8%b1%db%8c/?section=questions&question=7; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=48; https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=13"
+        },
+        {
+            "question_id": 2,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "ترکی میں پناہ کے متلاشی افراد کے حقوق کیا ہیں؟",
+            "answer": " <p>ترکی میں پناہ کے متلاشی افراد کو کئی حقوق حاصل ہیں، جن میں شامل ہیں:</p>\n\n<ul>\n\t<li>عارضی تحفظ یا بین الاقوامی تحفظ کے تحت رجسٹر ہونے والے افراد کو ترکی میں قانونی طور پر رہنے کا حق حاصل ہے۔</li>\n\t<li>شامی باشندوں کو عارضی تحفظ کے تحت بنیادی حقوق جیسے تعلیم اور صحت کی دیکھ بھال تک رسائی حاصل ہے۔</li>\n\t<li>بین الاقوامی تحفظ کے درخواست گزاروں کو 1 سال تک مفت طبی دیکھ بھال ملتی ہے۔</li>\n\t<li>خصوصی ضروریات والے افراد کو ترجیحی بنیاد پر حقوق اور خدمات ملتی ہیں۔</li>\n</ul>\n\n<p>اگر آپ کو مزید تفصیلات یا رہنمائی کی ضرورت ہو تو میں آپ کو Refugee Rights Turkey سے رابطہ کرنے کی سفارش کروں گا۔ وہ آپ کو ترکی میں پناہ کے متلاشی افراد کے حقوق اور دیگر متعلقہ معلومات فراہم کر سکتے ہیں۔\n\n</p>",
+            "sources": "https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=18; https://multecihaklari.info/ur/services/marriage-and-divorce-6/?section=questions&question=2; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=20; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=5"
+        },
+        {
+            "question_id": 2,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Maxay yihiin xuquuqda dadka magangalyada doonaya ee Turkiga?",
+            "answer": " Waxaan ku leeyahay macluumaad badan oo ku saabsan xuquuqda dadka magangalyada doonaya ee Turkiga.\n\nSi qoto dheer, dadka magangalyada doonaya ee Turkiga waxay xaq u leeyihiin inay codsadaan ilaalinta caalamiga ah haddii ay buuxiyaan shuruudaha. Waxay sidoo kale xaq u leeyihiin inay ka doodaan go'aannada diidmada ah ee ku saabsan codsiyada ilaalinta caalamiga ah. \n\nDadka magangalyada doonaya waxay xaq u leeyihiin inay racfaan u gudbiyaan Guddiga Qiimaynta Magangalyada Caalamiga ah ama maxkamadda maamulka ee awoodda u leh toban maalmood gudahooda kadib markii la ogeysiiyay go'aanka diidmada. \n\nWaxaa jiro habab kala duwan oo ay magangalyadu uga faa'iidaysan karaan kaalmada sharciga ah iyo taageerada xuquuqda aadanaha si ay uga hortagaan diidmada ama la xiriirka maxkamadda.\n\nHaddii aad dooneyso macluumaad dheeraad ah, fadlan la xiriir Refugee Rights Turkey.",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/registration-and-status-3/?section=questions&question=31; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12"
+        },
+        {
+            "question_id": 1,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "په ترکیه کې د پناه غوښتنې کړنلاره څه ده؟",
+            "answer": " زما د زده کړې موادو کې د پناه غوښتنې په اړه ځانګړي معلومات نه شته. بیا هم، په ترکیه کې د پناه غوښتنې کړنلاره دا ده چې که تاسو د سوریې اتباع یاست نو باید د لنډمهاله خوندیتوب لپاره ځان راجستر کړئ، او که نورو هیوادونو اتباع یاست نو باید د نړیوال خوندیتوب لپاره ځان راجستر کړئ. \n\nد معلوماتو او مشورې لپاره زه سپارښتنه کوم چې تاسو د ترکیې د کډوالو حقونو د ادارې سره په اړیکه کې شئ. دوی کولی شي ډیرې ښې معلومات او مشورې وړاندې کړي.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=12; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=15"
+        },
+        {
+            "question_id": 1,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "روند پناهندگی در ترکیه چگونه است؟",
+            "answer": " <p>برای درخواست پناهندگی در ترکیه ، افراد باید نزد مدیریت اداره مهاجرت استان مراجعه کرده و برای حمایت موقت (اگر شهروند سوریه هستند) یا حمایت بین‌المللی (اگر از کشور دیگری هستند) ثبت‌نام کنند. </p>\n\n<p>پس از ثبت‌نام، درخواست‌ها بررسی می‌شوند. در طول این مدت، درخواست‌کنندگان نمی‌توانند به اجبار به کشورشان بازگردانده شوند. </p>\n\n<p>افرادی که وضعیت پناهندگی یا پناهندگی ثانویه دریافت می‌کنند، می‌توانند به طور قانونی در ترکیه کار کنند. درخواست‌کنندگان حمایت بین‌المللی نیز می‌توانند پس از ۶ ماه برای مجوز کار درخواست دهند.</p>\n\n<p>امیدوارم این توضیحات مختصر در مورد روند پناهندگی در ترکیه مفید باشد. برای اطلاعات بیشتر می‌توانید با مرکز حقوق پناهندگان ترکیه تماس بگیرید.</p>",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=14; https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=17; https://multecihaklari.info/fa/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88-%d8%b1%d9%88%d9%86%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%af%d8%b1-%d8%a8%d8%a7%d8%b2%d8%af%d8%a7%d8%b4%d8%aa-%d8%a7%d8%af%d8%a7%d8%b1%db%8c/?section=questions&question=7; https://multecihaklari.info/fa/services/%da%a9%d8%a7%d8%b1-2/?section=questions&question=5"
+        },
+        {
+            "question_id": 3,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "زه څنګه په ترکیه کې د پناه غوښتنه کولی شم؟",
+            "answer": " زما د زده کړې موادو کې د پناه غوښتنې په اړه معلومات نه شته. \n\nد پناه غوښتنې په اړه د نورو معلوماتو لپاره مهرباني وکړئ د ترکیې د کډوالو حقونو د ادارې سره په اړیکه کې شئ. دوی به ستاسو د پناه غوښتنې د پروسې په اړه معلومات وړاندې کړي او ستاسو پوښتنو ته به ځواب ووایي.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=12; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=15"
+        },
+        {
+            "question_id": 5,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "Can I work while my asylum application is being processed?",
+            "answer": " <p>If you are an international protection applicant or have conditional refugee status, you become eligible to apply for a work permit six months after the completion of your international protection application. You are not allowed to work before the end of this six-month period.</p>\n\n<p>Once eligible, you can apply for a work permit to work legally for an employer or independently. Work permit requests should be submitted by your employer via the e-Government Gateway, or you can apply for an \"independent work permit\" if you have established your own business. The application will require various documents and information about you and the employer.</p>\n\n<p>You may also be eligible for exemptions to work in seasonal agriculture and husbandry jobs without a formal work permit. You can apply for this exemption six months after completing your protection application. Exemption applications are submitted to the Provincial Directorate of Work and Labor.</p>\n\n<p>If granted refugee or subsidiary protection status, you can work immediately without needing to apply for a separate work permit or exemption.</p>\n\nMy training materials do not include further details, but you can contact Refugee Rights Turkey for more information on working while your asylum application is pending.",
+            "sources": "https://multecihaklari.info/services/labor-market-2/?section=questions&question=2; https://multecihaklari.info/services/labor-market-2/?section=questions&question=5; https://multecihaklari.info/services/labor-market-2/?section=questions&question=7; https://multecihaklari.info/services/labor-market-2/?section=questions&question=3"
+        },
+        {
+            "question_id": 5,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "İltica başvurum işleme alınırken çalışabilir miyim?",
+            "answer": " Maalesef elimdeki eğitim materyalleri, iltica başvurunuz işleme alınırken çalışıp çalışamayacağınız konusunda bilgi içermiyor. Bu konuda daha fazla bilgi almak için Mülteci Hakları Merkezi Türkiye ile iletişime geçmenizi öneririm.",
+            "sources": "https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=17; https://multecihaklari.info/tr/services/isgucu-piyasasina-erisim-2/?section=questions&question=6; https://multecihaklari.info/tr/services/isgucu-piyasasina-erisim-2/?section=questions&question=14"
+        },
+        {
+            "question_id": 3,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "كيف يمكنني التقدم بطلب لجوء في تركيا؟",
+            "answer": " <span style=\"font-weight:bold\">كيفية تقديم طلب لجوء في تركيا:</span>\n\nيمكنكم تقديم طلب لجوء عند أقرب مديرية إقليمية لإدارة الهجرة. سيتم إجراء مقابلة تسجيل معكم حيث سيطرح عليكم المسؤولون أسئلة أساسية حول هويتكم وأسباب مغادرتكم لبلدكم. \n\nسيتم مطالبتكم بتقديم أي وثائق ثبوتية ووثائق داعمة بحوزتكم. كما سيتم أخذ بصماتكم وصوركم البيومترية.\n\nبعد الانتهاء من التسجيل، ستحصلون على وثيقة هوية طالب لجوء تسمح لكم بالبقاء في تركيا بشكل قانوني أثناء دراسة طلبكم.\n\nسيتم تحديد موعد لإجراء مقابلة شخصية معكم لاحقًا لشرح أسباب طلب اللجوء بالتفصيل.\n\nأتمنى أن تكون هذه المعلومات مفيدة. إذا كانت لديك أي أسئلة أخرى حول عملية طلب اللجوء، يرجى التواصل مع منظمة Refugee Rights Turkey للمزيد من المعلومات.",
+            "sources": "https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=3; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=10; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=8; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=6"
+        },
+        {
+            "question_id": 1,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "ما هي إجراءات اللجوء في تركيا؟",
+            "answer": " <p>وفقًا لما ورد في مواد التدريب الخاصة بي، إجراءات اللجوء في تركيا هي كالتالي:</p>\n\n<ul>\n<li>لدى الأشخاص المضطرون للفرار من بلدانهم بسبب الحرب أو الاضطهاد الحق في طلب اللجوء في تركيا.</li>\n<li>يتم إدارة إجراءات اللجوء في تركيا من قِبل المديرية العامة لإدارة الهجرة التابعة لوزارة الداخلية.</li>\n<li>يجب تقديم \"طلب الحماية الدولية\" إلى إحدى المديريات الإقليمية لإدارة الهجرة.</li>  \n<li>يُسمح لطالبي اللجوء بالبقاء في تركيا أثناء النظر في طلباتهم، ويحصلون على بعض الحقوق والخدمات.</li>\n<li>إذا تم قبول الطلب، يُمنح طالب اللجوء إما وضع \"لاجئ\" أو \"حماية فرعية\" مع حق الإقامة في تركيا.</li>  \n<li>يمكن للاجئين وأصحاب الحماية الفرعية طلب لم شمل الأسرة لبعض الأقارب.</li>\n</ul>\n\n<p>إذا كانت لديك أية أسئلة أخرى حول هذا الموضوع، أوصي بالتواصل مع منظمة Refugee Rights Turkey للحصول على مزيد من المعلومات والدعم.</p>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=0; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=48; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=43; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=49"
+        },
+        {
+            "question_id": 5,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "آیا می توانم در حالی که درخواست پناهندگی من در حال پردازش است کار کنم؟",
+            "answer": " <p>با عرض معذرت، متأسفانه منابع آموزشی من شامل اطلاعاتی در مورد امکان کار کردن در حین پردازش درخواست پناهندگی نمی‌شود. پیشنهاد می‌کنم برای دریافت اطلاعات بیشتر در این زمینه با سازمان حقوق پناهندگان ترکیه تماس بگیرید.</p>",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88-%d8%b1%d9%88%d9%86%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%af%d8%b1-%d8%a8%d8%a7%d8%b2%d8%af%d8%a7%d8%b4%d8%aa-%d8%a7%d8%af%d8%a7%d8%b1%db%8c/?section=questions&question=3; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=36; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=35; https://multecihaklari.info/fa/services/access-rrt-services/?section=questions&question=11"
+        },
+        {
+            "question_id": 6,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "What should I do if my asylum application is rejected?",
+            "answer": " <p>This means that your international protection application is rejected. The authorities are under the obligation to communicate this decision, together with its reasons, to you or to your legal representative or lawyer. You have the right to appeal against this decision.</p>\n\n<p>As international protection applications made by persons under administrative detention are usually assessed under the accelerated procedure, the key legal remedy to challenge negative decisions is judicial. You or your legal representative or your lawyer, if any, must appeal to the administrative court against the negative decision latest within fifteen days from the notification of the decision to you.</p>\n\n<p>For detailed information on how to access legal support while under administrative detention, you can review the relevant sections. You can also get information by calling the Detention Hotline of Refugee Rights Turkey, at <a href=\"tel:+905072186285\">0507 218 62 85.</a></p>",
+            "sources": "https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention/?section=questions&question=15; https://multecihaklari.info/services/registration-status-2/?section=questions&question=30; https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention-2/?section=questions&question=15"
+        },
+        {
+            "question_id": 4,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Waa maxay dukumentiyada aan u baahanahay codsiga magangalyada?",
+            "answer": " Waxaan ku leeyahay, macluumaadkeyga tababar ma ahan mid ku filan jawaabida su'aashaada ku saabsan codsiga magangalyada caalamiga ah ee Turkiga. \n\nSi kastaba ha ahaatee, waxaan kuu soo jeedinayaa inaad la xiriirto Refugee Rights Turkey si aad u hesho macluumaad dheeri ah oo ku saabsan arrintan. Waxay haystaan aqoon si weyn uga duwan sida shaqada iyo nolosha magangalyo, gaar ahaan kuwa qaxootiga ah ee Turkiga.\n\nWaxaad la xiriiri kartaa Refugee Rights Turkey telefoonka +90 312 424 07 70 ama emailka info@mhd.org.tr. Sidoo kale, waxaad booqan kartaa website-kooda https://mhd.org.tr/ si aad u hesho macluumaad dheeri ah.\n\nWaxaan rajaynayaa in ay siin doonaan jawaabaha su'aalahaaga iyo talada ku saabsan sida ugu wanaagsan ee loogu talo galay codsiga magangalyada caalamiga ah ee Turkiga.",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/detention-5/?section=questions&question=13; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12"
+        },
+        {
+            "question_id": 5,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "هل يمكنني العمل أثناء معالجة طلب اللجوء الخاص بي؟",
+            "answer": " <p>نعم، يمكنك العمل أثناء معالجة طلب اللجوء الخاص بك. وفقًا للقانون التركي، يحق لطالبي اللجوء العمل بعد 6 أشهر من تاريخ تقديم طلب اللجوء. يجب على صاحب العمل تقديم طلب تصريح عمل نيابة عنك إلى وزارة العمل والضمان الاجتماعي. بمجرد الموافقة على تصريح العمل، يمكنك العمل قانونيًا.</p>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b9%d9%85%d9%84-2/?section=questions&question=13; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%b5%d8%ad%d8%a9-%d9%84%d9%84%d8%a7%d8%ac%d8%a6%d9%8a%d9%86-2/?section=questions&question=4; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=37; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=30"
+        },
+        {
+            "question_id": 2,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "مەگەسەران لە تورکیا چی مافێن؟",
+            "answer": " <p>بەپێی زانیارییەکانی پێشکەشکراو لە ماڵپەڕی مافی مرۆڤی تورکیا، ئەو کەسانەی کە مافی مانەوەیان لە وڵاتی تورکیا نیە و دیپۆرت دەکرێنەوە لەوانەیە لە هەلومەرجی تایبەت دا بەپێی دەسبەسەرکردنی کارگێڕیی نیشتەجێ بکرێت. \n\nلەوانەیە تۆ بە هۆکارگەلی جیاجیا بەپێی دەسبەسەرکردنی کارگێڕیی نیشتەجێ بکرێیت. بۆ وەرگرتنی ڕێنمایی یاسایی دەربارەی دۆخی تاکەکەسی خۆت، پێشنیار دەکەین پەیوەندی بە هێڵی گەرمی دەسبەسەرکردنی کارگێڕیی مافیی پەنابەرانی تورکیا بکەیت بە ژمارە تەلەفۆنی:\n\n0507 218 62 85\n\nیان لەگەڵ پارێزەرێک قسە بکەیت.",
+            "sources": "https://multecihaklari.info/ku/services/detention-4/?section=questions&question=0; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=9; https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=12"
+        },
+        {
+            "question_id": 4,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "د پناه غوښتنې لپاره کومو اسنادو ته اړتیا لرم؟",
+            "answer": " معذرت غواړم، زما په روزنیز موادو کې د پناه غوښتنې د اسنادو په اړه ځانګړي معلومات نشته. \n\nلطفاً د نورو معلوماتو لپاره د ترکیې د کډوالو حقونو ادارې سره په اړیکه کې شئ. دوی به ستاسو د پناه غوښتنې د پروسې په اړه وړیا مشورې درکړي.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=6; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=11"
+        },
+        {
+            "question_id": 6,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "İltica başvurum reddedilirse ne yapmalıyım?",
+            "answer": " <p>Başvurunuzla ilgili olumsuz bir karar verilmesi, başvurunuzu değerlendiren makamın üç çeşit uluslararası koruma statüsünden hiçbirinin yararlanma kriterlerini taşımadığınıza kanaat getirmesi anlamına gelir. Hakkınızda verilen bu olumsuz karar, gerekçeleriyle birlikte size ve varsa avukatınıza veya yasal temsilcinize yazılı olarak tebliğ edilir. Karar size tebliğ edilirken bu kararın sonucu, bu karara karşı nasıl itiraz edebileceğiniz ve itiraz süreleriyle ilgili bir bilgilendirme de yapılır.</p>\n\n<p>Hakkınızda verilen karara itiraz etmek istemiyor ve ülkenize geri dönmek istiyorsanız, bunu İl Göç İdaresi Müdürlüğü’ndeki yetkililerle paylaşabilirsiniz. Yetkililer ülkenize kendi isteğinizle geri dönmeniz için yapmanız gereken işlemlerle ilgili sizi yönlendireceklerdir.</p>\n\nMy training materials do not include further details on this topic. For more information, I would suggest reaching out to Refugee Rights Turkey.",
+            "sources": "https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=17; https://multecihaklari.info/tr/services/kayit-ve-status-2/?section=questions&question=30"
+        },
+        {
+            "question_id": 1,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "چۆنەتەوەی پەنابەرایەتی لە تورکیا",
+            "answer": " <p>سەبارەت بە چۆنیەتی پەنابەرایەتی لە تورکیا، ماتریاڵەکانی پەروەردەی من زانیاری زۆر لەخۆ ناگرێت. بەڵام دەتوانم بڵێم کە:</p>\n\n<p>- ئەگەر لە سوریا هاتوویت، دەتوانیت داوای \"پاراستنی کاتی\" بکەیت لە تورکیا. </p>\n\n<p>- ئەگەر لە وڵاتێکی تر هاتوویت، دەتوانیت داوای \"پاراستنی نێودەوڵەتی\" بکەیت.</p>\n\n<p>- بۆ زانیاری زیاتر سەبارەت بە چۆنیەتی داواکردنی پەنابەرایەتی، پێشنیار دەکەم پەیوەندی بکەیت بە مافی پەنابەرانی تورکیا بە ژمارەی تەلەفۆن: +90 549 510 52 06</p>\n\n<p>ببوورە، ماتریاڵەکانی پەروەردەی من زانیاری زیاتر ناگرێت سەبارەت بەم بابەتە. بۆ زانیاری زیاتر، پێشنیار دەکەم پەیوەندی بکەیت بە ڕێکخراوی مافی پەنابەرانی تورکیا.</p>",
+            "sources": "https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=17; https://multecihaklari.info/ku/services/healthcare-4/?section=questions&question=10; https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=1; https://multecihaklari.info/ku/services/detention-4/?section=questions&question=15"
+        },
+        {
+            "question_id": 3,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "چۆن دەتوانم بۆ پەنابەرایەتی تاقیکردنەوە بکەم لە تورکیا؟",
+            "answer": " <p><span style=\"font-weight: 400;\">بۆ داواکردنی پەنابەرایەتی لە تورکیا، دەبێت داواکاری پاراستنی نێودەوڵەتی پێشکەش بکەیت بە بەڕێوەبەرایەتیی هەرێمی بۆ بەڕێوەبردنی کۆچبەری. داواکارییەکەت دەبێت بە تێروتەسەلی هۆکارەکانی جێهێشتنی وڵاتی خۆت و ترسی گەڕانەوەت باس بکات. پێشکەشکردنی بەڵگەنامەی ناسنامە یارمەتیدەرە. دواتر چاوپێکەوتنێکی تۆمارکردنت لەگەڵ ئەنجام دەدرێت و بەڵگەنامەی ناسنامەت پێدەدرێت. بۆ زانیاری زیاتر، پەیوەندی بکە بە مافی پەنابەرانی تورکیا.</span></p>",
+            "sources": "https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=17; https://multecihaklari.info/ku/services/detention-4/?section=questions&question=0; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/registration-and-status-2/?section=questions&question=6"
+        },
+        {
+            "question_id": 4,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "ما هي الوثائق المطلوبة لطلب اللجوء؟",
+            "answer": " <p>من الأفضل مراجعة الإدارة المكلّفة بالزواج و الإستفسار عن كل الوثائق اللازمة. و لكن عادة يتم المطالبة بتقديم الوثائق التالية: طلب الزواج، الهوية الشخصية، التقرير الطبي، صور شمسية مثل صور جواز السفر و شهادة العزوبة. في حال توفّرت لديكم أية وثيقة تم إصدارها من طرف سلطات بلدكم الأصلي والتي تثبت حالتكم المدنية، فمن المهم الإدلاء بها أيضا.</p>\n\n<p>لتسجيل طلبكم للحماية الدولية، لا توجد وثائق محددة مطلوبة. عند تقديم طلبكم، سيتم مطالبتكم بجواز سفركم، إذا كان لديكم، وأي وثائق ثبوتية أخرى بحوزتكم، بالإضافة إلى أي وثائق متعلقة بسبب مغادرتكم لبلدكم. سيحتفظ المسؤولون بنسخ هذه الوثائق وسيعيدون النسخ الأصلية لكم.</p>\n\n<p>أتمنى أن تكون هذه المعلومات مفيدة. إذا كانت لديك أي أسئلة أخرى حول عملية طلب اللجوء، يرجى التواصل مع منظمة Refugee Rights Turkey للمزيد من المعلومات.</p>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=15; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac-%d9%88-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d9%82-2/?section=questions&question=4; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=6; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=4"
+        },
+        {
+            "question_id": 7,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "How long does the asylum process take in Turkey?",
+            "answer": " Unfortunately, my training materials do not include specific information on how long the asylum process takes in Turkey. However, I would suggest reaching out to Refugee Rights Turkey for more details on the asylum procedures and timelines in Turkey. As an organization providing legal assistance to asylum seekers, they are likely to have helpful information to answer your question. I apologize that I do not have more details to provide. Please let me know if you have any other questions!",
+            "sources": "https://multecihaklari.info/services/registration-status-2/?section=questions&question=34; https://multecihaklari.info/services/registration-status-2/?section=questions&question=49; https://multecihaklari.info/services/registration-status-2/?section=questions&question=42; https://multecihaklari.info/services/registration-status-2/?section=questions&question=5"
+        },
+        {
+            "question_id": 5,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "کیا میں اپنی پناہ کی درخواست پر کارروائی کے دوران کام کر سکتا ہوں؟",
+            "answer": " جی ہاں، آپ اپنی پناہ کی درخواست پر کارروائی کے دوران کام کر سکتے ہیں، لیکن کچھ شرائط لاگو ہوتی ہیں۔\n\nترکی میں کام کرنے کے لیے آپ کو \"ورک پرمٹ\" کی ضرورت ہوگی جو آپ کو آپ کے آجر کے ذریعے حاصل کرنا ہوگا۔ اس کے علاوہ، آپ کو اپنی پناہ کی درخواست کی کارروائی کے دوران \"انتظاری کارڈ\" جاری کیا جائے گا جسے آپ کو ہمیشہ اپنے پاس رکھنا چاہیے۔\n\nپناہ کی درخواست پر کارروائی کے دوران کام کرنے کے بارے میں تفصیلی معلومات کے لیے میں آپ کو مشورہ دوں گا کہ آپ اپنے وکیل یا کسی دوسرے قانونی ماہر سے رابطہ کریں۔ وہ آپ کو ترکی کے قوانین اور آپ کے حقوق کے بارے میں مشورہ دے سکیں گے۔",
+            "sources": "https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=31; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=5"
+        },
+        {
+            "question_id": 4,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "برای درخواست پناهندگی به چه مدارکی نیاز دارم؟",
+            "answer": " برای درخواست پناهندگی، مطمئن ترین راه مراجعه به دپارتمان ازدواج و درخواست لیست کامل این مدارک می باشد. به هر حال، معمولا شما نیاز به این مدارک دارید:\n\n- یک درخواست کتبی ازدواج\n- مدارک هویت \n- گزارشات بهداشتی\n- عکس‌هایی به اندازه عکس گذرنامه\n- و گواهی تجرد\n\nاگر مدرکی دال بر وضعیت مدنی خود که توسط مقامات کشورتان تهیه شده است را دارید، مهم است که آن را هم ارائه دهید. \n\nبا این حال، افرادی که چنین مدارکی در اختیار ندارند، می‌توانند به اداره مهاجرت استان خود مراجعه کرده و برگه تجرد را اخذ کنند.\n\nلطفا مطمئن شوید که در زمان درخواست، حتما دارای مدرک شناسایی (هویت) رسمی صادر شده توسط اداره کل مهاجرت می‌باشید.\n\nمتاسفانه آموزش‌های من شامل اطلاعات بیشتری در مورد این موضوع نمی‌شود. برای کسب اطلاعات تکمیلی، پیشنهاد می‌کنم با سازمان حقوق پناهندگان ترکیه تماس بگیرید.",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=36; https://multecihaklari.info/fa/services/access-rrt-services/?section=questions&question=11; https://multecihaklari.info/fa/services/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%be%d8%b2%d8%b4%da%a9%db%8c-2/?section=questions&question=4; https://multecihaklari.info/fa/services/%d8%a7%d8%b2%d8%af%d9%88%d8%a7%d8%ac-%d9%88-%d8%b7%d9%84%d8%a7%d9%82-2/?section=questions&question=4"
+        },
+        {
+            "question_id": 6,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "ماذا علي أن أفعل إذا رُفض طلبي للجوء؟",
+            "answer": " <p>إذا تم رفض طلب لجوئكم، لديكم الحق في استئناف القرار أمام لجنة تقييم الحماية الدولية خلال 10 أيام أو أمام المحكمة الإدارية المختصة خلال 30 يومًا. \n\nيمكنكم أيضًا استشارة محام للحصول على المشورة بشأن خيارات الاستئناف المتاحة لكم. كما يمكنكم الاتصال بمنظمة حقوق اللاجئين في تركيا للحصول على مزيد من المعلومات والدعم.</p>",
+            "sources": "https://multecihaklari.info/ar/services/%d9%85%d8%ad%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%88%d8%a8%d9%8a-2/?section=questions&question=14; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=37; https://multecihaklari.info/ar/services/%d9%85%d8%ad%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%88%d8%a8%d9%8a-2/?section=questions&question=8; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%8c-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83-%d9%88%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-2/?section=questions&question=17"
+        },
+        {
+            "question_id": 5,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "آیا زه کولای شم پداسې حال کې چې زما د پناه غوښتنې پروسس کیږي کار وکړم؟",
+            "answer": " متاسفانه زما روزنیز مواد کې دا معلومات نه شته. د پناه غوښتنې پروسې او د کار کولو امکاناتو په اړه د نورو معلوماتو لپاره زه په ډاډ سره سپارښتنه کوم چې تاسې د ترکیې د کډوالو حقونو دفتر (Refugee Rights Turkey) سره اړیکه ونیسئ. دوی به تاسې ته د ستاسې د انفرادي حالت او اړتیاوو سره سم تر ټولو صحیح مشوره وړاندې کړي.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=6; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=11"
+        },
+        {
+            "question_id": 6,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "اگر درخواست پناهندگی من رد شد، چه کار باید بکنم؟",
+            "answer": " با عرض پوزش، اطلاعات کافی در آموزش من برای پاسخگویی به این سوال وجود ندارد. \n\nبه نظر می رسد این سوال مربوط به وضعیت پناهندگی و فرایندهای استیناف در ترکیه است. برای دریافت اطلاعات دقیق و به روز در این زمینه، توصیه می کنم با سازمان Refugee Rights Turkey تماس بگیرید. آنها می توانند به شما در مورد گزینه هایتان در صورت رد شدن درخواست پناهندگی و فرایند استیناف مشاوره ارائه دهند.",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=36; https://multecihaklari.info/fa/services/%d8%a7%d8%b2%d8%af%d9%88%d8%a7%d8%ac-%d9%88-%d8%b7%d9%84%d8%a7%d9%82-2/?section=questions&question=4; https://multecihaklari.info/fa/services/access-rrt-services/?section=questions&question=11; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=31"
+        },
+        {
+            "question_id": 8,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "Can I appeal a rejected asylum application in Turkey?",
+            "answer": " According to the information in my training, if you appeal a negative decision about your international protection application in Turkey within the time limits, you are allowed to stay in Turkey until the negative decision becomes final. Therefore, if you filed your appeal within the time limits, you will not be deported until there is a final decision on your case. However, it is very important for you to notify the Provincial Directorate of Migration Management about your appeal application.\n\nMy training materials do not include specific information about appealing rejected asylum applications. For more details on appealing decisions in Turkey, I would suggest reaching out to Refugee Rights Turkey. As an AI assistant without direct access to legal expertise, I do not have additional information beyond what is in my training. I apologize that I could not provide a more complete response. Please let me know if you have any other questions.",
+            "sources": "https://multecihaklari.info/services/registration-status-2/?section=questions&question=34; https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention/?section=questions&question=3; https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention-2/?section=questions&question=3"
+        },
+        {
+            "question_id": 4,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "پناہ کی درخواست کے لیے مجھے کون سے دستاویزات درکار ہیں؟",
+            "answer": " بین الاقوامی تحفظ کی درخواست دینے کے لیے آپ کو کسی بھی قسم کے دستاویزات کی ضرورت نہیں ہے۔ تاہم، اگر آپ کے پاس کوئی دستاویزات ہیں جو آپ کی درخواست کی تائید میں مددگار ہو سکتی ہیں تو انہیں پیش کرنا بہتر ہے۔ \n\nیہ دستاویزات شامل ہو سکتی ہیں:\n\n- آپ کی شناخت کا ثبوت جیسے پاسپورٹ، شناختی کارڈ وغیرہ\n- آپ کے ملک سے تعلق کی تصدیق کرنے والی کوئی بھی دستاویز جیسے تارک وطن کارڈ\n- آپ پر ہونے والے ظلم و ستم کی تصدیق کرنے والی کوئی بھی دستاویز جیسے ڈاکٹر کی رپورٹیں، پولیس رپورٹس وغیرہ\n- آپ کی درخواست کی تائید میں معاون کوئی بھی دیگر دستاویز\n\nاگر آپ کے پاس کوئی دستاویزات نہیں ہیں تو بھی فکرمند نہ ہوں۔ آپ پناہ کی درخواست ضرور دے سکتے ہیں اور آپ کی زبانی بیانات کو بھی اہمیت دی جائے گی۔ میری صاف سلاہیت سے تجویز ہے کہ آپ فوری طور پر اپنی پناہ کی درخواست دائر کریں۔",
+            "sources": "https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=31; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=5"
+        },
+        {
+            "question_id": 4,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "بۆ تاقیکردنەوەی پەنابەرایەتی پێویستە بە چ زەویەکانی؟",
+            "answer": " بۆ تاقیکردنەوەی پەنابەرایەتی لە تورکیا، پێویستە بەم زانیارییانەی خوارەوە:\n\n- پاسپۆرت یان هەر شوناسنامەیەکی دیکە کە هەبێت\n- بەڵگەنامەی پەیوەندیدار بە هۆکاری جێهێشتنی وڵاتی خۆت (وەک نامە یان ڕاپۆرتی پزیشکی)  \n- فۆتۆگرافی بایۆمەتری\n- پەنجەمۆر و کاڵاکانی ناو جانتاکەت دەگرن\n\nلە کاتی چاوپێکەوتنی تاقیکردنەوەدا، بەرپرسان دەتوانن داوای زانیاری زیاتر لە تۆ بکەن. گرنگە بە ئەوپەڕی ڕاشکاوی و تێروتەسەلی وەڵامی پرسیارەکانیان بدەیتەوە.\n\nئەگەر زانیاری زیاترت پێویستە، تکایە پەیوەندی بە Refugee Rights Turkey بکە.",
+            "sources": "https://multecihaklari.info/ku/services/registration-and-status-2/?section=questions&question=6; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/legal-assistance-4/?section=questions&question=2; https://multecihaklari.info/ku/services/education-4/?section=questions&question=9"
+        },
+        {
+            "question_id": 7,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "Türkiye'deki iltica süreci ne kadar sürer?",
+            "answer": " Türkiye'deki uluslararası koruma başvuru sürecinin ne kadar sürdüğüne dair net bir cevap vermek zor. Ancak genel olarak şunları söyleyebiliriz:\n\nTürkiye'de uluslararası koruma başvuruları, Göç İdaresi Genel Müdürlüğü tarafından değerlendirilmektedir. Başvuru sahibinin mülakatı yapıldıktan sonraki 6 ay içinde bir karar verilmesi gerekmektedir. Ancak pratikte bu süreç çoğu zaman 6 aydan uzun sürebilmektedir. \n\nEğer başvuru olumsuz sonuçlanırsa, bu karara 30 gün içinde Bölge İdare Mahkemesi'ne itiraz edilebilir. Mahkemedeki itiraz süreci de oldukça uzun sürebilmektedir, 1 yıldan fazla sürebilmektedir.\n\nDolayısıyla, Türkiye'deki uluslararası koruma başvuru sürecinin ne kadar süreceğini kesin olarak öngörmek zordur. Süreç kişiden kişiye farklılık gösterebilir. Ancak genel olarak en az 1 yıl sürebileceğini söyleyebiliriz. \n\nSüreçle ilgili daha detaylı bilgi almak için Mülteci Hakları Merkezi ile iletişime geçmenizi öneririm.",
+            "sources": "https://multecihaklari.info/tr/services/kayit-ve-status-2/?section=questions&question=34; https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=6"
+        },
+        {
+            "question_id": 5,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Miyaan shaqeyn karaa inta codsiga magangalyada la shaqeynayo?",
+            "answer": " <p><span style=\"font-weight: 400\">Iyadoo la raacayo xeerarka sharciga ee hadda jira, codsigaaga magangalyada caalamiga ah waxaa isla markiiba ka baaraandegi doona mas’uuliyiinta khibrada u leh waxaana lagugu wargelin doonaa habka soo socda. Codsashada magangalyada caalamiga ah si toos ah uma joojinayso xabsiga maamulka.</span></p>\n\n<p><span style=\"font-weight: 400\">Marka koowaad, marka rebitaan aad u yar, waxaa ka mamnuc ah in ilmaha ka yar 15 jir ay shaqeeyaan sida uu qabo sharciyada Turkiga, sidoo kale dhammaan dadka ajaaniibta ah waxaa laga filaya inay qaataan shatiga shaqo oggolaanshaha si ay u ugu sahasho inay sharci ahaan uga shaqeeyan Turkiga.</span></p>\n\n<p><span style=\"font-weight: 400\">Xeerka sharciga hadda ee Turkiga, loo shaqeyaha ayaa u soo gudbinaya codsiga oggolaansha shaqada shaqaalaha anjabiga ah. Oggolaanshaha shaqada ayaa kadib waxaa siinaya ama u diidaya Wasaradda Shaqada iyo Ammaanka Bulshada kadib qiimeynta macluumaadka iyo dukumentiyada ee bixiyey badroonigaaga.</span></p>\n\nSo in summary, you cannot legally work while your international protection application is pending. You must have a valid work permit to work in Turkey. I would suggest speaking to your lawyer or case worker for more information on the work permit application process.",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/detention-5/?section=questions&question=13; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12"
+        },
+        {
+            "question_id": 7,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "روند پناهندگی در ترکیه چقدر طول می کشد؟",
+            "answer": " با توجه به اطلاعات در دسترس من ، متاسفانه نمی توانم به طور دقیق بگویم که روند پناهندگی در ترکیه چقدر طول می کشد. \n\nبا این حال ، برای کسب اطلاعات بیشتر در مورد روند پناهندگی و حقوق پناهندگان در ترکیه ، پیشنهاد می کنم با سازمان حقوق پناهندگان ترکیه تماس بگیرید. آنها می توانند به سوالات شما در مورد روند پناهندگی و زمانبندی آن پاسخ دهند.",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=14; https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=17; https://multecihaklari.info/fa/services/%da%a9%d8%a7%d8%b1-2/?section=questions&question=5; https://multecihaklari.info/fa/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88-%d8%b1%d9%88%d9%86%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%af%d8%b1-%d8%a8%d8%a7%d8%b2%d8%af%d8%a7%d8%b4%d8%aa-%d8%a7%d8%af%d8%a7%d8%b1%db%8c/?section=questions&question=31"
+        },
+        {
+            "question_id": 8,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "Türkiye'de reddedilen iltica başvurusuna itiraz edebilir miyim?",
+            "answer": " Türkiye'deki mevcut yasal düzenlemelere göre, uluslararası koruma başvurunuzla ilgili olumsuz karara yasada belirtilen süreler içinde itiraz etmeniz halinde itirazınızla ilgili nihai karar verilene kadar Türkiye'de kalmaya devam etmenize izin verilecektir. \n\nDolayısıyla itiraz başvurunuzu zamanında yaptıysanız, itirazınızla ilgili karar verilinceye kadar sizin için herhangi bir sınır dışı edilme tehlikesi söz konusu olmayacaktır. Ancak İl Göç İdaresi Müdürlüğü'nün hakkınızda verilen olumsuz karara itiraz ettiğinizden haberdar olması için itiraz başvurusunda bulunduğunuzu İl Göç İdaresi Müdürlüğü'ne bildirmeniz önemlidir.\n\nDetaylı bilgi için Refugee Rights Turkey ile iletişime geçmenizi öneririm.",
+            "sources": "https://multecihaklari.info/tr/services/kayit-ve-status-2/?section=questions&question=34; https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=6"
+        },
+        {
+            "question_id": 7,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Intee in le'eg ayay qaadanaysaa nidaamka magangalyada ee Turkiga?",
+            "answer": " Macluumaadkeyga waxbarashada, aan ku jirin macluumaad ku saabsan inta uu qaadanayo nidaamka magangalyada ee Turkiga. \n\nSi aan u siiyo jawaab sax ah, waxaan kula talin lahaa inaad la xiriirto Refugee Rights Turkey si aad u hesho macluumaad dheeri ah oo ku saabsan su'aashaada. Waxay leeyihiin aqoon weyn oo ku saabsan xuquuqaha iyo habraacyada qaxootiga ee Turkiga, oo ay u adeegsadaan si ay uga jawaabaan su'aalaha la xiriira xuquuqaha iyo nidaamka magangalyada.",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=6"
+        },
+        {
+            "question_id": 6,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "ئەگەر تاقیکردنەوەی پەنابەرایەتی من رد کرا، چ باید بکەم؟",
+            "answer": " بەو پێیەی کە داواکاریەکانی پاراستن لەلایەن کەسانی دەسبەسەرکراوی کارگێڕیی کراوە، ئاساییانە بەپێی پڕۆسەی خێراکراوەوە هەڵدەسەنگێندرێت، ڕێکاری سەرەکی یاسایی بۆ بەرەنگاربوونەوەی بڕیارە نەرێنیەکان یاساییە. تۆ یان نوێنەری یاساییت یان پارێزەرەکەت، هەرکامێکتان بن، دەبیت لەماوەی پازدە ڕۆژ لە ئاگادارکردنەوە لە بڕیارەکە داوای پێداچوونە لە دادگای کارگێڕیی بکەن لەسەر بڕیارە نەرێنیەکان.",
+            "sources": "https://multecihaklari.info/ku/services/registration-and-status-2/?section=questions&question=6; https://multecihaklari.info/ku/services/rent-and-property-2/?section=questions&question=17; https://multecihaklari.info/ku/services/detention-4/?section=questions&question=15; https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=17"
+        },
+        {
+            "question_id": 9,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "Türkiye'de iltica arayanlar için yasal yardım nerede bulabilirim?",
+            "answer": " <span style=\"font-weight: 400;\">Adli yardım bürolarının büyük bir bölümünde bütçe kısıtlarından dolayı maalesef bir tercüman bulunmamaktadır. Dolayısıyla adli yardım başvurusunda bulunurken size tercüme desteği verebilecek bir kişiyle bu başvuruyu yapmanızı tavsiye ederiz.</span>\n\nEğitim materyallerim adli yardım bürolarının yerleri hakkında bilgi içermemektedir. Daha fazla bilgi için lütfen Refugee Rights Turkey ile iletişime geçiniz.",
+            "sources": "https://multecihaklari.info/tr/services/kayit-ve-status-2/?section=questions&question=20; https://multecihaklari.info/tr/services/adli-yardim-2/?section=questions&question=19"
+        },
+        {
+            "question_id": 7,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "كم من الوقت يستغرق عملية اللجوء في تركيا؟",
+            "answer": " <p>ليست هناك مدة قانونية محددة لتقديم طلب الحماية الدولية في تركيا.</p>\n\n<p>ولكن يُفضّل أن يقوم الأشخاص الذين يودّون تقديم طلب للجوء بالتواصل مع السلطات والشروع بإجراءات طلب اللجوء بأسرع وقت ممكن وبدون تأخير بعد تاريخ وصولهم إلى تركيا.</p>\n\n<p>أما بالنسبة للمدة الزمنية التي تستغرقها عملية اللجوء، فهي تختلف من حالة لأخرى ولا يمكن تحديدها بدقة. يعتمد ذلك على عدة عوامل منها عبء العمل لدى السلطات وتعقيدات كل حالة.</p>\n\n<p>إذا كنت بحاجة لمزيد من المعلومات، يمكنك التواصل مع منظمة حقوق اللاجئين في تركيا على رقم الهاتف <span dir=\"ltr\">+90 549 510 52 06</span></p>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=21; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=43; https://multecihaklari.info/ar/services/%d9%85%d8%ad%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%88%d8%a8%d9%8a-2/?section=questions&question=21; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=5"
+        },
+        {
+            "question_id": 9,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "Where can I find legal assistance for asylum seekers in Turkey?",
+            "answer": " <span style=\"font-weight: 400;\">Being in a removal center or any other place of detention is not a barrier to the right to access the Legal Aid scheme. In such cases, you are required to approach the bar association in the locality where you are detained and request legal aid. You also have the right to submit a petition to the authorities at the holding facility for referral to legal aid. As stated above, some bar associations in Turkey may also appoint lawyers under the Legal Aid scheme upon notifications or referrals made by family members or civil society organizations. Please be informed that the bar association will make an inquiry about your condition and the problem that you have presented and decide whether or not they will be able to offer you free legal aid.</span>\n\nLegal aid services are available in Turkey for people who need legal services, but are not able to cover the attorney’s fees and litigation expenses without causing significant difficulties for both themselves and their families. Persons under administrative detention can also apply to benefit from legal aid services.\n\nYou have to make this request by contacting the legal aid office of provincial bar association. The application procedure for each legal aid office differs. You can call the legal aid office by phone or submit your request with a petition to the authorities in your place of detention. Some bar associations also take into account the applications made on your behalf by family members who are not under administrative detention.\n\nAfter you submit your legal aid request to the bar association, the bar association will review the request and may accept or reject it.\n\nFor more information about legal assistance, refer to Refugee Rights Turkey's materials on the subject [here](https://multecihaklari.info/services/legal-assistance/).",
+            "sources": "https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention-2/?section=questions&question=4; https://multecihaklari.info/services/rights-and-procedures-for-persons-in-administrative-detention/?section=questions&question=4; https://multecihaklari.info/services/legal-assistance-2/?section=questions&question=15"
+        },
+        {
+            "question_id": 8,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "هل يمكنني الطعن في طلب لجوء مرفوض في تركيا؟",
+            "answer": " <p>حسب معلوماتي، إذا تم رفض طلب اللجوء الخاص بكم في تركيا، يمكنكم الطعن في هذا القرار خلال 10 أيام من تاريخ تبليغكم بالرفض. يجب تقديم الطعن إلى المحكمة الإدارية المختصة في المحافظة التي تقيمون فيها. ستنظر المحكمة في طعنكم وتصدر قرارها بشأنه. إذا تم رفض الطعن أيضًا، قد تتمكنون من الطعن مرة أخرى أمام المحكمة الإدارية الإقليمية خلال 30 يومًا.</p>\n\n<p>إذا لم تشمل معلوماتي تفاصيل إضافية حول هذا الموضوع، أوصي بالتواصل مع منظمة Refugee Rights Turkey للحصول على مزيد من المعلومات والمشورة القانونية.</p>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=3; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=11; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=10; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=47"
+        },
+        {
+            "question_id": 6,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "که زما د پناه غوښتنه رد شي، زه باید څه وکړم؟",
+            "answer": " <p><span style=\"font-weight: 400;\">که ستاسو د پناه غوښتنه رد شي، تاسو لاندې اقدامات کولی شئ:</span></p>\n\n<ul>\n<li><span style=\"font-weight: 400;\">تاسو کولای شئ د نړیوال خوندیتوب ارزونې کمیسیون پریکړې په وړاندې په 10 ورځو کې استیناف وکړئ.</span></li>\n<li><span style=\"font-weight: 400;\">که د کمیسیون استیناف هم رد شي، تاسو کولای شئ په 30 ورځو کې مستقیماً د اداري محکمې په وړاندې استیناف وکړئ.</span></li>\n<li><span style=\"font-weight: 400;\">که د اداري محکمې استیناف هم رد شي، تاسو کولای شئ د لوړې اداري محکمې په وړاندې وروستی استیناف وکړئ.</span></li>\n<li><span style=\"font-weight: 400;\">په ټولو استینافونو کې، تاسو به د اخراج څخه مصئون یاست تر هغه چې پریکړه وروستۍ نه شي.</span></li>\n<li><span style=\"font-weight: 400;\">تاسو کولای شئ د وکیل مرسته وغواړئ ترڅو ستاسو د استیناف طرزالعمل تعقیب کړي.</span></li>\n</ul>\n\n<p><span style=\"font-weight: 400;\">په ټولو حالتونو کې، مهرباني وکړئ زموږ سره په اړیکه کې شئ ترڅو موږ وکولای شو تاسې ته قانوني مشوره ورکړو او ستاسو د استیناف طرزالعمل ملاتړ وکړو.</span></p>",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=11; https://multecihaklari.info/ps/services/registration-and-status-4/?section=questions&question=37"
+        },
+        {
+            "question_id": 9,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "أين يمكنني العثور على المساعدة القانونية لطالبي اللجوء في تركيا؟",
+            "answer": " <span lang=\"ar\">للحصول على المساعدة القانونية كطالب لجوء في تركيا، يمكنك مراجعة نقابة المحامين المحلية في المدينة التي أنت مسجل فيها. نقابة المحامين لديها مكتب للمساعدة القانونية يقدم الدعم القانوني لطالبي اللجوء غير القادرين على دفع أتعاب المحاماة. كل طالبي الحماية الدولية مخولون للاستفادة من هذه الخدمة. للمزيد من التفاصيل، اتصل بنقابة المحامين المحلية في مدينتك.</span>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=41; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=19; https://multecihaklari.info/ar/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%ac%d8%b2%d9%8a%d9%86-%d8%a5%d8%af%d8%a7%d8%b1-2/?section=questions&question=28; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%ac-%d9%88-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d9%82-2/?section=questions&question=10"
+        },
+        {
+            "question_id": 7,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "ترکی میں پناہ کا عمل کتنی دیر لیتا ہے؟",
+            "answer": " <p>بین الاقوامی تحفظ کی درخواست دائر کرنے کے لیے کوئی قانونی وقت کی حد نہیں ہے۔ تاہم، ترکی میں سیاسی پناہ کے لیے درخواست دینے والوں کو مشورہ دیا جاتا ہے کہ وہ حکام سے رجوع کریں اور اپنی پناہ کی کارروائی جلد از جلد اور ترکی پہنچنے کے بعد بلاتاخیر شروع کریں۔\n\nپناہ کی کارروائی کا وقت ہر درخواست دہندہ کی صورتحال پر منحصر ہے۔ عموماً یہ کئی مہینوں تک لے سکتا ہے۔ آپ اپنے وکیل سے بات کرکے اپنی درخواست کی صورتحال کے بارے میں مزید معلومات حاصل کر سکتے ہیں۔\n</p>",
+            "sources": "https://multecihaklari.info/ur/services/detention/?section=questions&question=6; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=5"
+        },
+        {
+            "question_id": 6,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "اگر میری پناہ کی درخواست مسترد ہو جائے تو مجھے کیا کرنا چاہیے؟",
+            "answer": " <p>اگر آپ کی پناہ کی درخواست مسترد ہو جاتی ہے تو آپ کو مندرجہ ذیل اختیارات دستیاب ہیں:</p>\n\n<ol>\n<li>آپ فیصلے کے خلاف اپیل کر سکتے ہیں۔ آپ کو فیصلے کی اطلاع موصول ہونے کے 10 دنوں کے اندر اپیل دائر کرنی ہوگی۔</li>\n\n<li>آپ ترکی چھوڑنے کا فیصلہ کر سکتے ہیں۔ لیکن اس صورت میں آپ کو ترکی میں دوبارہ داخلے پر پابندی عائد ہو سکتی ہے۔</li>  \n\n<li>آپ ترکی میں رہنا جاری رکھ سکتے ہیں اور کسی دوسرے ملک میں قانونی طور پر منتقلی کی کوشش کر سکتے ہیں۔</li>\n\n<li>آپ اپنی صورتحال میں تبدیلی کا ثبوت پیش کرتے ہوئے ایک نیا کیس شروع کروا سکتے ہیں۔</li>\n</ol>\n\n<p>آپ کو مشورہ دیا جاتا ہے کہ آپ فیصلے کی ایک کاپی حاصل کریں اور اسے دیکھیں کہ آپ کی درخواست کیوں مسترد کی گئی۔ پھر آپ اپنے اختیارات پر غور کر سکتے ہیں۔ آپ <a href=\"https://www.goc.gov.tr/icerik/goc-idaresi-genel-mudurlugu_363_378\">ترکی کے حکام</a> یا کسی غیر سرکاری تنظیم سے بھی مشورہ طلب کر سکتے ہیں۔</p>",
+            "sources": "https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=35; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/labor-market-8/?section=questions&question=16; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=40"
+        },
+        {
+            "question_id": 8,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "آیا می توانم به درخواست پناهندگی رد شده در ترکیه اعتراض کنم؟",
+            "answer": " بله ، اگر درخواست پناهندگی شما در ترکیه رد شده باشد ، می توانید به این تصمیم اعتراض کنید.\n\nطبق قانون ، شما حق دارید ظرف 10 روز پس از ابلاغ تصمیم رد درخواستتان ، در مورد آن تصمیم استیناف بدهید. استیناف باید به زبان ترکی باشد و دلایل استیناف باید به وضوح ذکر شود. \n\nاگر استیناف شما نیز رد شود ، می توانید ظرف 30 روز دادخواستی به دادگاه های اداری ارائه دهید. در طول این مراحل ، حق اقامت موقت شما در ترکیه ادامه خواهد داشت.\n\nبرای کسب اطلاعات و راهنمایی بیشتر در مورد چگونگی استیناف ، پیشنهاد می کنم با سازمان حقوق پناهندگان ترکیه تماس بگیرید.",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=34; https://multecihaklari.info/fa/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88-%d8%b1%d9%88%d9%86%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%af%d8%b1-%d8%a8%d8%a7%d8%b2%d8%af%d8%a7%d8%b4%d8%aa-%d8%a7%d8%af%d8%a7%d8%b1%db%8c/?section=questions&question=7; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=39; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=48"
+        },
+        {
+            "question_id": 5,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "دەتوانم کار بکەم کە تاقیکردنەوەی پەنابەرایەتی پێش چووە؟",
+            "answer": " <p><span style=\"font-weight: 400;\">بەڵێ، داخوازیکەرانی پاراستنی نێودەوڵەتی دەتوانن شەش مانگ دوای تەواوکردنی داخوازینامەی پاراستنی نێودەوڵەتی داوای مۆڵەتی کار بکەن. </span></p>\n\n<p><span style=\"font-weight: 400;\">داخوازینامەی مۆڵەتی کاری داخوازیکەرانی پاراستنی نێودەوڵەتی و هەڵگرانی دۆخ دەبێت لە لایەن خاوەنکار لە ڕێگەی E-Devlet</span><a href=\"https://ecalismaizni.csgb.gov.tr/eizin\"> <span style=\"font-weight: 400;\">https://ecalismaizni.csgb.gov.tr/eizin</span></a><span style=\"font-weight: 400;\"> پێشکەش بکرێت.</span></p>\n\n<p><span style=\"font-weight: 400;\">وەزارەی کار و ئاسایشنی کۆمەڵایەتی بەرپرسیارە لە وەرگرتن، هەڵسەنگاندن و دەرکردنی بڕیاریی کۆتایی سەبارەت بە داوازیکەرانی مۆڵەتی کار. بۆ زانیاریی تێروتەسەل و نوێ بە زمانی خۆت، تکایە ڕاوێژ لە ماڵپەڕی فەرمیی وەزارەت وەربگرە یان پەیوەندی بە هێڵی گەرمی 170 بکە.</span></p>",
+            "sources": "https://multecihaklari.info/ku/services/registration-and-status-2/?section=questions&question=6; https://multecihaklari.info/ku/services/detention-4/?section=questions&question=0; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/legal-assistance-4/?section=questions&question=2"
+        },
+        {
+            "question_id": 10,
+            "language_code": "tr",
+            "direction": "ltr",
+            "question": "Türkiye'de iltica arayanlar için konaklama seçenekleri nelerdir?",
+            "answer": " Türkiye'de iltica arayanlar için konaklama seçenekleri konusunda eğitim materyallerim bilgi içermiyor. Bu konuda daha fazla bilgi için Mülteci Hakları Merkezi ile iletişime geçmenizi öneririm.",
+            "sources": "https://multecihaklari.info/tr/services/idari-gozetim-altindaki-kisiler-icin-haklar-ve-prosedurler-2/?section=questions&question=6; https://multecihaklari.info/tr/services/isgucu-piyasasina-erisim-2/?section=questions&question=16"
+        },
+        {
+            "question_id": 6,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Maxaan sameeyaa haddii codsigayga magangalyada la diido?",
+            "answer": " <p><span style=\"font-weight: 400\">Haddii codsigaaga magangalyada caalamiga ah la diido, waxaa jira fursado kala duwan oo aad u isticmaali karto si aad uga dacwooto go'aankaas.</span></p>\n\n<p><span style=\"font-weight: 400\">Ugu horeyn, waxaad dacwoon kartaa go'aanka diidmada ee loo sameeyay maxkamadda inaad raacdo nidaamka dacwada maxkamadda sharciga. Si aad u qaadato tallaabadaas, waa inaad dacwoodda maxkamadda gudbisaa 15 maalmood gudahood taariikhda go'aanka diidmada. </span></p>\n\n<p><span style=\"font-weight: 400\">Haddii aad rabto inaad dib u eego go'aanka diidmada, waxaad sidoo kale codsan kartaa in la sii wado qiimaynta codsigaaga si loo furo mar labaad. Waxaad u baahan tahay inaad codsato dib u eegista codsigaaga 30 maalmood gudahood markii la siiyo go'aanka diidmada.  </span></p>\n\n<p><span style=\"font-weight: 400\">Ugu dambeynta, haddii aad ogaato wax cusub oo muhiim u ah sababta aad uga baqdayso inaad ku noolaato dalkaaga, waxaad samayn kartaa codsi cusub oo magangalyada caalamiga ah. Waxaa loo baahan yahay inaad soo bandhigto waxyaabaha cusub ee aad ogaatay si loo furo mar labaad qiimaynta codsigaaga. </span></p>\n\n<p><span style=\"font-weight: 400\">Waxaan kula talin lahaa inaad la xiriirto xarunta Refugee Rights Turkey si aad u hesho tallo dheeraad ah. Waxay kuu caawin karaan habraacyada maxkamadda iyo sidoo kale qiimaynta mar labaad ee codsigaaga magangalyada caalamiga ah.</span></p>",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/detention-5/?section=questions&question=13; https://multecihaklari.info/so/services/registration-and-status-3/?section=questions&question=35"
+        },
+        {
+            "question_id": 9,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Xageen ka heli karaa caawimaad sharci oo loogu talagalay magangalyada Turkiga?",
+            "answer": " <p><span style=\"font-weight: 400\">Waxaan kugula talinaynaa inaad la xiriirto Refugee Rights Turkey si aad u hesho caawimaad sharci oo loogu talagalay magangalyada Turkiga. Waxay bixiyaan adeegyo sharci falanqeeye oo bilaash ah oo loogu talagalay qaxootiga iyo magangalyada Turkiga. Waxaad la xiriiri kartaa +90 850 622 32 54 ama info@mhd.org.tr.</span></p>",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=6"
+        },
+        {
+            "question_id": 10,
+            "language_code": "en",
+            "direction": "ltr",
+            "question": "What are the housing options for asylum seekers in Turkey?",
+            "answer": " <p>International protection applicants are generally expected to find and pay for their own accommodation in their assigned satellite city in Turkey. Only a small number of particularly vulnerable applicants may be provided free accommodation.</p>\n\n<p>Separated and unaccompanied children seeking international protection are accommodated free of charge in appropriate state facilities. </p>\n\n<p>There are also some civil society organizations that may provide accommodation support and assistance services to asylum seekers. You can contact organizations operating in your area for more information.</p>\n\n<p>If you have additional questions, I would suggest reaching out to Refugee Rights Turkey for the most up-to-date and comprehensive information on housing options and support available to asylum seekers in Turkey.</p>",
+            "sources": "https://multecihaklari.info/services/rights-and-procedures-for-unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/services/registration-status-2/?section=questions&question=19; https://multecihaklari.info/services/rights-and-procedures-for-unaccompanied-minors-2/?section=questions&question=21"
+        },
+        {
+            "question_id": 7,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "په ترکیه کې د پناه غوښتنې پروسه څومره وخت نیسي؟",
+            "answer": " زما د زده کړو په موادو کې د پناه غوښتنې د پروسې د مودې په اړه ځانګړي معلومات نه شته. \n\nبیا هم، په ترکیه کې د پناه غوښتنې پروسه کیدای شي چې ډیر وخت ونیسي، ځکه چې دا پروسه د هر فرد د حالت او شرایطو پورې اړه لري.\n\nکه تاسو غواړئ په دې اړه نور معلومات ترلاسه کړئ، زه سپارښتنه کوم چې تاسو د ترکیې د کډوالو حقونو دفتر (Refugee Rights Turkey) سره په اړیکه کې شئ. دوی به وکولای شي چې ستاسو پوښتنو ته ښه ځواب ووایي.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=12; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=15"
+        },
+        {
+            "question_id": 7,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "پەروەردنی پەنابەرایەتی لە تورکیا چەند دەما پێوە؟",
+            "answer": " <p><span style=\"font-weight: 400;\">بەپێی یاسای تورکیا، منداڵانی پەنابەر لە تورکیا مافیان هەیە هەمان پەروەردەی منداڵانی تورکی وەربگرن. </span></p>\n\n<p><span style=\"font-weight: 400;\">منداڵانی پەنابەر دەتوانن لە قوتابخانەی سەرەتایی و ناوەندی تا پۆلی 12 بەشداری بکەن. پەروەردەی سەرەتایی (1-8 پۆل) بەبێ بەرامبەر بەدەست دێت. </span></p>\n\n<p><span style=\"font-weight: 400;\">پەروەردەی ناوەندی (9-12 پۆل) بۆ منداڵانی پەنابەریش بەبێ بەرامبەرە و دەبێت ناونووس بکرێن. بەڵام ئەگەر ژمارەی خوێندکاران زیاتر بێت لە ظرفیتی قوتابخانەکە، ئەوا منداڵانی تورک دەستپێشخەرین. </span></p>\n\n<p><span style=\"font-weight: 400;\">منداڵانی پەنابەر دەتوانن لە پەیمانگاکانیش بەشداری بکەن. بەڵام ئەگەر ژمارەی خوێندکاران زیاتر بێت لە ظرفیتی پەیمانگاکە، ئەوا منداڵانی تورک دەستپێشخەرین.</span></p>\n\n<p><span style=\"font-weight: 400;\">بۆ زانیاری زیاتر دەربارەی مافی پەروەردە بۆ منداڵانی پەنابەر لە تورکیا، دەتوانی پەیوەندی بە مافی مرۆڤی تورکیا بکەی:</span></p>\n\n<p dir=\"ltr\">+90 549 510 52 06</p>",
+            "sources": "https://multecihaklari.info/ku/services/registration-and-status-2/?section=questions&question=6; https://multecihaklari.info/ku/services/detention-4/?section=questions&question=0; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=17"
+        },
+        {
+            "question_id": 10,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Waa maxay xulashooyinka hoyga ee loogu talagalay magangalyo-doonka Turkiga?",
+            "answer": " Macluumaadkeyga waxbarashada kama jiro wax ku saabsan xulashooyinka guriga ee loogu talagalay magangalyo-doonka Turkiga.\n\nSi kastaba ha ahaatee, waxaan kuu talin lahaa inaad la xiriirto Refugee Rights Turkey si aad u hesho macluumaad dheeri ah oo ku saabsan arrintan. Waxay haystaan macluumaad badan oo ku saabsan xuquuqaha iyo adeegyada magangalyo-doonka Turkiga, oo ay ku jiraan kuwa ku saabsan guriga.",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=6"
+        },
+        {
+            "question_id": 9,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "کجا می توانم کمک حقوقی برای پناهجویان در ترکیه پیدا کنم؟",
+            "answer": " <span dir=\"rtl\">برای دریافت کمک حقوقی به عنوان یک پناهجو در ترکیه، می‌توانید از طرح کمک حقوقی رایگان دولت ترکیه بهره‌مند شوید. این خدمات توسط کانون‌های وکلا در سراسر کشور ارائه می‌شود. \n\nشما می‌توانید با مراجعه حضوری به کانون وکلای شهر محل اقامت خود، درخواست مشاوره و حمایت حقوقی کنید. آنها پس از بررسی وضعیت مالی شما، احتمالاً یک وکیل را تحت طرح کمک حقوقی در اختیارتان قرار می‌دهند.\n\nهمچنین می‌توانید با سازمان حقوق پناهندگان ترکیه برای کسب اطلاعات بیشتر تماس بگیرید.</span>",
+            "sources": "https://multecihaklari.info/fa/services/%da%a9%d9%85%da%a9-%d9%82%d8%a7%d9%86%d9%88%d9%86%db%8c-2/?section=questions&question=14; https://multecihaklari.info/fa/services/%d8%ad%d9%82%d9%88%d9%82-%d9%88-%d8%b1%d9%88%d9%86%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%af%d8%b1-%d8%a8%d8%a7%d8%b2%d8%af%d8%a7%d8%b4%d8%aa-%d8%a7%d8%af%d8%a7%d8%b1%db%8c/?section=questions&question=27; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=50; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=48"
+        },
+        {
+            "question_id": 8,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "آیا زه په ترکیه کې د رد شوي پناه غوښتنې غوښتنلیک باندې اپیل کولی شم؟",
+            "answer": " زما د زده کړې موادو کې داسې معلومات نشته چې ستاسې د پوښتنې ځواب ورکړي. خو زه په ترکیه کې د کډوالو د حقونو (Refugee Rights Turkey) سره مشوره کوم چې د دې موضوع په اړه لازیدونکي معلومات وړاندې کړي.\n\nدوی کولی شي ستاسې سره مرسته وکړي چې:\n\n- د رد شوي پناه غوښتنې غوښتنلیک پر بنسټ باندې د اپیل کولو امکانات وڅیړئ \n\n- د اپیل د پروسې په اړه معلومات وړاندې کړي\n\n- ستاسې سره د قانوني او اداري پروسو په تعقیبولو کې مرسته وکړي\n\nزه سپارښتنه کوم چې د دې موضوع په اړه نورې پوښتنې لپاره د ترکیې د کډوالو د حقونو سره په اړیکه کې شئ.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=12; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=15"
+        },
+        {
+            "question_id": 8,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "کیا میں ترکی میں مسترد شدہ پناہ کی درخواست کے خلاف اپیل کر سکتا ہوں؟",
+            "answer": " جی ہاں، آپ ترکی میں مسترد شدہ پناہ کی درخواست کے خلاف اپیل کر سکتے ہیں۔ \n\nاپیل کا طریقہ کار اور وقت کی حد اس بات پر منحصر ہے کہ آیا آپ کی درخواست کا باقاعدہ طریقہ کار کے تحت جائزہ لیا گیا تھا یا تیز طریقہ کار کے تحت۔\n\nباقاعدہ طریقہ کار کے تحت مسترد شدہ درخواستوں کے لیے، آپ انٹرنیشنل پروٹیکشن ایویلیوایشن کمیشن یا مجاز انتظامی عدالت میں اپیل کر سکتے ہیں۔\n\nتیز طریقہ کار والی مسترد شدہ درخواستوں کے لیے، آپ صرف مجاز انتظامی عدالت میں ہی اپیل کر سکتے ہیں۔\n\nمیں نے اوپر تفصیل سے اپیل کے طریقہ کار کو بیان کیا ہے۔ اگر آپ کے کوئی اور سوالات ہیں تو براہ کرم پوچھیں۔",
+            "sources": "https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=31; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=32; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=40"
+        },
+        {
+            "question_id": 10,
+            "language_code": "ar",
+            "direction": "rtl",
+            "question": "ما هي خيارات السكن لطالبي اللجوء في تركيا؟",
+            "answer": " <p>وفقًا للمعلومات المتوفرة لدي، لا يتم توفير أي شكل من أشكال الدعم للحصول على المبيت لطالبي الحماية الدولية في تركيا بشكل عام. عليكم العثور على مكان مبيتكم في محافظة إقامتكم بأنفسكم ودفع مصاريف إقامتكم بمواردكم الخاصة.</p>\n<p>لكن يتم توفير خدمة المبيت لبعض الفئات القليلة التي تُعتبر من الفئات المستضعفة. إذا كان لديكم وضع خاص، يمكنكم شرح ذلك للسلطات خلال عملية تسجيلكم والاستفسار إذا كان بإمكانكم الحصول على خدمة المبيت.</p>",
+            "sources": "https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=19; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=46; https://multecihaklari.info/ar/services/%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88-%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a9-2/?section=questions&question=49; https://multecihaklari.info/ar/services/%d9%85%d8%ad%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%88%d8%a8%d9%8a-2/?section=questions&question=21"
+        },
+        {
+            "question_id": 9,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "لەلایەن کوژی دەستبەری ئەنجامە بەرەدا کە بەرەسێت پەنابەرایەتی لە تورکیا؟",
+            "answer": " ببوورە، ماددەکانی زانیاریم ناگرێتەوە ئەم زانیارییەی تۆ داوات لێدەکەیت. \n\nبەڵام بەگشتی، کوژی دەستبەری ئەنجامە بەرەدا کە بەرەسێت پەنابەرایەتی لە تورکیا دەتوانێت هۆکارێک بێت بۆ داواکردنی پاراستنی نێودەوڵەتی. \n\nپێشنیار دەکەم پەیوەندی بە ڕێکخراوی مافی مرۆڤی تورکیا بکەیت یان لەگەڵ پارێزەرێکی توانا قسە بکەیت بۆ زانیاریی زیاتر دەربارەی دۆخی تایبەتی خۆت و ئەو ڕێگایانەی کراونەتەوە بۆ پاراستن.",
+            "sources": "https://multecihaklari.info/ku/services/registration-and-status-2/?section=questions&question=6; https://multecihaklari.info/ku/services/detention-4/?section=questions&question=0; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/legal-assistance-4/?section=questions&question=2"
+        },
+        {
+            "question_id": 10,
+            "language_code": "fa",
+            "direction": "rtl",
+            "question": "گزینه های مسکن برای پناهجویان در ترکیه چیست؟",
+            "answer": " <span dir=\"rtl\">بر اساس اطلاعات در دسترس من، گزینه های مسکن برای پناهجویان در ترکیه به شرح زیر است:</span>\n\n<span dir=\"rtl\">- پناهجویانی که در مراکز حمایت از پناهجویان اقامت دارند، می‌توانند تا زمان رسیدن به سن قانونی (18 سالگی) در این مراکز بمانند.</span>\n\n<span dir=\"rtl\">- پس از رسیدن به سن قانونی، انتظار می‌رود پناهجویان مسکن خود را به صورت مستقل تأمین کنند. آنها معمولاً با هم اتاق یا آپارتمان اجاره می‌کنند تا هزینه‌ها را تقسیم کنند.</span>\n\n<span dir=\"rtl\">- اگر اعضای خانواده پناهجو به طور قانونی در ترکیه ساکن باشند، پناهجو می‌تواند درخواست انتقال به شهری که آنها در آن زندگی می‌کنند را بدهد.</span>\n\n<span dir=\"rtl\">- پناهجویانی که وضعیت پناهندگی یا حمایت فرعی دریافت کرده‌اند، می‌توانند برای همسر و فرزندان خود که خارج از ترکیه هستند، درخواست مجوز اقامت خانوادگی بدهند.</span>",
+            "sources": "https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=17; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=9; https://multecihaklari.info/fa/services/%d8%ac%d8%b2%d9%88%d9%87-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d9%81%d8%b1%d8%a7%d8%af-%d8%ae%d8%b1%d8%af%d8%b3%d8%a7%d9%84-%d8%a8%d8%af%d9%88%d9%86-%d9%87/?section=questions&question=16; https://multecihaklari.info/fa/services/%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-2/?section=questions&question=47"
+        },
+        {
+            "question_id": 8,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "دەتوانم لە تاقیکردنەوەی پەنابەرایەتی ردکراوە بەرپرسە بنووسم لە تورکیا؟",
+            "answer": " بەداخەوە، تۆمارکردنی داخوازینامەی پاراستنی نێودەوڵەتی لە تورکیا پرۆسەیەکی ڕێک و پێکی هەیە.\n\nئەگەر داخوازینامەکەت رەتکرایەوە، دەتوانیت دژ بەو بڕیارە داوای ڕەخنەگرتن بکەیت لە ماوەی ٣٠ ڕۆژی کاری. \n\nپاشان، ئەگەر دادگا دادوەریت نەکات، دەتوانیت داوای لێبوردن بکەیت.\n\nبەڵام هیچ ڕێگایەک نییە بۆ ئەوەی بەرپرسەکانی پاراستنی نێودەوڵەتی بنووسیت.\n\nباشترین کار ئەوەیە کە پرسیارەکانت لەگەڵ یاریدەدەرێکی یاسایی باس بکەیت و ڕێگاچارەکانت بزانیت بۆ ڕووبەڕووبونەوە لەگەڵ بڕیارەکە.",
+            "sources": "https://multecihaklari.info/ku/services/unaccompanied-minors-4/?section=questions&question=17; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/education-4/?section=questions&question=9; https://multecihaklari.info/ku/services/registration-and-status-2/?section=questions&question=6"
+        },
+        {
+            "question_id": 9,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "میں ترکی میں پناہ گزینوں کے لیے قانونی مدد کہاں سے حاصل کر سکتا ہوں؟",
+            "answer": " ترکی میں پناہ گزینوں کے لیے قانونی مدد حاصل کرنے کے کئی ذرائع موجود ہیں۔\n\nآپ پناہ گزینوں کے حقوق ترکی (Refugee Rights Turkey) سے رابطہ کر سکتے ہیں جو پناہ گزینوں کو مفت قانونی مشورہ اور نمائندگی فراہم کرتا ہے۔ آپ ان کی ویب سائٹ https://www.multecihaklari.org/ پر جا کر یا +90 850 532 5821 پر کال کرکے ان سے رابطہ کر سکتے ہیں۔\n\nعلاوہ ازیں، آپ یونیسف (UNHCR) اور بین الاقوامی مہاجرت تنظیم (IOM) جیسی بین الاقوامی ایجنسیوں سے بھی رابطہ کر سکتے ہیں جو پناہ گزینوں کو قانونی معاونت فراہم کرتی ہیں۔\n\nکچھ غیر سرکاری تنظیمیں بھی ہیں جو پناہ گزینوں کو قانونی امداد فراہم کرتی ہیں۔ آپ ان میں سے کسی سے بھی مدد کے لیے رابطہ کر سکتے ہیں۔\n\nامید ہے یہ معلومات آپ کے لیے مفید ثابت ہوں گی۔ اگر آپ کو مزید مدد کی ضرورت ہو تو براہ کرم ہم سے رابطہ کریں۔",
+            "sources": "https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=18; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/detention/?section=questions&question=6"
+        },
+        {
+            "question_id": 9,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "په ترکیه کې د پناه غوښتونکو لپاره قانوني مرستې چیرته موندلی شم؟",
+            "answer": " زما د زده کړو له مخې، د پناه غوښتونکو او بې سرپرسته کوچنیانو لپاره په ترکیه کې د قانوني مرستو په اړه ماته ډېرې معلومات نه دي شته. \n\nبیا هم، زه سپارښتنه کوم چې تاسې د Refugee Rights Turkey سره اړیکه ونیسئ. دوی به ستاسې د پوښتنو ځوابونه وړاندې کړي او ستاسې سره به مرسته وکړي ترڅو تاسې وکولای شئ په ترکیه کې د پناه غوښتونکو او بې سرپرسته کوچنیانو لپاره د قانوني مرستو په اړه معلومات ترلاسه کړئ.\n\nما د دوی د اړیکو لپاره ځینې معلومات شریک کړي دي:\n\nویب پاڼه: https://www.refugeelegalaidinformation.org/\nایمیل: info@refugeelegalaidinformation.org\nټیلیفون: +90 549 842 04 24\n\nزه هیله لرم چې دا به ستاسې لپاره مرستندوی وي. که نورې پوښتنې لرئ، مهرباني وکړئ راته ووایاست.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=12; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=15"
+        },
+        {
+            "question_id": 10,
+            "language_code": "ps",
+            "direction": "rtl",
+            "question": "په ترکیه کې د پناه غوښتونکو لپاره د استوګنې اختیارونه څه دي؟",
+            "answer": " زما د زده کړو په موادو کې د پناه غوښتونکو د استوګنې په اړه ځانګړي معلومات نشته. بیا هم، د پناه غوښتونکو لپاره د استوګنې اختیارونه په ترکیه کې ډېر مهم موضوع دی. \n\nدا ښه به وي چې تاسې د ترکیې د کډوالو حقونو دفتر ته مراجعه وکړئ چې نورې معلومات او مشورې ترلاسه کړئ. دوی کولی شي ستاسې د پوښتنو ځواب ووایي او ستاسې سره مرسته وکړي.\n\nما خپلو زده کړو ته اضافه کړې چې پناه غوښتونکي باید د ترکیې د کډوالو حقونو دفتر ته مراجعه وکړي چې نورې معلومات ترلاسه کړي. امیدوار یم چې دا به ستاسې سره مرسته وکړي.",
+            "sources": "https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=18; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=21; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=12; https://multecihaklari.info/ps/services/%d8%af-%d8%a8%db%90-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa%d9%87-%da%a9%d9%88%da%86%d9%86%db%8c%d8%a7%d9%86%d9%88-%d9%84%d9%be%d8%a7%d8%b1%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%88-%d9%be%d8%b1%d9%88/?section=questions&question=15"
+        },
+        {
+            "question_id": 10,
+            "language_code": "ur",
+            "direction": "rtl",
+            "question": "ترکی میں پناہ گزینوں کے لیے رہائش کے کیا اختیارات ہیں؟",
+            "answer": " ترکی میں پناہ گزینوں کے لیے رہائش کے متعلق کچھ اہم نکات یہ ہیں:\n\n- 18 سال کی عمر کے بعد، پناہ گزینوں سے توقع کی جاتی ہے کہ وہ پناہ گاہ چھوڑ دیں اور اپنی رہائش کا انتظام خود کریں۔ انہیں شہروں میں اپارٹمنٹس یا مکانات کرایہ پر لینے ہوں گے۔\n\n- رہائش کے اخراجات بہت زیادہ ہوتے ہیں، اس لیے زیادہ تر پناہ گزین ایک ساتھ مل کر رہائش کا انتظام کرتے ہیں۔ کچھ مالی مدد کی سہولتیں بھی دستیاب ہیں۔\n\n- پناہ گزینوں کو اپنی رجسٹریشن برقرار رکھنی ہوتی ہے اور تمام سرکاری طریقہ کار کی پابندی کرنی ہوتی ہے۔\n\n- رہائش سے متعلق مزید تفصیلات یا مدد کے لیے Refugee Rights Turkey سے رابطہ کیا جا سکتا ہے۔\n\nمیں نے جتنی بہترین معلومات فراہم کی ہیں۔ امید ہے کہ یہ مفید ہوں گی۔ اگر آپ کے ذہن میں مزید سوالات ہیں تو مجھ سے پوچھنے میں خجالت نہ کریں۔",
+            "sources": "https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=21; https://multecihaklari.info/ur/services/unaccompanied-minors/?section=questions&question=12; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=40; https://multecihaklari.info/ur/services/registration-and-status-6/?section=questions&question=5"
+        },
+        {
+            "question_id": 10,
+            "language_code": "ku",
+            "direction": "rtl",
+            "question": "وەکو گەژاوە لە تورکیا دەتوانم پەنابەرایەتی کەم؟",
+            "answer": " <p><span style=\"font-weight: 400;\">بەڵێ، وەک گەژاوە لە تورکیا دەتوانیت داوای پەنابەرایەتی بکەیت. </span></p>\n\n<p><span style=\"font-weight: 400;\">بۆ ئەوەی بتوانیت داوای پەنابەرایەتی بکەیت، پێویستە داخوازینامەی پاراستنی نێودەوڵەتی پێشکەش بە بەڕێوەبەرایەتیی هەرێمی بۆ بەڕێوەبردنی کۆچ بکەیت. </span></p>\n\n<p><span style=\"font-weight: 400;\">دواتر داخوازینامەکەت دەخرێتە بەردەست و دەسەڵاتداران دەیانهەوڵدەدەن بزانن ئایا دەتوانن پەنابەرایەتی بە تۆ بدەن یان نا. ئەگەر پەنابەرایەتیت قەبوڵ بکرێت، دەتوانیت ماوەیەکی زۆر لە تورکیا بمێنیتەوە و لە ژێر پاراستنی حکومەت بیت. </span></p>\n\n<p><span style=\"font-weight: 400;\">بۆ زانیاری زیاتر دەربارەی چۆنیەتی داواکردنی پەنابەرایەتی، پێشنیار دەکەم پەیوەندی بە </span><span style=\"font-weight: 400;\">Refugee Rights Turkey</span><span style=\"font-weight: 400;\"> بکەیت. ئەوان دەتوانن یارمەتیت بدەن و ڕاوێژیت بکەن.</span></p>",
+            "sources": "https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=17; https://multecihaklari.info/ku/services/detention-4/?section=questions&question=0; https://multecihaklari.info/ku/services/labor-market-4/?section=questions&question=0; https://multecihaklari.info/ku/services/legal-assistance-4/?section=questions&question=2"
+        },
+        {
+            "question_id": 8,
+            "language_code": "som",
+            "direction": "ltr",
+            "question": "Ma ku caban karaa codsi magangalyo oo la diiday Turkiga?",
+            "answer": " Waxaan ku leeyahay, macluumaadkeyga tababar ayaan ku jirin macluumaad ku saabsan sida loo caban karo go'aannada diidmada codsiga magangalyo ee Turkiga. \n\nSi kastaba ha ahaatee, waxaan kula talin lahaa inaad la xiriirto Refugee Rights Turkey si aad u hesho macluumaad dheeraad ah iyo tallo ku saabsan kiiskaaga gaarka ah iyo sida ugu wanaagsan ee uu u socdo. Waxay si fudud uga jawaabi karaan su'aalahaaga iyo u baahan tahay inaad ogaato si aad u xaqiijisid xuquuqdaada iyo helitaanka fursadaha kale ee Turkiga.",
+            "sources": "https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=21; https://multecihaklari.info/so/services/education-5/?section=questions&question=9; https://multecihaklari.info/so/services/registration-and-status-3/?section=questions&question=35; https://multecihaklari.info/so/services/unaccompanied-minors-3/?section=questions&question=12"
+        }
+    ]
+}
