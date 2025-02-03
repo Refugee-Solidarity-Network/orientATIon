@@ -149,49 +149,49 @@
     {
         "section": "Kayıt ve Statü",
         "question": "Türkiye’de adres kontrolü neden yapılıyor?",
-        "answer": "\n<p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Adres kontrolleri, Geçici Koruma veya Uluslararası Koruma kapsamında olan kişilerin beyan ettikleri ikamet adresleri ile MERNİS (Merkezi Nüfus İdaresi Sistemi) ve GÖÇNET sistemlerindeki adreslerinin uyumlu hale getirilmesi amacıyla yapılmaktadır. Kayıt ilinde ikamet etmeyen kişilerin yükümlülüklerine uyarak, hak ve hizmetlerden yararlanabilecekleri kendi kayıtlı oldukları illerde ikamet etmelerinin sağlanması amaçlanmaktadır.</p>\n",
+        "answer": "\n<p><span style=\"font-size: 12px;color: #808080\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Adres kontrolleri, Geçici Koruma veya Uluslararası Koruma kapsamında olan kişilerin beyan ettikleri ikamet adresleri ile MERNİS (Merkezi Nüfus İdaresi Sistemi) ve GÖÇNET sistemlerindeki adreslerinin uyumlu hale getirilmesi amacıyla yapılmaktadır. Kayıt ilinde ikamet etmeyen kişilerin yükümlülüklerine uyarak, hak ve hizmetlerden yararlanabilecekleri kendi kayıtlı oldukları illerde ikamet etmelerinin sağlanması amaçlanmaktadır.</p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/kayit-ve-status/?section=questions&question=21"
     },
     {
         "section": "Kayıt ve Statü",
         "question": "Adres kontrolü kimleri kapsıyor?",
-        "answer": "\n<p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Adres kontrolü Türkiye’de yaşayan Geçici Koruma kapsamında ve Uluslararası Koruma kapsamında olan kişi ve aileleri kapsamaktadır.</p>\n",
+        "answer": "\n<p><span style=\"font-size: 12px;color: #808080\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Adres kontrolü Türkiye’de yaşayan Geçici Koruma kapsamında ve Uluslararası Koruma kapsamında olan kişi ve aileleri kapsamaktadır.</p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/kayit-ve-status/?section=questions&question=22"
     },
     {
         "section": "Kayıt ve Statü",
         "question": "Adres kontrolünde ikamet adresimde değildim. Ne yapmam gerekiyor?",
-        "answer": "\n<p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>En yakın zamanda randevu alıp İl Göç İdaresi’ne adres bilgilerinizi güncellemek üzere başvuruda bulunmalısınız. Randevunuzu <a href=\"https://e-randevu.goc.gov.tr/\">https://e-randevu.goc.gov.tr/</a> sitesi üzerinden oluşturabilirsiniz. Randevu gününe giderken sizden talep edilen belgelerinizi almayı unutmamalısınız. Yanınızda hangi belgeleri götürmeniz gerektiğini aşağıdaki ”Adresimi güncellemek için İl Göç İdaresi’ne hangi belgeleri götürmeliyim?” sorunun cevabında bulabilirsiniz.</p>\n",
+        "answer": "\n<p><span style=\"font-size: 12px;color: #808080\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>En yakın zamanda randevu alıp İl Göç İdaresi’ne adres bilgilerinizi güncellemek üzere başvuruda bulunmalısınız. Randevunuzu <a href=\"https://e-randevu.goc.gov.tr/\">https://e-randevu.goc.gov.tr/</a> sitesi üzerinden oluşturabilirsiniz. Randevu gününe giderken sizden talep edilen belgelerinizi almayı unutmamalısınız. Yanınızda hangi belgeleri götürmeniz gerektiğini aşağıdaki ”Adresimi güncellemek için İl Göç İdaresi’ne hangi belgeleri götürmeliyim?” sorunun cevabında bulabilirsiniz.</p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/kayit-ve-status/?section=questions&question=23"
     },
     {
         "section": "Kayıt ve Statü",
         "question": "Adresimde olmadığıma ilişkin olarak bana kimliğimin sonlandırıldığına dair bir mesaj geldi, ne yapmalıyım?",
-        "answer": "\n<p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Internet üzerinden (<a href=\"https://e-randevu.goc.gov.tr/\">https://e-randevu.goc.gov.tr/</a>) “adres tescil” sekmesini seçerek İl Göç İdaresi Müdürlüğü’nden randevu almanız gerekmektedir.</p>\n",
+        "answer": "\n<p><span style=\"font-size: 12px;color: #808080\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Internet üzerinden (<a href=\"https://e-randevu.goc.gov.tr/\">https://e-randevu.goc.gov.tr/</a>) “adres tescil” sekmesini seçerek İl Göç İdaresi Müdürlüğü’nden randevu almanız gerekmektedir.</p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/kayit-ve-status/?section=questions&question=24"
     },
     {
         "section": "Kayıt ve Statü",
         "question": "Adresimi güncellemek için İl Göç İdaresi’ne hangi belgeleri götürmeliyim?",
-        "answer": "\n<p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Adres kaydınızı gerçekleştirmek için kira sözleşmeniz veya adınıza düzenlenmiş bir fatura (elektrik, su, doğalgaz) ile başvuruda bulunmalısınız. İl Göç İdaresi beyan ettiğiniz adreste ikamet ettiğinizi doğrulamak için ek belgeler isteyebilir. Güncel adresinizi paylaştığınız, bu adreste kayıtlı bulunan yetişkin bir birey ile de başvuruda bulunabilirsiniz. Bu durumda İl Göç İdaresi aynı adreste kayıtlı olan kişilerden sizin de adreste ikamet ettiğiniz onayladıklarına dair bir muvafakatname isteyecektir.</p>\n<ul>\n<li>Adres güncelleme için gerekli evraklar:\n<ul>\n<li>Pasaport, Suriye kimlik kartı (noter tercümeli), Suriye aile defteri (noter tercümeli), Valilik onaylı menşe ülke kişisel sicil kaydı (noter tercümeli), öğrenci belgesi, Suriye askerlik cüzdanı (noter tercümeli).</li>\n<li>Türkiye doğumlu çocuklar için İlçe Nüfus Müdürlükleri’nden alınacak doğum bildirim formu alınmalıdır.</li>\n<li>Eğer askıya alınan kimlik belgeniz kayıp ise polis merkezlerinden veya mahkemelerden kayıp/çalıntı tutanağı ile başvuruda bulunmalısınız.</li>\n</ul>\n</li>\n</ul>\n",
+        "answer": "\n<p><span style=\"font-size: 12px;color: #808080\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Adres kaydınızı gerçekleştirmek için kira sözleşmeniz veya adınıza düzenlenmiş bir fatura (elektrik, su, doğalgaz) ile başvuruda bulunmalısınız. İl Göç İdaresi beyan ettiğiniz adreste ikamet ettiğinizi doğrulamak için ek belgeler isteyebilir. Güncel adresinizi paylaştığınız, bu adreste kayıtlı bulunan yetişkin bir birey ile de başvuruda bulunabilirsiniz. Bu durumda İl Göç İdaresi aynı adreste kayıtlı olan kişilerden sizin de adreste ikamet ettiğiniz onayladıklarına dair bir muvafakatname isteyecektir.</p>\n<ul>\n<li>Adres güncelleme için gerekli evraklar:\n<ul>\n<li>Pasaport, Suriye kimlik kartı (noter tercümeli), Suriye aile defteri (noter tercümeli), Valilik onaylı menşe ülke kişisel sicil kaydı (noter tercümeli), öğrenci belgesi, Suriye askerlik cüzdanı (noter tercümeli).</li>\n<li>Türkiye doğumlu çocuklar için İlçe Nüfus Müdürlükleri’nden alınacak doğum bildirim formu alınmalıdır.</li>\n<li>Eğer askıya alınan kimlik belgeniz kayıp ise polis merkezlerinden veya mahkemelerden kayıp/çalıntı tutanağı ile başvuruda bulunmalısınız.</li>\n</ul>\n</li>\n</ul>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/kayit-ve-status/?section=questions&question=25"
     },
     {
         "section": "Kayıt ve Statü",
         "question": "Adres bilgilerini güncellememem durumunda ne olur?",
-        "answer": "\n<p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Türkiye devletinin sunduğu hizmet ve yardımlardan yararlanabilmek için kendi kayıtlı bulunduğunuz ilde ve beyan ettiğiniz adreste ikamet ediyor olmalısınız.  Adresinizi kaydettirmezseniz, koruma statünüz sona erer, düzensiz durumda bulunacağınız için haklara, hizmetlere ve mevcut yardımlara erişiminizi engellenmiş olur.</p>\n",
+        "answer": "\n<p><span style=\"font-size: 12px;color: #808080\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Türkiye devletinin sunduğu hizmet ve yardımlardan yararlanabilmek için kendi kayıtlı bulunduğunuz ilde ve beyan ettiğiniz adreste ikamet ediyor olmalısınız.  Adresinizi kaydettirmezseniz, koruma statünüz sona erer, düzensiz durumda bulunacağınız için haklara, hizmetlere ve mevcut yardımlara erişiminizi engellenmiş olur.</p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/kayit-ve-status/?section=questions&question=26"
     },
     {
         "section": "Kayıt ve Statü",
         "question": "İl Göç İdaresi’ne başvurarak adresimi güncelledim. Askıya alınan kimliğimin tekrar aktif edildiğini nasıl öğrenebilirim?",
-        "answer": "\n<p><span style=\"font-size: 12px; color: #808080;\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Aşağıda bulunan link üzerinden kimliğinizin güncel statüsünü kontrol edebilirsiniz:<br/>\n<a href=\"https://www.turkiye.gov.tr/goc-idaresi-gecici-koruma-kisisel-bilgi-sorgulama-sonuclari\">https://www.turkiye.gov.tr/goc-idaresi-gecici-koruma-kisisel-bilgi-sorgulama-sonuclari</a></p>\n<p> </p>\n",
+        "answer": "\n<p><span style=\"font-size: 12px;color: #808080\">Son Güncelleme Tarihi: 03.04.2022</span></p>\n<p>Aşağıda bulunan link üzerinden kimliğinizin güncel statüsünü kontrol edebilirsiniz:<br/>\n<a href=\"https://www.turkiye.gov.tr/goc-idaresi-gecici-koruma-kisisel-bilgi-sorgulama-sonuclari\">https://www.turkiye.gov.tr/goc-idaresi-gecici-koruma-kisisel-bilgi-sorgulama-sonuclari</a></p>\n<p> </p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/kayit-ve-status/?section=questions&question=27"
     },
@@ -275,28 +275,28 @@
     {
         "section": "Adli Yardım",
         "question": "Hukuki destek nedir?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Hukuki destek, hukuk düzeni uyarınca sahip olduğunuz hakları kullanabilmek ya da bir hak ihlaliyle karşılaştığınızda bu ihlalin sonlandırılması ve bu ihlalden ötürü doğmuş olabilecek zararların giderilmesi için aldığınız yardımdır. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Hukuki destek, hukuk düzeni uyarınca sahip olduğunuz hakları kullanabilmek ya da bir hak ihlaliyle karşılaştığınızda bu ihlalin sonlandırılması ve bu ihlalden ötürü doğmuş olabilecek zararların giderilmesi için aldığınız yardımdır. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=0"
     },
     {
         "section": "Adli Yardım",
         "question": "Hukuki desteğe nasıl ulaşabilirim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Türkiye’de hukuki destek ve yardımı kural olarak avukatlar verebilir. Ayrıca, barolar da size haklarınızı kullanmanız konusunda yardımcı olabilir. Benzer bir biçimde sivil toplum kurumları da bilgilendirme ve haklara erişiminiz konusunda size destek sağlayabilirler. </span></p>\n<p> </p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Türkiye’de hukuki destek ve yardımı kural olarak avukatlar verebilir. Ayrıca, barolar da size haklarınızı kullanmanız konusunda yardımcı olabilir. Benzer bir biçimde sivil toplum kurumları da bilgilendirme ve haklara erişiminiz konusunda size destek sağlayabilirler. </span></p>\n<p> </p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=1"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukat kimdir?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Avukat temel olarak hukuki hizmet sunmak ve savunmayı temsil etmek suretiyle kamu görevi ifa eden kişidir. Türkiye’de avukatlık mesleğini yapabilmek için bir kişinin bir hukuk fakültesini başarıyla bitirmesi, bunun ardından avukatlık stajını tamamlayarak ruhsat almaya hak kazanması ve daha sonra da bir baroya kaydolması gerekmektedir. </span></p>\n<p><span style=\"font-weight: 400;\">Bu koşulları sağlamayan kimseler avukat değildir ve avukatlık mesleğince sahip olunan yetkilere dayanarak iş yapmaları kanunen yasaktır. Benzer bir biçimde, Türkiye’de avukatlık mesleği yabancılara yasaklı meslekler arasında yer almaktadır. Dolayısıyla, Türkiye vatandaşı olmayan kimseler, ülkelerinde avukatlık ya da benzeri sıfatlara sahip olsalar dahi, mevcut düzenlemeler uyarınca, Türkiye’de avukatlık mesleğini icra edemezler. </span></p>\n<p><span style=\"font-weight: 400;\">Son olarak, avukatlık mesleğine kabul edilen her avukata bir sicil numarası verilir. Bu numara aynı zamanda avukatın kayıtlı olduğu baro levhasında da yer almaktadır. Türkiye Barolar Birliği’nin ve baroların resmi internet sayfaları üzerinden baro levhasına ulaşmak mümkündür. Herhangi bir kişinin avukat olup olmadığını teyit etmek için o kişinin adı ve soyadı veya sicil numarasının yazılarak baro levhasında sorgulanması yeterli olacaktır. </span></p>\n<p> </p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Avukat temel olarak hukuki hizmet sunmak ve savunmayı temsil etmek suretiyle kamu görevi ifa eden kişidir. Türkiye’de avukatlık mesleğini yapabilmek için bir kişinin bir hukuk fakültesini başarıyla bitirmesi, bunun ardından avukatlık stajını tamamlayarak ruhsat almaya hak kazanması ve daha sonra da bir baroya kaydolması gerekmektedir. </span></p>\n<p><span style=\"font-weight: 400\">Bu koşulları sağlamayan kimseler avukat değildir ve avukatlık mesleğince sahip olunan yetkilere dayanarak iş yapmaları kanunen yasaktır. Benzer bir biçimde, Türkiye’de avukatlık mesleği yabancılara yasaklı meslekler arasında yer almaktadır. Dolayısıyla, Türkiye vatandaşı olmayan kimseler, ülkelerinde avukatlık ya da benzeri sıfatlara sahip olsalar dahi, mevcut düzenlemeler uyarınca, Türkiye’de avukatlık mesleğini icra edemezler. </span></p>\n<p><span style=\"font-weight: 400\">Son olarak, avukatlık mesleğine kabul edilen her avukata bir sicil numarası verilir. Bu numara aynı zamanda avukatın kayıtlı olduğu baro levhasında da yer almaktadır. Türkiye Barolar Birliği’nin ve baroların resmi internet sayfaları üzerinden baro levhasına ulaşmak mümkündür. Herhangi bir kişinin avukat olup olmadığını teyit etmek için o kişinin adı ve soyadı veya sicil numarasının yazılarak baro levhasında sorgulanması yeterli olacaktır. </span></p>\n<p> </p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=2"
     },
     {
         "section": "Adli Yardım",
         "question": "Baro nedir?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Baro, bir ilde veya bölgedeki avukatların bağlı olduğu ve kamu kurumu niteliği olan meslek kuruluşudur. Barolar temel olarak avukatlık meslek düzenini sağlamak ve hukukun üstünlüğünü korumakla görevlidir.</span></p>\n<p> </p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Baro, bir ilde veya bölgedeki avukatların bağlı olduğu ve kamu kurumu niteliği olan meslek kuruluşudur. Barolar temel olarak avukatlık meslek düzenini sağlamak ve hukukun üstünlüğünü korumakla görevlidir.</span></p>\n<p> </p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=3"
     },
@@ -310,154 +310,154 @@
     {
         "section": "Adli Yardım",
         "question": "Dava açabilmenin şartları nelerdir?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Dava açabilmek için temel şart dava ehliyetine sahip olmaktır. Bu kavram hakları kullanma ehliyetinin bir yansımasıdır. Türkiye kanunları uyarınca ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişi hakları kullanma ehliyetine ve dolayısıyla da dava ehliyetine sahiptir. </span></p>\n<p><span style=\"font-weight: 400;\">Yaşının küçüklüğü yüzünden veya akıl hastalığı, akıl zayıflığı, sarhoşluk ya da bunlara benzer sebeplerden biriyle akla uygun biçimde davranma yeteneğinden yoksun olmayan herkes ayırt etme gücüne sahiptir. Benzer bir biçimde, hakkında bir mahkeme kararıyla verilmiş kısıtlılık kararı olmayan ya da bir yıl veya daha uzun süreli özgürlüğü bağlayıcı bir cezaya mahkûm edilmemiş herkesin kısıtlı olmadığı kabul edilir. </span></p>\n<p><span style=\"font-weight: 400;\">Dava ehliyeti bulunmayan kişiler ise kural olarak kanuni temsilcileri tarafından temsil olunurlar. Türkiye hukukunda özel kişiler için kanuni temsilci kavramı ergin olmayan küçükler için veliyi, kısıtlanmış ya da ayırt etme gücünü sahip olmayan kişiler için ise vasiyi ifade etmektedir. </span></p>\n<p> </p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Dava açabilmek için temel şart dava ehliyetine sahip olmaktır. Bu kavram hakları kullanma ehliyetinin bir yansımasıdır. Türkiye kanunları uyarınca ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişi hakları kullanma ehliyetine ve dolayısıyla da dava ehliyetine sahiptir. </span></p>\n<p><span style=\"font-weight: 400\">Yaşının küçüklüğü yüzünden veya akıl hastalığı, akıl zayıflığı, sarhoşluk ya da bunlara benzer sebeplerden biriyle akla uygun biçimde davranma yeteneğinden yoksun olmayan herkes ayırt etme gücüne sahiptir. Benzer bir biçimde, hakkında bir mahkeme kararıyla verilmiş kısıtlılık kararı olmayan ya da bir yıl veya daha uzun süreli özgürlüğü bağlayıcı bir cezaya mahkûm edilmemiş herkesin kısıtlı olmadığı kabul edilir. </span></p>\n<p><span style=\"font-weight: 400\">Dava ehliyeti bulunmayan kişiler ise kural olarak kanuni temsilcileri tarafından temsil olunurlar. Türkiye hukukunda özel kişiler için kanuni temsilci kavramı ergin olmayan küçükler için veliyi, kısıtlanmış ya da ayırt etme gücünü sahip olmayan kişiler için ise vasiyi ifade etmektedir. </span></p>\n<p> </p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=5"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukat tutmak zorunlu mudur?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Bazı kanunlarda belirtilen özel düzenlemeler (zorunlu müdafilik gibi) haricinde dava ehliyeti bulunan herkes kendi davasını bizzat açabilir ve takip edebilir ya da resmi dairelerdeki tüm işlerini kendisi yapabilir. Dolayısıyla, anılan istisnalar dışında avukat tutma zorunluluğu bulunmamaktadır.</span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Bazı kanunlarda belirtilen özel düzenlemeler (zorunlu müdafilik gibi) haricinde dava ehliyeti bulunan herkes kendi davasını bizzat açabilir ve takip edebilir ya da resmi dairelerdeki tüm işlerini kendisi yapabilir. Dolayısıyla, anılan istisnalar dışında avukat tutma zorunluluğu bulunmamaktadır.</span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=6"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukatım bana hangi konularda yardım sağlayabilir?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Avukatınız her türlü hukuki mesele ve anlaşmazlıkların çözümü için size yardımcı olabilir. Bu itibarla avukatınız size yalnızca hukuki danışmanlık hizmeti verebileceği gibi sizin adınıza mahkemeler ve yargı yetkisi bulunan diğer organlar huzurunda sizden aldığı vekâletnameyle dava açarak sizi temsil edebilir ve savunabilir. Ayrıca, avukatınız resmi dairelerde, açıkça bizzat yapmanızın öngörülmediği </span><span style=\"font-weight: 400;\">tüm işleri de sizin adınıza takip edebilir. Son olarak, avukatınız gerekli şartları yerine getirmesi kaydıyla uzlaştırmacı ya da arabulucu olarak da faaliyet gösterebilir.</span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Avukatınız her türlü hukuki mesele ve anlaşmazlıkların çözümü için size yardımcı olabilir. Bu itibarla avukatınız size yalnızca hukuki danışmanlık hizmeti verebileceği gibi sizin adınıza mahkemeler ve yargı yetkisi bulunan diğer organlar huzurunda sizden aldığı vekâletnameyle dava açarak sizi temsil edebilir ve savunabilir. Ayrıca, avukatınız resmi dairelerde, açıkça bizzat yapmanızın öngörülmediği </span><span style=\"font-weight: 400\">tüm işleri de sizin adınıza takip edebilir. Son olarak, avukatınız gerekli şartları yerine getirmesi kaydıyla uzlaştırmacı ya da arabulucu olarak da faaliyet gösterebilir.</span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=7"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukata nasıl ulaşabilirim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Avukatlık esasen bir serbest meslektir. Dolayısıyla bir avukatın bürosuna ya da avukatlık ortaklığı olarak faaliyet gösteren kurumlara giderek avukata ulaşabilirsiniz. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Avukatlık esasen bir serbest meslektir. Dolayısıyla bir avukatın bürosuna ya da avukatlık ortaklığı olarak faaliyet gösteren kurumlara giderek avukata ulaşabilirsiniz. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=8"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukatlık hizmetinden yararlanmak istiyorum, ne yapmalıyım?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Bunun için avukatlık hizmetini vermeye yetkili bir kişiyle temas ettikten sonra avukatlık sözleşmesi kurulmalıdır. Bu sözleşmenin yazılı olması zorunlu değildir. Bir diğer ifadeyle, avukatlık sözleşmesini kurmak istediğinizi avukatınıza sözlü olarak bildirmeniz de mümkündür. Ancak sözleşmenin yazılı olarak kurulmasının mümkün olduğu durumlarda sözleşmenin bu şekilde yapılması her iki tarafın da yararına olacaktır. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Bunun için avukatlık hizmetini vermeye yetkili bir kişiyle temas ettikten sonra avukatlık sözleşmesi kurulmalıdır. Bu sözleşmenin yazılı olması zorunlu değildir. Bir diğer ifadeyle, avukatlık sözleşmesini kurmak istediğinizi avukatınıza sözlü olarak bildirmeniz de mümkündür. Ancak sözleşmenin yazılı olarak kurulmasının mümkün olduğu durumlarda sözleşmenin bu şekilde yapılması her iki tarafın da yararına olacaktır. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=9"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukatlık hizmetinden yararlanabilmem için başka şartlar var mı?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Avukatınızın sizin adınıza dava açabilmesi, davayı ya da resmi dairelerdeki işlerinizi takip edebilmesi için kural olarak vekâletnameye ihtiyacı vardır. Bu vekâletnamenin noterde düzenlenmesi yararınıza olacaktır. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Avukatınızın sizin adınıza dava açabilmesi, davayı ya da resmi dairelerdeki işlerinizi takip edebilmesi için kural olarak vekâletnameye ihtiyacı vardır. Bu vekâletnamenin noterde düzenlenmesi yararınıza olacaktır. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=10"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukatıma ücret ödemem gerekir mi?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Avukatlar hukuki danışmanlık da dahil olmak üzere verdikleri her türlü hizmet için kanun gereği ücrete hak kazanır. Türkiye’de her yıl tüm avukatların uymakla yükümlü olduğu ve çeşitli hukuki işler için belirlenen asgari ücretlerin yer aldığı “Avukatlık Asgari Ücret Tarifesi” yayımlanmaktadır. Avukatlar bu tarifede belirlenen ücretlerden aşağısını kabul edemezler. </span></p>\n<p><span style=\"font-weight: 400;\">Avukatlık ücreti sadece bu asgari tarifede yazılı olan maktu ücretten ibaret olabileceği gibi, davaya konu olan şeyin ya da paranın %25’ini aşmayacak bir meblağ olarak da kararlaştırılabilir. Dolayısıyla sözleşme özgürlüğü çerçevesinde ve tarifede belirlenen asgari ücretin altında kalmamasıyla şartıyla avukatlık ücreti müzakere edilebilir. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Avukatlar hukuki danışmanlık da dahil olmak üzere verdikleri her türlü hizmet için kanun gereği ücrete hak kazanır. Türkiye’de her yıl tüm avukatların uymakla yükümlü olduğu ve çeşitli hukuki işler için belirlenen asgari ücretlerin yer aldığı “Avukatlık Asgari Ücret Tarifesi” yayımlanmaktadır. Avukatlar bu tarifede belirlenen ücretlerden aşağısını kabul edemezler. </span></p>\n<p><span style=\"font-weight: 400\">Avukatlık ücreti sadece bu asgari tarifede yazılı olan maktu ücretten ibaret olabileceği gibi, davaya konu olan şeyin ya da paranın %25’ini aşmayacak bir meblağ olarak da kararlaştırılabilir. Dolayısıyla sözleşme özgürlüğü çerçevesinde ve tarifede belirlenen asgari ücretin altında kalmamasıyla şartıyla avukatlık ücreti müzakere edilebilir. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=11"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukatlık ücreti dışında ödemem gereken bir şey var mı?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Talebinizle ilgili gerekli vergi, resim, harç ile noter ve dava masrafları, gerekliyse bilirkişi, keşif ya da tanık ödenekleri gibi giderleri ödemek de sizin sorumluluğunuzdadır. Ayrıca sözleşmenizde yer verdiğiniz takdirde avukatınızın yapacağı yol giderlerini de karşılamanız gerekecektir. Son olarak davayı kaybetmeniz durumunda karşı tarafın vekâlet ücretini ödemek de sizin sorumluluğunuzda olacaktır. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Talebinizle ilgili gerekli vergi, resim, harç ile noter ve dava masrafları, gerekliyse bilirkişi, keşif ya da tanık ödenekleri gibi giderleri ödemek de sizin sorumluluğunuzdadır. Ayrıca sözleşmenizde yer verdiğiniz takdirde avukatınızın yapacağı yol giderlerini de karşılamanız gerekecektir. Son olarak davayı kaybetmeniz durumunda karşı tarafın vekâlet ücretini ödemek de sizin sorumluluğunuzda olacaktır. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=12"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukata ihtiyacım var. Ancak avukatlık ücretini ödeyemiyorum. Ne yapmalıyım?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Türkiye’de avukatlık hizmetlerinden yararlanma ihtiyacı olan ancak hem kendisinin hem de ailesinin geçimini önemli ölçüde zor duruma düşürmeksizin avukatlık ücretini ve yargılama giderlerini karşılayamayan kişiler için Adli Yardım hizmetleri bulunmaktadır. İlgili düzenlemelerde öngörülen şartları karşıladığınız takdirde adli yardım hizmetinizden yararlanabilirsiniz. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Türkiye’de avukatlık hizmetlerinden yararlanma ihtiyacı olan ancak hem kendisinin hem de ailesinin geçimini önemli ölçüde zor duruma düşürmeksizin avukatlık ücretini ve yargılama giderlerini karşılayamayan kişiler için Adli Yardım hizmetleri bulunmaktadır. İlgili düzenlemelerde öngörülen şartları karşıladığınız takdirde adli yardım hizmetinizden yararlanabilirsiniz. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=13"
     },
     {
         "section": "Adli Yardım",
         "question": "Adli yardıma nasıl erişilebilirim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Türkiye’de adli yardım hizmeti barolar aracılığıyla sağlanmakta ve baroların bünyesinde yer alan adli yardım büroları ya da adli yardım bürosu temsilciliklerince yürütülmektedir. </span></p>\n<p><span style=\"font-weight: 400;\">Hem 6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu’nda hem de diğer ilgili mevzuatta, Türkiye’de koruma arayan sığınmacılar ve diğer hassas durumda yabancıların adli yardım hizmetlerinden yararlanabileceklerini teyit edilmektedir. </span></p>\n<p><span style=\"font-weight: 400;\">Adli yardıma erişimde temel kural bu yerlere gidip bizzat başvuruda bulunmanızdır. Ancak Türkiye’deki baroların önemli bir bölümü aile üyeleriniz ya da sivil toplum örgütü temsilcileri gibi üçüncü kişilerce yapılan ihbar ve bildirimleri de dikkate almakta ve gerekli koşulların sağlanması halinde adli yardım görevlendirmesi yapabilmektedir. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Türkiye’de adli yardım hizmeti barolar aracılığıyla sağlanmakta ve baroların bünyesinde yer alan adli yardım büroları ya da adli yardım bürosu temsilciliklerince yürütülmektedir. </span></p>\n<p><span style=\"font-weight: 400\">Hem 6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu’nda hem de diğer ilgili mevzuatta, Türkiye’de koruma arayan sığınmacılar ve diğer hassas durumda yabancıların adli yardım hizmetlerinden yararlanabileceklerini teyit edilmektedir. </span></p>\n<p><span style=\"font-weight: 400\">Adli yardıma erişimde temel kural bu yerlere gidip bizzat başvuruda bulunmanızdır. Ancak Türkiye’deki baroların önemli bir bölümü aile üyeleriniz ya da sivil toplum örgütü temsilcileri gibi üçüncü kişilerce yapılan ihbar ve bildirimleri de dikkate almakta ve gerekli koşulların sağlanması halinde adli yardım görevlendirmesi yapabilmektedir. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=14"
     },
     {
         "section": "Adli Yardım",
         "question": "Bir geri gönderme merkezinde tutulmaktayım. Adli yardıma erişebilir miyim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Bir geri gönderme merkezinde ya da bir başka bir yerde tutulmanız ya da idari gözetim altında bulunmanız adli yardıma erişiminiz önünde bir engel değildir. Bu talebinizi bulunduğunuz il barosunun Adli Yardım Bürosuna ulaşarak yapmanız gerekmektedir. Talebinizi tutulduğunuz yerdeki makamlara verebileceğiniz bir dilekçeyle iletebilme hakkınız vardır. Bazı barolar aile bireylerinizin başvuruları ya da telefonla yapılan başvuruları da dikkate almaktadır. Adli yardım talebinizi baroya iletmenizin ardından baro tarafından bir incelemeye yapılacaktır. Bu inceleme sonucunda adli yardım talebiniz kabul edilebilir ya da reddedilebilir.</span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Bir geri gönderme merkezinde ya da bir başka bir yerde tutulmanız ya da idari gözetim altında bulunmanız adli yardıma erişiminiz önünde bir engel değildir. Bu talebinizi bulunduğunuz il barosunun Adli Yardım Bürosuna ulaşarak yapmanız gerekmektedir. Talebinizi tutulduğunuz yerdeki makamlara verebileceğiniz bir dilekçeyle iletebilme hakkınız vardır. Bazı barolar aile bireylerinizin başvuruları ya da telefonla yapılan başvuruları da dikkate almaktadır. Adli yardım talebinizi baroya iletmenizin ardından baro tarafından bir incelemeye yapılacaktır. Bu inceleme sonucunda adli yardım talebiniz kabul edilebilir ya da reddedilebilir.</span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=15"
     },
     {
         "section": "Adli Yardım",
         "question": "Hangi konularda adli yardımdan yararlanabilirim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Adli yardım evlenme, boşanma, aile içi şiddet, velayet, vesayet gibi kişiler hukuku ve aile hukukuyla ilgili davalarda, her türlü alacak ve borçla ilişkili hukuk ve iş davalarında, idari makamların işlem ve eylemlerine karşı açılan idari davalarda ve icra ve iflas hukukuna ilişkin takip ve davalarda sağlanabilen bir hizmettir. </span></p>\n<p><span style=\"font-weight: 400;\">İlaveten, Yabancılar ve Uluslararası Koruma Kanunu ve Geçici Koruma Yönetmeliği de dahil olmak üzere göç mevzuatı kapsamında uluslararası koruma başvurusunun reddi ya da iptali, sınır dışı kararı, idari gözetim veya ikamet izninin reddi ya da iptali gibi konular da adli yardım kapsamına girmektedir.  </span></p>\n<p><span style=\"font-weight: 400;\">Bazı barolar, ayrıca dava dışı hukuki sorun ve konularda da adli yardım çerçevesinde hukuki destek ve yardım sağlanabilmektedir.   </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Adli yardım evlenme, boşanma, aile içi şiddet, velayet, vesayet gibi kişiler hukuku ve aile hukukuyla ilgili davalarda, her türlü alacak ve borçla ilişkili hukuk ve iş davalarında, idari makamların işlem ve eylemlerine karşı açılan idari davalarda ve icra ve iflas hukukuna ilişkin takip ve davalarda sağlanabilen bir hizmettir. </span></p>\n<p><span style=\"font-weight: 400\">İlaveten, Yabancılar ve Uluslararası Koruma Kanunu ve Geçici Koruma Yönetmeliği de dahil olmak üzere göç mevzuatı kapsamında uluslararası koruma başvurusunun reddi ya da iptali, sınır dışı kararı, idari gözetim veya ikamet izninin reddi ya da iptali gibi konular da adli yardım kapsamına girmektedir.  </span></p>\n<p><span style=\"font-weight: 400\">Bazı barolar, ayrıca dava dışı hukuki sorun ve konularda da adli yardım çerçevesinde hukuki destek ve yardım sağlanabilmektedir.   </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=16"
     },
     {
         "section": "Adli Yardım",
         "question": "Adli yardımdan yararlanabilme koşulları nelerdir?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Öncelikle halihazırda bir avukatla temsil ediliyorsanız adli yardımdan faydalanmanız mümkün olmayacaktır.  </span></p>\n<p><span style=\"font-weight: 400;\">Adli yardım talebinde bulunduğunuz baro, ilk olarak maddi durum değerlendirmesi yapacaktır. Başvuruda bulunduğunuz baro sizden bu amaçla adınıza kayıtlı bir mal bulunup bulunmadığının tespit edilmesi amacıyla çeşitli resmi dairelerden alınabilecek belgeleri ya da muhtarlık tarafından verilebilecek fakirlik belgesi gibi diğer belgeleri talep edebilir. Barodaki görevliler ayrıca adli yardım talebinizin haklılığı konusunda da bir değerlendirme yapacaktır. Bu iki şartın birlikte karşılanması halinde adli yardım talebiniz kabul edilebilir. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Öncelikle halihazırda bir avukatla temsil ediliyorsanız adli yardımdan faydalanmanız mümkün olmayacaktır.  </span></p>\n<p><span style=\"font-weight: 400\">Adli yardım talebinde bulunduğunuz baro, ilk olarak maddi durum değerlendirmesi yapacaktır. Başvuruda bulunduğunuz baro sizden bu amaçla adınıza kayıtlı bir mal bulunup bulunmadığının tespit edilmesi amacıyla çeşitli resmi dairelerden alınabilecek belgeleri ya da muhtarlık tarafından verilebilecek fakirlik belgesi gibi diğer belgeleri talep edebilir. Barodaki görevliler ayrıca adli yardım talebinizin haklılığı konusunda da bir değerlendirme yapacaktır. Bu iki şartın birlikte karşılanması halinde adli yardım talebiniz kabul edilebilir. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=17"
     },
     {
         "section": "Adli Yardım",
         "question": "Adli yardımdan yararlandığımda hangi masraflar karşılanacak?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Adli yardım hizmeti kapsamında temel olarak avukatlık ücreti karşılanmaktadır. Yine avukatınızın yaptığı zorunlu yol giderleri de adli yardım kapsamında karşılanabilmektedir. Yargılama ya da takip giderleri için avukatınız ayrıca mahkemeden de adli yardım talebinde bulunabilir. Mahkeme bu talebi kabul edebilir ya da ret edebilir. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Adli yardım hizmeti kapsamında temel olarak avukatlık ücreti karşılanmaktadır. Yine avukatınızın yaptığı zorunlu yol giderleri de adli yardım kapsamında karşılanabilmektedir. Yargılama ya da takip giderleri için avukatınız ayrıca mahkemeden de adli yardım talebinde bulunabilir. Mahkeme bu talebi kabul edebilir ya da ret edebilir. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=18"
     },
     {
         "section": "Adli Yardım",
         "question": "Tercüman yardımından yararlanabilecek miyim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Adli yardım bürolarının büyük bir bölümünde bütçe kısıtlarından dolayı maalesef bir tercüman bulunmamaktadır. Dolayısıyla adli yardım başvurusunda bulunurken size tercüme desteği verebilecek birisiyle birlikte bu başvuruyu yapmanızı tavsiye ederiz.</span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Adli yardım bürolarının büyük bir bölümünde bütçe kısıtlarından dolayı maalesef bir tercüman bulunmamaktadır. Dolayısıyla adli yardım başvurusunda bulunurken size tercüme desteği verebilecek birisiyle birlikte bu başvuruyu yapmanızı tavsiye ederiz.</span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=19"
     },
     {
         "section": "Adli Yardım",
         "question": "Adli yardımla ilgili olarak başka bilmem gereken bir konu var mı?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Eğer adli yardımdan bir alacağa kavuşmak gibi bir maddi yarar elde etmek için yararlanıyorsanız ya da adli yardım aldığınız davada tazminat gibi bir yarar elde ederseniz, bu maddi değerin %5 oranında tutarını ve adli yardım kapsamında avukata ödenen ücreti, size adli yardımı sağlayan baroya ödemelisiniz. </span></p>\n<p><span style=\"font-weight: 400;\">Adli yardımdan yararlanmak için maddi yetersizlik hakkında kasten gerçeğe aykırı bilgi verilmesi ya da adli yardım talep edilen davanın kötü niyetle ya da haksız olarak açıldığının anlaşılması durumunda ise, avukatlık ücretinin iki katı ile varsa adli yardım bürosu tarafından yapılan diğer masrafların adli yardım bürosuna geri ödenmesine ve adli yardımın kaldırılmasına karar verilmektedir. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Eğer adli yardımdan bir alacağa kavuşmak gibi bir maddi yarar elde etmek için yararlanıyorsanız ya da adli yardım aldığınız davada tazminat gibi bir yarar elde ederseniz, bu maddi değerin %5 oranında tutarını ve adli yardım kapsamında avukata ödenen ücreti, size adli yardımı sağlayan baroya ödemelisiniz. </span></p>\n<p><span style=\"font-weight: 400\">Adli yardımdan yararlanmak için maddi yetersizlik hakkında kasten gerçeğe aykırı bilgi verilmesi ya da adli yardım talep edilen davanın kötü niyetle ya da haksız olarak açıldığının anlaşılması durumunda ise, avukatlık ücretinin iki katı ile varsa adli yardım bürosu tarafından yapılan diğer masrafların adli yardım bürosuna geri ödenmesine ve adli yardımın kaldırılmasına karar verilmektedir. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=20"
     },
     {
         "section": "Adli Yardım",
         "question": "Bir suçtan ötürü şüpheliyim/sanığım. Adli yardımdan yararlanabilir miyim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Bir suçtan ötürü suç şüphesi altında bulunup da bir avukatın yardımından yararlanmak istiyor ancak bunu karşılayabilecek durumda değilseniz ve halihazırda bir avukatınız bulunmuyorsa, her aşamada adli yardım talebinde bulunabilirsiniz. Bu talebinizi soruşturmanın yürütüldüğü yerdeki polis ya da jandarma karakoluna, Cumhuriyet Savcılıklarına ya da hakimlik veya mahkemelere ve hatta üst mahkemelere iletebilirsiniz.</span></p>\n<p><span style=\"font-weight: 400;\">Bu talebiniz üzerine, talebinizi ilettiğiniz kurum baro ile temasa geçecek ve baro, Ceza Muhakemesi Kanunu (CMK) uyarınca ücretsiz olarak yararlanabileceğiniz bir avukat görevlendirmesi yapacaktır. Dolayısıyla bu görevlendirme adli yardım kapsamında değil, CMK kapsamında yapılacak bir görevlendirme olacaktır. </span></p>\n<p><span style=\"font-weight: 400;\">Ancak Türkiye yasaları uyarınca 18 yaşından küçüklere, kendisini savunamayacak derecede malûl veya sağır ve dilsizlere ya da kendisine alt sınırı beş yıldan fazla hapis cezasını gerektiren bir suç isnat edilen kişilere, talepleri olmasa bile avukatlarının olmaması durumunda CMK kapsamında ücretsiz olarak yararlanılabilecek bir avukat atanmaktadır. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Bir suçtan ötürü suç şüphesi altında bulunup da bir avukatın yardımından yararlanmak istiyor ancak bunu karşılayabilecek durumda değilseniz ve halihazırda bir avukatınız bulunmuyorsa, her aşamada adli yardım talebinde bulunabilirsiniz. Bu talebinizi soruşturmanın yürütüldüğü yerdeki polis ya da jandarma karakoluna, Cumhuriyet Savcılıklarına ya da hakimlik veya mahkemelere ve hatta üst mahkemelere iletebilirsiniz.</span></p>\n<p><span style=\"font-weight: 400\">Bu talebiniz üzerine, talebinizi ilettiğiniz kurum baro ile temasa geçecek ve baro, Ceza Muhakemesi Kanunu (CMK) uyarınca ücretsiz olarak yararlanabileceğiniz bir avukat görevlendirmesi yapacaktır. Dolayısıyla bu görevlendirme adli yardım kapsamında değil, CMK kapsamında yapılacak bir görevlendirme olacaktır. </span></p>\n<p><span style=\"font-weight: 400\">Ancak Türkiye yasaları uyarınca 18 yaşından küçüklere, kendisini savunamayacak derecede malûl veya sağır ve dilsizlere ya da kendisine alt sınırı beş yıldan fazla hapis cezasını gerektiren bir suç isnat edilen kişilere, talepleri olmasa bile avukatlarının olmaması durumunda CMK kapsamında ücretsiz olarak yararlanılabilecek bir avukat atanmaktadır. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=21"
     },
     {
         "section": "Adli Yardım",
         "question": "Bir suçun mağduruyum ancak avukatlık ücretini ödeme gücüm yok. Ne yapmalıyım?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Cinsel saldırı suçları ile alt sınırı beş yıldan fazla hapis cezası gerektiren suçlardan ötürü mağdur ya da şikayetçi olmanız halinde barodan CMK kapsamında tarafınıza ücretsiz olarak bir avukatın atanmasını talep edebilirsiniz. Türkiye yasalarına göre 18 yaşından küçükler ile sağır veya dilsiz ya da meramını ifade edemeyecek derecede malûl olanlara, avukatlarının olmaması durumunda, istemleri aranmaksızın ücretsiz olarak hizmet verecek bir vekil görevlendirilmektedir. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Cinsel saldırı suçları ile alt sınırı beş yıldan fazla hapis cezası gerektiren suçlardan ötürü mağdur ya da şikayetçi olmanız halinde barodan CMK kapsamında tarafınıza ücretsiz olarak bir avukatın atanmasını talep edebilirsiniz. Türkiye yasalarına göre 18 yaşından küçükler ile sağır veya dilsiz ya da meramını ifade edemeyecek derecede malûl olanlara, avukatlarının olmaması durumunda, istemleri aranmaksızın ücretsiz olarak hizmet verecek bir vekil görevlendirilmektedir. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=22"
     },
     {
         "section": "Adli Yardım",
         "question": "Bir suçtan ötürü şüpheli/sanık olursam ya da mağdur/şikayetçiysem tercüman yardımından yararlanabilir miyim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Bir suçla ilgili olarak soruşturmanın yapılması evresinde ve mahkemedeki yargılamalar sırasında ücretsiz olarak tercüman görevlendirmesi yapılmaktadır. Benzer bir biçimde, bir suçtan ötürü yürütülen soruşturma esnasında tanıklar için de ücretsiz tercüman sağlanmaktadır. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Bir suçla ilgili olarak soruşturmanın yapılması evresinde ve mahkemedeki yargılamalar sırasında ücretsiz olarak tercüman görevlendirmesi yapılmaktadır. Benzer bir biçimde, bir suçtan ötürü yürütülen soruşturma esnasında tanıklar için de ücretsiz tercüman sağlanmaktadır. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=23"
     },
     {
         "section": "Adli Yardım",
         "question": "Avukatımın bana karşı olan sorumlulukları nedir?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Avukatınızın size karşı sorumluluğu her durumda aynıdır. Bir diğer ifadeyle, avukatınızı sizin seçmeniz ile adli yardım ya da CMK kapsamında bir avukat görevlendirilmesi arasında herhangi bir fark yoktur. </span></p>\n<p><span style=\"font-weight: 400;\">Avukatınız size karşı en önemli yükümlülüğü üstlendiği işi özenli ve doğru bir biçimde yerine getirmektedir. Bu yükümlülük kapsamında avukatınız sır saklamak, dosya ve evrak tutmak ve bunları saklamak, üstlendiği işi sonuna kadar takip etmek, çıkar çatışmalarından kaçınmak, sizi uygun ve yeterli bir şekilde bilgilendirmek ve menfaatinizi hukuk kuralları çerçevesinde korumak gibi sorumlulukları vardır. </span></p>\n<p><span style=\"font-weight: 400;\">Avukatınız ayrıca üstlendiği işin ya da davanın sonucuna ilişkin hukuki görüşlerini de sizinle paylaşabilir. Ancak hiçbir şekilde sonucuna ilişkin olarak size bir taahhüt veremez. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Avukatınızın size karşı sorumluluğu her durumda aynıdır. Bir diğer ifadeyle, avukatınızı sizin seçmeniz ile adli yardım ya da CMK kapsamında bir avukat görevlendirilmesi arasında herhangi bir fark yoktur. </span></p>\n<p><span style=\"font-weight: 400\">Avukatınız size karşı en önemli yükümlülüğü üstlendiği işi özenli ve doğru bir biçimde yerine getirmektedir. Bu yükümlülük kapsamında avukatınız sır saklamak, dosya ve evrak tutmak ve bunları saklamak, üstlendiği işi sonuna kadar takip etmek, çıkar çatışmalarından kaçınmak, sizi uygun ve yeterli bir şekilde bilgilendirmek ve menfaatinizi hukuk kuralları çerçevesinde korumak gibi sorumlulukları vardır. </span></p>\n<p><span style=\"font-weight: 400\">Avukatınız ayrıca üstlendiği işin ya da davanın sonucuna ilişkin hukuki görüşlerini de sizinle paylaşabilir. Ancak hiçbir şekilde sonucuna ilişkin olarak size bir taahhüt veremez. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=24"
     },
     {
         "section": "Adli Yardım",
         "question": "Adli yardımdan yararlanmak istiyorum; ancak engelliyim. İletişim kurmak için destek almam mümkün mü?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Türkiye’de bazı barolarda ya da adliyelerde işaret dilini bilen personel bulunmaktadır. Benzer bir biçimde bulunduğunuz yerde engelli bireylerin hakları konusunda çalışmalar yürüten sivil toplum örgütleri de olabilir. Dolayısıyla bu kişi ya da kurumlardan destek talep edebilirsiniz. CMK kapsamında ise işaret dilini bilen bir tercümandan doğrudan yararlanma hakkınız vardır.</span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Türkiye’de bazı barolarda ya da adliyelerde işaret dilini bilen personel bulunmaktadır. Benzer bir biçimde bulunduğunuz yerde engelli bireylerin hakları konusunda çalışmalar yürüten sivil toplum örgütleri de olabilir. Dolayısıyla bu kişi ya da kurumlardan destek talep edebilirsiniz. CMK kapsamında ise işaret dilini bilen bir tercümandan doğrudan yararlanma hakkınız vardır.</span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=25"
     },
     {
         "section": "Adli Yardım",
         "question": "Başka kimlerden destek alabilirim?",
-        "answer": "\n<p><span style=\"font-weight: 400;\">Türkiye’de hukuki konularda mütalaa vermek ve dava takip etmek yetkisi avukatların tekelindedir. Ancak Yabancılar ve Uluslararası Koruma Kanunu başta olmak üzere ilgili diğer yasalarda da belirtilen kanuni temsilcilerden, Birleşmiş Milletler Mülteciler Yüksek Komiserliği’nden ve sivil toplum örgütlerinden de destek ve yardım alabilirsiniz ya da bu kişi veya kurumlardan barodan destek almak amacıyla yardım talep edebilirsiniz. </span></p>\n",
+        "answer": "\n<p><span style=\"font-weight: 400\">Türkiye’de hukuki konularda mütalaa vermek ve dava takip etmek yetkisi avukatların tekelindedir. Ancak Yabancılar ve Uluslararası Koruma Kanunu başta olmak üzere ilgili diğer yasalarda da belirtilen kanuni temsilcilerden, Birleşmiş Milletler Mülteciler Yüksek Komiserliği’nden ve sivil toplum örgütlerinden de destek ve yardım alabilirsiniz ya da bu kişi veya kurumlardan barodan destek almak amacıyla yardım talep edebilirsiniz. </span></p>\n",
         "language": "Turkish",
         "deep_link": "https://multecihaklari.info/tr/services/adli-yardim/?section=questions&question=26"
     },
@@ -1456,108 +1456,276 @@
         "deep_link": "https://multecihaklari.info/tr/services/refakatsiz-cocuklar-icin-haklar-ve-prosedurler/?section=questions&question=22"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Mülteci Hakları Merkezi kimdir?",
-        "answer": "\n<p><strong>Mülteci Hakları Merkezi</strong> savaş veya zulüm olaylarından dolayı Türkiye’ye sığınan mülteciler ve diğer hassas durumdaki göçmenlerin ulusal ve uluslararası mevzuattan kaynaklanan haklara erişimlerini güçlendirmeye yönelik çalışmalar yürüten, dernek statüsünde bağımsız bir sivil toplum örgütüdür; Merkezi İstanbul’dadır. Kurum, sığınmacılara yönelik sunduğu hukuki destek hizmetlerinin yanı sıra, avukatlar ve sivil toplum örgütlerine yönelik eğitim ve kapasite geliştirme faaliyetleri yürütmekte, mülteci hukukuna dair çeşitli konularda bilgi ve başvuru kaynakları hazırlamakta, ve Türkiye’de sığınma alanındaki mevzuat, politika ve uygulamaların uluslararası standartlarla uyum içinde gelişmesini teşvik eden faaliyetler yürütmektedir.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Türkiye'de engelli bir mülteci olarak haklarım nelerdir?",
+        "answer": "\n<p>Türkiye’deki mülteciler, yani geçici koruma veya uluslararası koruma altındaki kişiler, fiziksel ve/veya zihinsel engelleri varsa, engelli mültecilere tanınan bazı ek hak ve hizmetlerden yararlanabilirler. Bu hak ve hizmetler, engelli kişilerin engelleri nedeniyle iltica prosedürlerinde karşılaşabilecekleri dezavantajları ortadan kaldırmayı ve ihtiyaç duydukları ek desteğe erişimlerini sağlamayı amaçlamaktadır.</p>\n<p>Engelli mülteciler, Türk hukukunda “özel ihtiyaç sahibi kişiler” olarak adlandırılan kategori altında yer almaktadır. Özel ihtiyaç sahibi mültecilere yönelik kayıt ve statü belirleme prosedürlerinin daha hızlı ve öncelikli olarak işlenmesi ve tamamlanması öngörülmektedir. Engelli mülteciler, İl Göç İdaresi Müdürlüğü’ne (İGİM) geçici koruma veya uluslararası koruma başvurusunda bulunduklarında, göç idareleri tarafından İGİM bünyesindeki “koruma masasına” yönlendirilmekte, burada sağlık hizmetleri de dâhil olmak üzere temel ihtiyaçlarının değerlendirilmesi yapılmakta ve ilgili kamu kurumlarına yönlendirilmektedir. Uluslararası koruma başvuru ve statü sahipleri, uluslararası koruma kayıtlarını takip eden bir yıl boyunca Genel Sağlık Sigortası kapsamında kalmaktadır, ancak engelli mülteciler de dahil olmak üzere özel ihtiyaç sahibi kişiler, devam eden tedavi ihtiyaçlarını belgelemeleri halinde göç idarelerinin onayı ile Genel Sağlık Sigortası’ndan yararlanmaya devam edebilirler.</p>\n<p>Engelli mülteciler, kaymakamlıklar veya belediyeler tarafından kendi bütçeleri dâhilinde sağlanan ayni ve nakdi destekler ile “Sosyal Uyum Yardımı” veya Kızılaykart olarak bilinen nakit destek programından da öncelikli olarak yararlandırılmaktadır.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=0"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=0"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Etik ve Profesyonellik İlkelerine neden ihtiyaç duyuyoruz?",
-        "answer": "\n<p>Mülteci Hakları Merkezi (MHM) sığınmacılara, mültecilere, hassas durumdaki göçmenlere ve diğer ilgili kişilere sunduğu destek hizmetlerini etik ve profesyonel davranış ilkelerine en yüksek seviyede uyum ile sürdürmeyi taahhüt eder. Ayrıca, MHM’nin hizmet sunumunun yararlanıcılarımız ile çalışanlarımız arasında eşit olmayan güç ilişkisi barındırdığını farkında olarak; danışanlarımıza etkili bir hizmet sunabilmek için iyi tanımlanmış kurumsal davranış standartlarına sahip olmamız gerektiğini düşünüyoruz.</p>\n<p>Bu ilkeler, MHM ve personelinin gerekli davranış standartlarını korumak ve herhangi bir suiistimalden kaçınmalarını sağlamak amacıyla oluşturulmuş değer ve kurallar bütünüdür. Etik ve profesyonellik, MHM’nin hizmet verdiği yararlanıcılara etkin ve sorumlu hizmeti garanti etmek için gereklidir. Ayrıca, MHM’nin şeffaflık ve yeterlilik konusundaki itibarını korumak için kritik öneme sahiptirler.</p>\n<p>Etik ve Profesyonellik ilkeleri MHM ve tüm personeli (MHM personeli, gönüllüleri, yüklenicileri ve MHM’nin ortak kuruluşlarının personeli dahil) için geçerlidir.</p>\n<p>Kurumumuzun her seviyedeki çalışanı; bu standartları korumak, iyi bir örnek oluşturmak ve çalışanlarımızı bu konuda destekleyen bir çalışma ortamı oluşturmak için özel bir sorumlulukla hareket etmektedir.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engellilik durumum uluslararası koruma başvurumu ve statü belirlememi etkiler mi?",
+        "answer": "\n<p>Engellilik durumunuz tek başına Türkiye’de mülteci, şartlı mülteci veya ikincil koruma statüsü almanıza yardımcı olmayacaktır. Türkiye’deki göç makamlarına yaptığınız sığınma (uluslararası koruma) başvurusuyla ilgili statü belirleme değerlendirmesi, esas olarak menşe ülkenize dönmeniz halinde karşılaşabileceğiniz savaş ve zulüm riskini değerlendirmeyi amaçlamaktadır.</p>\n<p>Bazı durumlarda, engelliliğe geçmişteki savaş veya kötü muamele neden olmuş olabilir veya menşe ülkeye geri dönme korkusu engellilikle ilişkilendirilebilir. Engeliniz nedeniyle menşe ülkenize döndüğünüzde zulüm göreceğinize veya menşe ülkenizdeki yetkililerin engeliniz nedeniyle menşe ülkenizde zulüm görme riskine karşı size yeterli koruma sağlamayacağına inanıyorsanız, statü belirleme mülakatınızda bunu yetkililere açıkça belirtmelisiniz.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=1"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=1"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Hukuki Destek Hizmetleri Sunumunda Bağlı Kaldığımız Etik ve Profesyonellik İlkeleri nelerdir?",
-        "answer": "\n<p>Mülteci Hakları Merkezi, sığınmacı ve diğer hassas durumda yabancılara yönelik sunduğu ücretsiz hukuki destek hizmetlerinin yürütülmesinde:</p>\n<ul>\n<li>Yararlanıcılara, ırk, dil, ten rengi, etnik ve dini aidiyetler, politik görüş, yaş, engel, cinsiyet, cinsel yönelim ve cinsiyet kimliği ve diğer <strong>bireysel farklılıklardan bağımsız olarak</strong> <strong>eşit muamele eder;<br/>\n</strong></li>\n<li>Eşit muamele ve hizmet kalitesini güvence altına almak üzere oluşturulan standartlaştırılmış hizmet politikaları çerçevesinde, <strong>bütün yararlanıcılar aynı tip hukuki destek talepleriyle ilgili eşdeğer düzey ve nitelikte hizmetlerden </strong>yararlandırılır;</li>\n<li>Yararlanıcılara, ilgili göç ve sığınma süreçlerinde karşılaşabilecekleri <strong>olumlu ve olumsuz ihtimaller ve seçeneklerle açık ve doğru ve gerçekçi bilgilendirme </strong>yapar, gerçekçi olmayan beklentiler oluşturmaktan kaçınır;</li>\n<li>Hukuki seçeneklerle ilgili olarak kişilerin yerine karar vermekten kaçınır, <strong>yararlanıcıların doğru ve güvenilir bilgi ve danışmanlık ışığında kendi kararlarını vermelerini</strong> destekler;</li>\n<li>Yararlanıcılara sunulan <strong>hukuki destek hizmetlerinin içeriği ve sınırlarıyla ilgili açık ve doğru bilgilendirme yapar</strong>, gerçekçi olmayan ya da yerine getirilemeyecek taahhütlerde bulunmaktan kaçınır;</li>\n<li>Yararlanıcılarla <strong>karşılıklı saygı, profesyonel mesafe ve kişisel nezaket temelinde iletişim</strong> kurar;</li>\n<li><strong>MHM’nin bütün hukuki bilgilendirme materyalleri ve hukuki destek hizmetleri tamamen ücretsizdir</strong>; buna, basılı ve görsel hukuki bilgilendirme yayınları, çevrim içi ve yüz yüze gerçekleştirilen grup bilgilendirme ve kapasite geliştirme seminerleri de dahildir; aksi bir algıya ya da yanlış anlamaya fırsat bırakmamak amacıyla, <strong>MHM çalışanları yararlanıcılardan hiçbir şekilde herhangi bir hediye, benzeri maddi ve kişisel fayda kabul edemez;</strong></li>\n</ul>\n<ul>\n<li>Yararlanıcılar MHM hukuki bilgilendirme ve destek hizmetlerinden <strong>yararlanmak için,</strong> <strong>herhangi bir üçüncü kişi ya da kuruluşun aracılığı gerekmeksizin, soru ve taleplerini bize doğrudan iletebilirler; </strong>MHM’nin sığınmacı ve göçmenlere ücret ya da başka kişisel fayda karşılığı hizmetlerimizle ilgili <strong>‘yönlendirme’ veya ‘ilişkilendirme’ hizmeti sunduğunu iddia eden hiçbir üçüncü kişi ya da kurumla ilişkisi yoktur;</strong> yararlanıcılar bu türden yanıltıcı vaatlerle çıkar elde etmeyi amaçlayabilecek kötü niyetli kişi ve kurumlara itibar etmemelidir;</li>\n</ul>\n<ul>\n<li>Hukuki destek hizmetlerinin yürütülmesinde ve kişilere idari ve hukuki süreçleriyle ilgili<strong> takip edileceği taahhüt edilen iş ve işlemlerle ilgili olarak özenli çalışma ilkesini</strong> titizlikle gözetir; sunulan hukuki destek hizmetinde oluşabilecek <strong>herhangi bir ihmal ya da hata ile ilgili olarak kurumsal sorumluluk</strong> üstlenir;</li>\n<li><strong>Kişisel bilgilerin gizliliğini titizlikle gözetir; </strong>bağımsız bir hukuki destek aktörü olarak, yararlanıcıların kişisel bilgilerini – kendi açık onayları olmadan – hiçbir şekilde üçüncü kişiler, kurumlar veya mercilerle paylaşmaz;</li>\n<li><strong>Kişisel verilerin korunmasıyla ilgili mevzuattan kaynaklanan bütün yükümlülükleri eksiksiz yerine getirir;</strong> hukuki destek ilişkisi ve etkileşimleri sırasında kişisel verilerin korunmasıyla ilgili söz konusu olabilecek hususlar konusunda yararlanıcılara gereken bilgilendirmeleri yapar, onay gerektiren hususları yararlanıcıların dikkatine sunar;</li>\n</ul>\n<ul>\n<li>Hukuki destek sağlayan vasfıyla <strong>hiçbir şekilde yararlanıcıları doğru olmayan bilgi ve beyanlar veya sahte belge sunmaya teşvik etmez</strong>; hukuki temsilci vasfıyla hiçbir şekilde <strong>kişiler adına doğru olmayan bilgi ve beyanlar veya sahte belgelerin sunumuna aracılık etmez;</strong></li>\n</ul>\n<ul>\n<li><strong>H</strong><strong>içbir şekilde suç niteliğinde eylemlere katılmaz veya aracılık etmez;<br/>\n</strong></li>\n<li>Çocuk yararlanıcılarla ilgili olarak <strong>“</strong><strong>Çocuğun Yüksek Yararı” ilkesini gözetir;</strong></li>\n</ul>\n<ul>\n<li><strong>Bütün yararlanıcılar ve çalışanlar için güvenli bir çalışma ve hizmet ortamı taahhüt eder;</strong> cinsiyet, cinsel yönelim ve cinsiyet kimliği başta olmak üzere, hiçbir kimlik veya farklılık unsuru temelinde, saygısızlık, şiddet, taciz veya sömürü niteliğinde hiçbir tutum ve davranışa tahammül etmez.</li>\n</ul>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "\"Engellilik” resmi olarak nasıl tanımlanır?",
+        "answer": "\n<p>Türk hukukuna göre engelli kişi, fiziksel, zihinsel, ruhsal ve duyusal yetilerinde çeşitli düzeyde kayıplarından dolayı topluma diğer bireyler ile birlikte eşit koşullarda tam ve etkin katılımını kısıtlayan tutum ve çevre koşullarından etkilenen birey olarak tanımlanmaktadır.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=2"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=2"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Cinsel Sömürü ve İstismar nedir?",
-        "answer": "\n<p><strong>Cinsel Sömürü:</strong> Cinsel sömürü; hassas bir durumun, güç ilişkisinin veya güvenin cinsel amaçlarla fiili olarak istismar edilmesi veya istismar edilme girişiminde bulunulmasıdır.</p>\n<p><strong>Cinsel istismar:</strong> Güç kullanarak veya eşit olmayan ya da zorlayıcı koşullar altında fiili olarak gerçekleştirilen veya gerçekleştirilmesi tehdidinde bulunulan cinsel faaliyettir.</p>\n<p>CSİ bir insan hakları ihlalidir ve MHM çalışanları için ağır suistimal eylemi niteliği taşır. MHM, tek bir cinsel sömürü ve istismar vakasının bile çok fazla olduğu bilinciyle her türlü cinsel şiddete karşı sıfır tolerans politikası izlemektedir.</p>\n<p>MHM personeli tarafından cinsel sömürü ve istismara maruz kaldığınızı düşünüyorsanız ya da MHM personelinin olası bir cinsel sömürü veya istismar olayına karıştığı konusunda bilginiz veya karışmış olma olasılığı konusunda herhangi bir şüpheniz varsa, lütfen durumu doğrudan aşağıda detaylı bir şekilde açıkladığımız <strong><a href=\"http://mhd.org.tr/tr/geri-bildirim-ve-sikayet-mekanizmamiz\">Geri Bildirim ve Şikayet Mekanizmamız’</a><u>a</u></strong> bildirin.  Bu süreçte, yapacağınız şikayetlerin gizli tutulduğunu ve bildirdiğiniz bilginin sizin rızanız olmadan başkalarıyla paylaşılmayacağını unutmayın.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli bir mülteci olarak haklara erişebilmem için herhangi bir ön koşul var mı?",
+        "answer": "\n<p>Türkiye’de engelli sığınmacı ve mültecilere sunulan hizmetlerden yararlanabilmek için öncelikle geçici koruma veya uluslararası koruma kaydınızın olması ve engelliliğinizi belgeleyen güncel bir hastane raporunuzun olması gerekmektedir.</p>\n<p>Geçici koruma veya uluslararası koruma kaydının nasıl yapılacağına ilişkin bilgi için lütfen platformumuzun Kayıt ve Statü başlıklı bölümüne bakınız. Engelli raporu hakkında daha ayrıntılı bilgi aşağıda verilmiştir.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=3"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=3"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Cinsel Sömürü ve İstismarı Önleme Hakkında dayanak aldığımız temel ilkeler nedir?",
-        "answer": "\n<p>MHM, cinsel sömürü ve istismara karşı sıfır tolerans politikasına sahiptir. Yararlanıcılarımızı, cinsel sömürü ve istismardan korumak ve bu tür suiistimaller meydana geldiğinde yeterli müdahaleyi sağlamak için önlemler alıyoruz. Bu kapsamda; aşağıdaki ilkeleri benimsiyor ve titizlikle uyguluyoruz:</p>\n<ol>\n<li> Cinsel sömürü ve istismar (CSİ), MHM çalışanlarının görevlerini ciddi bir şekilde kötüye kullanmaları olarak kabul edilir ve işlerinin sonlandırılmasıyla sonuçlanır.\n</li>\n<li> Çocuklarla (18 yaşın altındaki kişiler), cinsel etkileşim yasaklanmıştır. Çocuğun yaşı hakkındaki yanlış bilgilendirme bir savunma aracı değildir.\n</li>\n<li> Cinsel birleşme amacıyla para akışının sağlanması, iş verme, mal veya hizmet alımı; cinsel iltimas veya diğer her türlü aşağılayıcı, küçük düşürücü veya istismar edici hareketler dahil olmak üzere yasaklanmıştır. Bu husus, yararlanıcılara yapılan yardım hizmetlerini de kapsamaktadır.\n</li>\n<li> Kurum çalışanları, ortakları, gönüllüleri ile yararlanıcıların arasındaki cinsel ilişkiler adil olmayan güç dinamiklerine dayandığı için şiddetle karşı çıkılmaktadır. Bu tarz ilişkiler kurumların güvenirlik ve bütünlüğüne zarar vermektedir.\n</li>\n<li>Bir çalışanının kurum içerisinde CSİ konusunda herhangi bir şüphesi veya çekincesi var ise, bu çekinceleri ivedilikle yöneticisini konu hakkında bilgilendirerek bildirmesi gerekmektedir.\n</li>\n<li> MHM CSİ’yi önleyici bir çevre oluşturmak ve sürdürmekle yükümlüdür ve tüm çalışanlar CSİ politikasının uygulanmasının teşvikinden sorumludur. Kurumun yöneticileri, CSİ politikasının uygulanması, desteklenmesi ve geliştirilmesi için uygun ortamı sağlamalıdır.</li>\n</ol>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli raporunu nereden alabilirim?",
+        "answer": "\n<p>Engelli Sağlık Kurulu Raporu olarak da bilinen engelli raporu, Sağlık Bakanlığı tarafından yetkilendirilmiş hastanelerden alınmaktadır. Yaşadığınız yere en yakın hastaneyi tespit etmek için lütfen engelli sağlık raporu vermeye yetkili hastaneler listesine bakınız: </p>\n<p><a href=\"https://khgmcalisanhaklaridb.saglik.gov.tr/TR-42698/engelli-saglik-kurulu-raporu-duzenlemeye-yetkili-saglik-kuruluslari-listesi.html\">https://khgmcalisanhaklaridb.saglik.gov.tr/TR-42698/engelli-saglik-kurulu-raporu-duzenlemeye-yetkili-saglik-kuruluslari-listesi.html</a> </p>\n<p>Engelli mülteciler bu raporu kendileri için talep edebilecekleri gibi, bakımlarını üstlenen kişiler de onlar adına talep edebilirler. Süreci başlatmadan önce 182 numaralı telefondan Merkezi Hastane Randevu Sistemi’ni doğrudan arayarak ya da hastanelere şahsen giderek randevu alınması gerekmektedir. Randevu alırken Sağlık Kurulu Birimine engelli raporu almak için başvurduğunuzu belirtmeniz önemlidir.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=4"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=4"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Dolandırıcılık ve yolsuzluk nedir?",
-        "answer": "\n<p><strong>Dolandırıcılık, </strong>fayda sağlamak üzere karşı tarafı kasıtlı olarak yanıltma amacıyla gerçekleştirilen her türlü eylem dolandırıcılık kapsamına girmektedir.</p>\n<p><strong>Yolsuzluk ise </strong>bir kişinin bir eylemi yerine getirmesini usulsüz şekilde sağlamak amacıyla herhangi bir menfaatin, doğrudan ya da dolaylı olarak, teklif edilmesi, verilmesi, alınması veya talep edilmesidir.</p>\n<p><strong>MHM’nin bütün hukuki bilgilendirme materyalleri ve hukuki destek hizmetleri tamamen ücretsizdir</strong>; buna, basılı ve görsel hukuki bilgilendirme yayınları, çevrim içi ve yüz yüze gerçekleştirilen grup bilgilendirme ve kapasite geliştirme seminerleri de dahildir; aksi bir algıya ya da yanlış anlamaya fırsat bırakmamak amacıyla, <strong>MHM çalışanları yararlanıcılardan hiçbir şekilde herhangi bir hediye, benzeri maddi ve kişisel fayda kabul edemez.</strong></p>\n<p>Yararlanıcılar MHM hukuki bilgilendirme ve destek hizmetlerinden <strong>yararlanmak için,</strong> <strong>herhangi bir üçüncü kişi ya da kuruluşun aracılığı gerekmeksizin, soru ve taleplerini bize doğrudan iletebilirler; </strong>MHM’nin sığınmacı ve göçmenlere ücret ya da başka kişisel fayda karşılığı hizmetlerimizle ilgili <strong>‘yönlendirme’ veya ‘ilişkilendirme’ hizmeti sunduğunu iddia eden hiçbir üçüncü kişi ya da kurumla ilişkisi yoktur.</strong> Yararlanıcılar bu türden yanıltıcı vaatlerle çıkar elde etmeyi amaçlayabilecek kötü niyetli kişi ve kurumlara itibar etmemelidir.</p>\n<p>Size para karşılığında sunulan her türlü MHM hizmetinin dolandırıcılığa dayalı olduğunu unutmayın. MHM’nin faaliyetleri ve hizmetleri hakkında gerçek bilgilere ulaşmak için, lütfen bizimle iletişime geçin.</p>\n<p>MHM personelinin veya MHM ortakları veya yüklenicileri bünyesinde çalışan personelin yolsuzluğa veya dolandırıcılığa karıştığı konusunda herhangi bir bilgiye sahipseniz, lütfen durumu acilen <a href=\"https://www.mhd.org.tr/tr/geri-bildirim-ve-sikayet-mekanizmamiz\"><strong>Geri Bildirim ve Şikayet Mekanizmamız’a</strong></a> bildirin.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli raporu almak için gerekli belgeler nelerdir?",
+        "answer": "\n<p>Engelli Sağlık Kurulu Raporu alabilmek için öncelikle Türkiye’de yasal olarak kaldığınızı gösteren Geçici Koruma Kimlik Belgesi/Uluslararası Koruma Başvuru Sahibi Belgesi/Uluslararası Koruma Statü Sahibi Kimlik Belgesine ve geçerli bir kimlik numarasına sahip olmanız gerekmektedir. Bu kimlik belgesine ek olarak, Türkiye’deki veya menşe ülkenizdeki engellilik durumunuzu kanıtlayan belgeleriniz varsa, sağlık kurulundan randevu aldığınız gün bunları yanınızda getirmenizi öneririz.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=5"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=5"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Etik ve Profesyonellik ilkelerine aykırı tutum ve davranışa maruz kaldığımı düşünüyorum. Ne yapmalıyım?",
-        "answer": "\n<p>Mülteci Hakları Merkezi, hukuki destek hizmetleri başta olmak üzere bütün faaliyetlerinin yürütülmesinde yukarıda sayılan Etik ve Profesyonellik İlkelerine uygun tutum ve davranışta bulunmayı taahhüt eder. MHM çalışanlarının veya temsilcilerinin bu ilkeleri ihlal etmesi durumunda kurumumuzun <a href=\"https://www.mhd.org.tr/tr/geri-bildirim-ve-sikayet-mekanizmamiz\"><strong><u>Geri Bildirim ve Şikayet Mekanizmasına</u></strong></a> başvurabilirsiniz.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli raporu almak için hastanede nasıl bir süreç izlemeliyim?",
+        "answer": "\n<p>Öncelikle evinize yakın olan ve Sağlık Kurulu Birimi bulunan bir hastaneden randevu almalısınız. Randevu gününüzde/saatinde zamanında hastanede olmalısınız. Hastane içinde bulabilirseniz doğrudan hastane içindeki “Sağlık Kurulu Birimi ”ne gitmelisiniz, aksi takdirde yardım için resepsiyona danışabilirsiniz. Hastaneye giderken yanınızda Geçici Koruma Kimliğinizi veya Uluslararası Koruma Başvuru Sahibi/Statü Sahibi Kimliğinizi getirmeniz gerekmektedir.</p>\n<p>Sağlık Kurulu Birimi görevlileri sizden kimliğiniz ve sağlık durumunuzla ilgili sorular içeren bir form doldurmanızı isteyecektir. Daha sonra, bir değerlendirme yapabilmek ve bu konuda bir rapor yazabilmek için mevcut sağlık durumunuzu inceleyecek olan ilgili branşlardaki doktorlara yönlendirileceksiniz. İlgili branşlardaki her bir hekim, muayenenizin ardından maluliyet durumunuzu değerlendirecektir. Daha sonra hekimlerden oluşan bir sağlık kurulu maluliyet durumunuzu toplu olarak değerlendirecek ve sizin için bir rapor hazırlayacaktır.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=6"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=6"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Geri Bildirim ve Şikayet mekanizması nedir?",
-        "answer": "\n<p>Mülteci Hakları Merkezi (“MHM”), çalışmaları ve davranış kurallarıyla ilgili tüm paydaşlarından zamanında ve uygun bir şekilde geri bildirim almayı ve şikayetlere yanıt vermeyi taahhüt eder. Geri bildirim ve şikayetler profesyonelce ve adaleti, şeffaflığı ve hesap verebilirliği teşvik edecek bir şekilde ele alınır. Geri Bildirim ve Şikayet Mekanizması MHM’nin, faaliyetlerini yürütürken aşağıdaki konuları dikkate aldığını gösteren kurumsal bir yapıdır:</p>\n<ul>\n<li>Paydaşlarımızın itibarını, değerini ve onların dinlenilme ve tanınma haklarını teyit etmek,</li>\n<li>Paydaşlarımızın ihtiyaçlarını anlamak ve programlarımızı onların ihtiyaçlarını daha iyi karşılayacak şekilde düzenleyerek kalite ve etkiyi artırmak,</li>\n<li>Yanlış davranışlar hakkında kurumsal farkındalığı artırmak ve MHM’nin yanlış davranışlara müsamaha göstermediği konusunda paydaşları temin etmek.</li>\n</ul>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli raporuma nasıl itiraz edebilirim?",
+        "answer": "\n<p>Engelli raporunuzda belirtilen engellilik yüzdesinin ve diğer değerlendirmelerin eksik veya hatalı olduğunu düşünüyorsanız bu rapora itiraz etme hakkınız bulunmaktadır.</p>\n<p>Siz, varsa vasiniz ya da raporu talep eden kurum, raporun tarafınıza ulaştığı tarihten itibaren otuz gün (30) içinde başvurarak engelli sağlık kurulu raporuna itiraz edebilirsiniz. İtiraz için ikamet ettiğiniz veya raporu aldığınız yerdeki İl Sağlık Müdürlüğüne başvurabilirsiniz.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=7"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=7"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Geri Bildirim ve Şikayet mekanizmasına kimler başvurabilir?",
-        "answer": "\n<p>Mülteci Hakları Merkezi’nden destek alan tüm yararlanıcılar, kurumumuzun Geri Bildirim ve Şikayet mekanizmasına başvurabilirler. Kurumumuzun faaliyetlerine katılan ve kurumumuz ile temas halinde olan tüm paydaşlar, Etik ve Profesyonellik ilkelerine aykırı bir duruma maruz kalmaları veya gözlemlemeleri veya MHM’den aldıkları hizmetlere ilişkin olumsuz veya olumlu geri bildirimlerini iletmek amacıyla Geri Bildirim ve Şikayet mekanizmamıza başvurabilirler:</p>\n<ul>\n<li>Tüm MHM faydalanıcıları,</li>\n<li>MHM’nin politika ve eylemlerinden doğrudan etkilenen diğer kişiler,</li>\n<li>Ortaklar, fonlayıcı kuruluşlar ve onların çalışanları (insani yardım ortakları, yükleniciler ve yetkililer).</li>\n</ul>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli raporu ömür boyu geçerli midir?",
+        "answer": "\n<p>Engelli sağlık kurulu raporunuzda, raporun geçerlilik süresi bölümünde rapor tarihi itibariyle ne kadar süreyle geçerli olduğu belirtilmektedir. Bu durumda raporunuzun süresi dolduğunda hastaneden yeniden randevu alarak en son sağlık durumunuzu değerlendirmeye yönelik yeni bir sağlık muayenesinden geçerek raporunuzu yenilemeniz gerekmektedir.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=8"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=8"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Geri Bildirim ve Şikayet mekanizmasında hangi bildirimler değerlendirilir?",
-        "answer": "\n<p>Geri Bildirim ve Şikayet mekanizması, Mülteci Hakları Merkezi’nin sunduğu hukuki destek hizmetleri, düzenlediği etkinlikler ve tüm faaliyetleri ile ilgili olumlu ve olumsuz görüşlerinizi paylaşabileceğiniz bir mekanizma olmanın yanı sıra, aynı zamanda Etik ve Profesyonellik ilkelerinin ihlali durumunda başvurulabilecek kurumsal bir yapıdır. Mülteci Hakları Merkezi, sunduğu hizmetler ve işleyişi hakkında geri bildirim almaya, şikayetlere yanıt vermeye ve sunduğu desteği bu görüşler doğrultusunda geliştirmeyi amaçlamaktadır.</p>\n<p>Aşağıdaki kategorilerde iletilen geri bildirim/şikayetler değerlendirilecektir:</p>\n<ul>\n<li>Sunulan hizmetler hakkında olumlu/olumsuz geri bildirim</li>\n<li>Operasyonel şikayetler (verilen hizmetlerde yaşanan gecikmeler vs.)</li>\n<li>Yolsuzluk (dolandırıcılık, hırsızlık vs.)</li>\n<li>Gizlilik ihlalleri</li>\n<li>Cinsel sömürü ve istismar</li>\n<li>Her türlü ayrımcılık</li>\n<li>Taciz, zorbalık ve sözlü taciz</li>\n</ul>\n<p>Geribildirim ve Şikayet Mekanizması kapsamında aşağıdaki geri bildirim/şikayet kategorileri değerlendirmeye alınmayacaktır:</p>\n<ul>\n<li>MHM ile ilgisi olmayan konular hakkındaki bildirimler/şikayetler,</li>\n<li>Kurum içi işleyişe ilişkin yapılan bildirim/ şikayetler (Kurum içi ayrı bir geri bildirim ve şikayet mekanizmamız bulunmaktadır.)</li>\n</ul>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli kimlik kartı nedir? Almak için nereye başvurmalıyım?",
+        "answer": "\n<p>Engelli kimlik kartı, engellilik durumunuzu kanıtlayan ve Türkiye’de engelli bireyler için sağlanan hizmetlere başvurmanıza yardımcı olabilecek bir belgedir. Bu nedenle engelli kimlik kartı başvurunuzu engelli raporunuzu aldıktan sonra yapmanızı tavsiye ederiz.</p>\n<p>Bu kart ile yararlanabileceğiniz bazı hizmetler ve indirimler bulunmaktadır. Engelli kimlik kartınız ile şehir içi ulaşımdan ücretsiz yararlanabilirsiniz. Bunun için bulunduğunuz ildeki büyükşehir belediyesi ulaşımdan sorumlu şubelerine sağlık kurulu raporunuz ve kimlik kartınızla başvurmanız gerekiyor. Size ulaşım için kullanabileceğiniz bir kart verecekler. Bu ulaşım kartı ile belediye otobüsleri, metro, tramvay ve deniz yollarından ücretsiz yararlanabilirsiniz.</p>\n<p>Bazı şehirlerarası otobüsler indirim yapmaktadır. Bazı cep telefonu şirketleri indirim yapmaktadır. Yine bazı TV yayın kuruluşları (D-Smart, Digitürk gibi) indirim sağlayabilir.</p>\n<p>\nEngellilere yönelik hizmetlerine öncelik verebilen, ayni ve nakdi yardımda bulunan sivil toplum kuruluşları da bulunmaktadır. Bu yardım ve hizmetlerden yararlanabilmek için engelli kimlik kartınız ile başvuruda bulunabilirsiniz.</p>\n<p>Engelli Kimlik Kartı, sağlık kurulu raporunda %40 ve üzeri engelli olduğu belirtilen kişiler tarafından alınabilmektedir. Bu nedenle sağlık kurulu raporunuzda %40 ve üzeri engelli olduğunuz belirtiliyorsa engelli kimlik kartı başvurusunda bulunabilirsiniz.</p>\n<p>Bunun için ikamet ettiğiniz ildeki Aile ve Sosyal Hizmetler İl Müdürlüğü’ne başvurmanız gerekmektedir. Başvuru sırasında yanınızda 2 adet fotoğraf, Geçici Koruma Kimlik Belgesi / Uluslararası Koruma Başvuru Sahibi Belgesi / Uluslararası Koruma Statüsü Sahibi Kimlik Belgesi ve engelli sağlık kurulu raporunuzun aslı veya noter onaylı sureti bulunmalıdır.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=9"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=9"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Geri Bildirim ve Şikayet mekanizmasına nasıl başvurulur?",
-        "answer": "\n<p><em>Mülteci Hakları Merkezi olarak size verdiğimiz hizmetler hakkında geri bildirim almak, aldığınız hizmete yönelik iletmek istediğiniz şikayetler var ise dinlemek ve sunduğumuz destekleri görüşleriniz doğrultusunda iyileştirmek istiyoruz. Bu kapsamda, diğer destek hatlarımızın dışında yalnızca <strong>geri bildirim ve şikayetlerinizi</strong> iletebilmeniz için oluşturulmuş aşağıdaki iletişim kanallarından dilediğinizi kullanabilirsiniz.</em></p>\n<p><strong>MHM Geri Bildirim ve Şikayet Hattı:</strong></p>\n<p>Hafta içi Pazartesi’den Cuma’ya saat 10.00-17.00 saatleri arasında: <a href=\"tel:+905433296190\">0543 329 61 90</a> </p>\n<ul>\n<li>Söz konusu hat İngilizce ve Türkçe dillerinde hizmet vermekle beraber; talep edilmesi halinde Arapça ve Farsça, Fransızca ve diğer dillerde tercüme gerçekleştirilecektir.</li>\n<li>Bunun dışında; herhangi bir dilde iletilecek SMS, Whatsapp, Telegram, Signal, Viber mesajları değerlendirmeye alınacaktır.</li>\n</ul>\n<p><strong>E-posta:</strong> <a href=\"mailto:geribildirim-sikayet@mhd.org.tr\">geribildirim-sikayet@mhd.org.tr</a> ya da <a href=\"mailto:feedback-complaints@mhd.org.tr\">feedback-complaints@mhd.org.tr</a>. </p>\n<p>Herhangi bir dilde iletilecek e-postalar değerlendirmeye alınacaktır.</p>\n<p><strong>Çevrimiçi form:</strong> İsterseniz, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScfDQVudLlDha6nMACBoTwDLE2YWNscWjd2OzWOOOnBXIUsTQ/viewform\">Türkçe</a>, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc76wSwaQCenUQD1yKIhRyrs565grkiiO3ndKfleHTuBAfRZg/viewform\">İngilizce</a>, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdTRAMZgfgJ4lnPlMw2kN97U4Jb6ANN5mbphl1glrfFWMzZLQ/viewform\">Fransızca</a>, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdu7Euqd2qeeCJwojRJ3KGQ3wZXUuZlugSe4FxAlcjgytey-Q/viewform\">Arapça </a>veya <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHq0keZ24iFQwU3FYfDvr8U0d-Q7V3XKcB9f5MG7QUidsowQ/viewform\">Farsça </a>dillerinde hazırlanmış çevrimiçi formu doldurarak da geri bildiriminiz veya şikayetinizi bize ulaştırabilirsiniz.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Çocuğum için nasıl engelli raporu alabilirim?",
+        "answer": "\n<p>Çocuklar İçin Özel Gereksinim Değerlendirme Raporu (ÇÖZGER) almak için çocuğa bakan kişinin ÇÖZGER vermeye yetkili bir hastaneye başvuru dilekçesi ile başvurması gerekmektedir.</p>\n<p>On sekiz yaş altı bireylerin engelleri farklı oranlarda “özel gereksinim” düzeyleri olarak belirlenir ve buna göre kategorize edilir:</p>\n<ul>\n<li>%20-39 arasında engelli ise “Özel Gereksinimi Var”</li>\n<li>%40-49 arasında ise “Hafif Düzeyde Özel Gereksinimi Var”</li>\n<li>%50-59 arası engellilik durumunda “Orta Düzeyde Özel İhtiyaç”;</li>\n<li>%60-69 engellilik arasında ise “Ağır Özel İhtiyaçları Var”;</li>\n<li>%70-79 arasında ise “Çok Ağır Özel İhtiyaçları Var”;</li>\n<li>%80-89 arasında ise “Önemli Özel İhtiyaçları Var” ve</li>\n<li>%90-99 arasında ise “Özel Koşul Gerekliliği” olarak raporda belirtilir.</li>\n</ul>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=10"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=10"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Geri Bildirim ve Şikayet mekanizması nasıl çalışır?",
-        "answer": "\n<p>Tarafımıza ulaşan her kişi ve kurumun bilgileri, gizlilik ilkelerine bağlı kalınarak, titizlikle değerlendirilecektir. Bu bilgiler yasal zorunluluklar dışında hiçbir sebeple üçüncü kişilerle paylaşılmayacaktır. Başvurunun değerlendirilmesi ve soruşturulması sırasında başvuru sahibinin ve diğer ilgililerin mahremiyetine özen gösterilir. Ayrıca MHM, yapılan bildirimlerin yararlanıcıların kurumumuzdan hizmet alma veya almaya devam etme durumlarını etkilemeyeceğini de hatırlatır.</p>\n<p>MHM, herhangi türde ayrımcılık ve tacize kesinlikle taviz vermeyen ve ortaya çıkabilecek bu tür durumları görmezden gelmeyen bir hizmet ortamı sunmayı taahhüt eden bir kurumdur.</p>\n<p>Şikayette bulunurken, bildiriminizi, ne olduğunu, olay ve/veya olaylar hakkında bildiklerinizi detaylı şekilde yazarak; görevi suistimale kalkışan kişinin kim olduğunu ve varsa bu olaya dahil olan başka kişileri de mümkünse ad-soyad, iş belirterek ve mümkünse gün ve saati de ekleyerek oluşturun. Şikayetler isimsiz olarak yapılabilir, ancak eğer isimsiz şikayette bulunmayı tercih ederseniz lütfen olayla ilgili tüm ayrıntıları eklediğinizden emin olun.</p>\n<p>Şikayet ve geri bildirimlerinizin kapsamını anlayabilmek ve bize başvurduğunuz konu hakkında daha detaylı bilgi almak amacıyla sizinle iletişime geçmemiz gerekebilir. Geri Bildirim ve Şikayet mekanizmasına yapılan başvurular 3 iş günü içerisinde cevaplandırılmaktadır. Söz konusu cevapta, başvurunun tarafımıza ulaştığı ve başvurunun içeriğine göre nasıl bir yol izleyeceği ilgiliye bildirilir.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Çocuğumun ÇÖZGER raporuna nasıl itiraz edebilirim?",
+        "answer": "\n<p>Çocuğunuzun ÇÖZGER raporunda belirtilen engel yüzdesinin ve diğer değerlendirmelerin eksik veya yanlış olduğunu düşünüyorsanız bu rapora itiraz etme hakkına sahipsiniz. ÇÖZGER raporuna, çocuğun bakımını üstlenen kişi veya raporu talep eden kurum tarafından, raporun alındığı tarihten itibaren otuz gün (30) içinde ikamet edilen ilin veya raporun alındığı ilin İl Sağlık Müdürlüğüne başvurularak itiraz edilebilir.</p>\n<p>Bu durumda İl Sağlık Müdürlüğü çocuğu farklı bir hastaneye sevk edecektir. Çocuğun bakımından sorumlu kişi veya hizmet sunucusu itiraz sonucu alınan ikinci ÇÖZGER raporunu uygun bulursa rapor kabul edilerek kullanılabilir. Çocuğun bakımından sorumlu kişi rapor sonucunu kabul etmez ve itiraz devam ederse İl Sağlık Müdürlüğü çocuğu hakem hastaneye yani üçüncü bir hastaneye sevk edecektir.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=11"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=11"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Şikayet ve geri bildirimlerimi iletirsem sizden destek almaya devam edebilir miyim?",
-        "answer": "\n<p>Evet. MHM, yapılan bildirimlerin yararlanıcıların kurumumuzdan hizmet alma veya almaya devam etme durumlarını etkilemeyeceğinin taahhüt eder.</p>\n",
+        "section": "Engelli Mültecilerin Hakları",
+        "question": "Engelli bir birey olarak istihdam olanaklarım nelerdir?",
+        "answer": "\n<p>Tüm yabancıların Türkiye’de yasal olarak çalışabilmeleri için çalışma izni almaları gerekmektedir. Türkiye’de yasal istihdama ilişkin kurallar ve prosedürler hakkında daha fazla bilgi almak için lütfen bu platformdaki ilgili bölüme bakınız.</p>\n<p> <br/>\nÇalışma iznine sahip engelli mülteciler de diğer yabancılar gibi Türkiye’de çalışabilirler. Ayrıca engelli mülteciler, sadece engelliler için belirlenen istihdam kotalarından da yararlanabilmektedir. Türkiye’de 50 veya daha fazla kişi istihdam eden özel sektör işyerlerinde, toplam çalışan sayısının en az %3’ünün engelli bireylerden oluşması gerekmektedir. Engelli bireylerin istihdam edildiği işlerin sağlık durumlarına uygun olması gerektiğine dikkat etmek önemlidir. Sonuç olarak, her iş her tür engelliye uygun olmayabilir.</p>\n<p><strong>Engelli kotası olan işler hakkında bilgi sahibi olmanın en iyi yolu </strong></p>\n<p>Engelli bir birey olarak Türkiye İş Kurumu’na, Türkiye İş Kurumu İl Müdürlüklerine veya Türkiye İş Kurumu’nun resmi internet sitesi olan <a href=\"http://www.iskur.gov.tr\">www.iskur.gov.tr</a> adresine başvurabilirsiniz. Daha detaylı bilgi için lütfen <a href=\"https://www.multecihaklari.info/\">web sitemizdeki</a> İşgücü Piyasasına Erişim başlıklı bölüme bakınız.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=12"
+        "deep_link": "https://multecihaklari.info/tr/services/engelli-multecilerin-haklari/?section=questions&question=12"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Şikayet ve geri bildirimlerime ilişkin bir MHM yetkilisi ile yüz yüze görüşebilir miyim?",
-        "answer": "\n<p>Elbette. Şikayet veya geri bildirimlerinizi ofis saatlerimiz içerisinde (9.30- 17.30) yüz yüze olarak da iletebilirsiniz. Ofise gelmeden önce <a href=\"tel:+905433296190\">0 543 329 61 90</a> numaralı telefon numarasından randevu almanızı tavsiye ederiz. Şikayet ve geri bildirimlerinizi iletmek için ofisimizdeki şikayet kutularını da kullanabilirsiniz.</p>\n",
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız kişi kime denir?",
+        "answer": "\n<p>Vatansız kişi, hiçbir devletin vatandaşlığına sahip olmayan kişilere denir. Bazı kişiler doğuştan vatansız olabilirken, bazıları ise hayatlarının daha sonraki bir evresinde vatansız hale gelebilir. Türkiye’de vatansız kişiler, hukuki anlamda, “yabancı” olarak kabul edilir.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=13"
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=0"
     },
     {
-        "section": "Mülteci Hakları Merkezi'nin Hizmetlerine Erişim",
-        "question": "Mülteci Hakları Merkezi mensubu olmayan bir kişi hakkında şikayetimi iletebilir miyim?",
-        "answer": "\n<p>MHM, sadece kendi çalışanları ve faaliyetlerinden sorumludur. Şikayetinizin mahiyetine göre, farklı kurum veya polise başvurmanız gerekebilir. Bu tür konularda sorularınız olması halinde, bu hattı değil, MHM genel hukuki danışma hattımız <a href=\"tel:+908502184830\">0 850 218 48 30</a>’u arayabilirsiniz.</p>\n",
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık tespit prosedürü nedir?",
+        "answer": "\n<p>Vatansızlık tespit prosedürü, herhangi bir ülkenin vatandaşı olarak tanınmayan kişilerin durumlarının tespit edilmesi için gerçekleştirilen resmi bir inceleme sürecidir. Türkiye’de bu işlem Göç İdaresi Başkanlığı ve İl Göç İdaresi Müdürlükleri tarafından yürütülür. Bu süreç, vatansız kişilerin hukuki statülerinin belirlenmesi ve böylece vatansız kişilere tanınan hak ve hizmetlerden yararlanabilmeleri için büyük önem taşır.</p>\n",
         "language": "Turkish",
-        "deep_link": "https://multecihaklari.info/tr/services/iletisim/?section=questions&question=14"
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=1"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık tespit prosedürü nasıl başlatılır?",
+        "answer": "\n<p>Vatansızlık tespit prosedürü, kişinin başvurusu üzerine başlatılır. Eğer vatansız iseniz, yani hiçbir devletin vatandaşlığına sahip değilseniz, bulunduğunuz yerdeki Göç İdaresi İl Müdürlüklerine müracaat ederek, vatansızlık durumunuzun tespit edilmesini talep edebilirsiniz. Göç İdaresi İl Müdürlükleri, vatansızlık durumunuzu doğrulamak amacıyla kapsamlı bir inceleme yapacaktır. Başvurunuz hakkında kararı verecek olan merci ise Göç İdaresi Başkanlığı’dır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=2"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Kimler vatansızlık başvurusu yapabilir?",
+        "answer": "\n<p>Herhangi bir ülkenin vatandaşı olmadığını iddia eden herkes, vatansızlık durumunun tespiti için başvuruda bulunabilir. Bu başvuru, Türkiye’ye vatansız olarak gelen veya Türkiye’de iken vatandaşlığını kaybeden kişiler tarafından yapılabilir. Başvuruların bizzat yapılması gerekmekte olup, avukat veya yasal temsilci aracılığıyla başvuru yapılamaz.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=3"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Kimler vatansızlık başvurusu yapamaz?",
+        "answer": "\n<p>Başka bir ülkede çıkarılan vatansız kişi kimlik belgesi ya da vatansız kişi pasaportu sahibi iseniz, Türkiye’de vatansızlık statüsü talep etmeniz mümkün değildir. Eğer başka bir ülke tarafından vatansız kişi olarak tanınıyorsanız, Türkiye’de yaptığınız vatansızlık başvurunuz işleme alınmayacaktır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=4"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık başvurusu yaptıktan sonra ne olur?",
+        "answer": "\n<p>Vatansızlık başvurusu yaptığınızda, başvuruyu yaptığınız Göç İdaresi İl Müdürlüğü tarafından başvurunuz kayıt altına alınacak ve sizin adınıza bir “müracaat belgesi” düzenlenecektir. Müracaat belgesi için herhangi bir harç ya da ücret ödemeniz gerekmez. Müracaat belgesi, Türkiye’de yasal olarak kalabilmeniz için geçici bir kimlik belgesi işlevi görür. Bu belge, Göç İdaresi Başkanlığı başvurunuz hakkında bir karar verene kadar geçerli olmaya devam edecektir.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=5"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık tespit prosedürü nasıl işler?",
+        "answer": "\n<p>Göç idaresi yetkilileri, sizden herhangi bir ülkenin vatandaşı olmadığınızı kanıtlayan belge ve bilgileri sunmanızı isteyecektir. Eğer bu tür bir belge sunamıyorsanız, önceki ikamet yerinizin bulunduğu ülkenin vatandaşlık mevzuatı hükümleri vatansızlık durumunuzun kanıtı olarak kabul edilebilir. Gerekli ve uygun olan durumlarda, Göç İdaresi Başkanlığı, daha önce vatandaşlık taşıdığınız ülkeden bilgi ve belge talep edebilir. Hiçbir durumda vatansızlığınızı gösteren bir belge temin edilemezse, göç idaresi makamları beyanlarınıza dayanarak gereken araştırma ve incelemeyi yapacaktır. Kişisel bilgileriniz, gizlilik esaslarına uygun olarak korunacak ve yalnızca yetkili makamlarca erişilebilir olacaktır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=6"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık başvurusunda hangi belgeleri sunmalıyım?",
+        "answer": "\n<p>Başvuru sırasında kimliğinizi ve vatansızlık durumunuzu kanıtlayacak her türlü belgeyi sunmanız gerekmektedir. Bu belgeler arasında eski pasaportlar, vatandaşlıktan çıkarılma belgeleri, doğum belgeleri ve önceki ikamet ettiğiniz ülkelerle ilgili diğer resmi belgeler yer alabilir. Başvuru sürecinde, elinizde bulunan tüm bilgi ve belgeleri dürüstlük ve doğru bilgi paylaşma esaslarına uygun olarak makamlarla paylaşmanız büyük önem taşır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=7"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık tespit mülakatı nedir?",
+        "answer": "\n<p>Vatansızlık tespit mülakatı, başvurucunun vatansızlık statüsüne dair iddialarını detaylı bir şekilde açıklayabilmesi için başvuruyu yaptığınız İl Göç İdaresi Müdürlüğü bünyesindeki göç uzmanlarıyla yapılan birebir görüşmedir. Bu mülakatta, sizden herhangi bir ülkenin vatandaşı olmadığınızı ve vatandaşlık bağlarınızın neden kesildiğini veya hiç oluşmadığını açıklamanız beklenir. Mülakat sonunda, mülakatı gerçekleştiren yetkililer tarafından bir rapor düzenlenir ve bu rapor, başvuru ile ilgili yetkililerin görüşlerini de içererek, Göç İdaresi Başkanlığı’na gönderilir.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=8"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Mülakat ne zaman gerçekleştirilir?",
+        "answer": "\n<p>Başvurunuzun kaydedilmesini takip eden 15 gün içinde mülakata çağrılmanız yasal bir zorunluluktur. Ancak, Göç İdaresi İl Müdürlüklerinin iş yoğunluğuna bağlı olarak bu süre değişebilir. Mülakat tarihi ve zamanı hakkında size bilgi verilecektir.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=9"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Mülakatıma katılamazsam ne olur?",
+        "answer": "\n<p>Mülakata mazeretsiz olarak katılmayan kişilerin başvurusu, sürecin uzamasına veya başvurunun geçersiz sayılmasına neden olabilir. Eğer mülakata katılmanızı engelleyecek bir durum oluşursa, durumu başvurunuzu yaptığınız İl Göç İdaresi Müdürlüğü’ne bildirerek mülakatın başka bir tarihe ertelenmesini talep edebilirsiniz.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=10"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Mülakat sırasında sorulan sorular nelerdir?",
+        "answer": "\n<p>Mülakatta, başvurucunun kimlik bilgileri, geçmişte hangi ülkenin vatandaşı olduğu veya olabileceği, vatandaşlık bağlarının neden kesildiği veya hiç oluşmadığı, kaybettiği vatandaşlığını geri kazanma imkanının olup olmadığı gibi sorular sorulacaktır. Ayrıca, başvurucunun Türkiye’ye nasıl ve hangi yollardan giriş yaptığı, ülkede yakınlarının olup olmadığı ve geçimini nasıl sağladığı gibi göç sürecine ilişkin bilgiler de istenebilir. Mülakatta doğru ve eksiksiz bilgi vermeniz, başvurunuzun değerlendirilmesi açısından hayati önem taşır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=11"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık başvurusu ne kadar sürede sonuçlandırılır?",
+        "answer": "\n<p>Başvuruyu alan Göç İdaresi İl Müdürlükleri, başvurucunun vatansızlık durumuyla ilgili topladığı bilgi ve belgeleri, başvuru hakkında karar verecek makam olan Göç İdaresi Başkanlığı’na gönderir. Göç İdaresi Başkanlığı, başvurucunun durumuna ilişkin bilgilerin doğruluğunu ve tutarlılığını inceler. Yasal olarak, başvuruların 90 gün içinde sonuçlandırılması gerekmektedir, ancak iş yoğunluğuna bağlı olarak bu süre uzayabilir. Süreyi mümkün olduğunca kısa tutmak için gerekli önlemler alınmaktadır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=12"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık başvurusu kabul edilirse ne olur?",
+        "answer": "\n<p>Eğer başvuru sahibinin vatansızlık durumuna ilişkin toplanan bilgi, belge veya beyanlar yeterli ve inandırıcı bulunursa, kişinin vatansızlığı resmi olarak tespit edilir. Bu durumda, kişiye “Vatansız Kişi Kimlik Belgesi” verilir. Bu belge, 99 ile başlayan yabancı kimlik numarasını içerir. Vatansız Kişi Kimlik Belgesi, kişinin Türkiye’deki hukuki statüsünü belirler ve belirli temel haklardan yararlanmasını sağlar. Ayrıca bu belge, kişinin Türkiye’de yasal olarak kalmasına da olanak tanır. Bu kimlik belgesi için vatansız kişilerden herhangi bir harç veya ücret talep edilmez.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=13"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız olarak tespit edilen kişilere tanınan haklar nelerdir?",
+        "answer": "\n<p>Vatansız olarak tespit edilen ve Vatansız Kişi Kimlik Belgesi sahibi olan kişiler, Türkiye’de yasal olarak ikamet etme hakkına sahip olurlar. Vatansız Kişi Kimlik Belgesi, ikamet izni yerine geçmektedir. Bu Kimlik Belgesine sahip olan kişiler ayrıca, şartlarını karşıladıkları takdirde diğer ikamet izinlerinden birini almak üzere başvuruda da bulunabilmektedir. Ayrıca, Vatansız Kişi Kimlik Belgesi sahipleri, çalışma izni başvurusunda bulunma, yabancılara mahsus pasaport almak için başvuruda bulunma, eğitim alma ve sosyal güvenlik sistemine dahil olarak sağlık hizmetlerinden faydalanma gibi haklara sahiptir.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=14"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız olarak tespit edilen kişilere tanınan güvenceler nelerdir?",
+        "answer": "\n<p>Vatansız Kişi Kimlik Belgesi, sınır dışı edilme konusunda bir güvence sağlar. Vatansız olarak tespit edilen ve Vatansız Kişi Kimlik Belgesine sahip olan kişiler, kamu düzeni veya kamu güvenliği açısından ciddi bir tehdit oluşturmadıkları sürece sınır dışı edilmezler.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=15"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız Kişi Kimlik Belgesi ile başka bir ülkeye seyahat edebilir miyim?",
+        "answer": "\n<p>Vatansız Kişi Kimlik Belgesi, uluslararası seyahat için bir pasaport yerine geçmez. Türkiye’de ikamet etmenizi sağlar, ancak başka bir ülkeye seyahat etmek için geçerli bir seyahat belgesine ihtiyaç duyarsınız. Bu durumda, yabancılara mahsus pasaport almak için başvuru yapabilirsiniz.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=16"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız Kişi Kimlik Belgesi sahibi olarak eğitim alabilir miyim?",
+        "answer": "\n<p>Evet, Vatansız Kişi Kimlik Belgesi sahibi kişiler Türkiye’de eğitim alma hakkına sahiptirler. Bu hak, ilkokuldan üniversiteye kadar olan devlet okullarını kapsar. Ayrıca, belirli şartlar altında burslardan ve eğitim yardımlarından da faydalanabilirsiniz.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=17"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız Kişi Kimlik Belgesi sahibi olarak sağlık hizmetlerinden faydalanabilir miyim?",
+        "answer": "\n<p>Vatansız Kişi Kimlik Belgesi sahibi kişiler, Genel Sağlık Sigortası (GSS) kapsamında sağlık hizmetlerinden faydalanabilirler. GSS’ye başvurarak Türkiye’deki hastanelerden ve sağlık merkezlerinden sağlık hizmeti alabilirsiniz.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=18"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız kişi olarak Türkiye’de aile üyelerimi getirebilir miyim?",
+        "answer": "\n<p>Vatansız Kişi Kimlik Belgesi sahibi kişiler, aile birleşimi kapsamında belirli şartlar altında Türkiye’ye aile üyelerini getirmek için başvuruda bulunabilirler. Ancak, bu başvuruya ilişkin şartlar ve süreçler farklılık gösterebilir. Aile birleşimi başvurusuyla ilgili daha fazla bilgi için Göç İdaresi İl Müdürlüğü’ne danışabilirsiniz.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=19"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız olarak tespit edilen kişiler Türkiye'de vatandaşlık başvurusunda bulunabilir mi?",
+        "answer": "\n<p>Vatansız Kişi Kimlik Belgesi sahibi olanlar, Türkiye’de belirli şartları yerine getirdiklerinde vatandaşlık başvurusunda bulunabilirler. Bu şartlar arasında; Türkiye’de kesintisiz beş yıl ikamet etmek, Türkiye’ye yerleşme niyeti taşımak, Türkçe bilmek, iyi bir ahlaka sahip olmak, sağlık açısından tehlike oluşturmamak ve ulusal güvenlik veya kamu düzenine tehdit oluşturmamak yer alır. Vatansız Kişi Kimlik Belgesi ile geçirilen süreler, ikamet süresi hesaplamasında dikkate alınır. Vatandaşlık başvurusu kabul edildiğinde, kişi Türk vatandaşı olur ve vatansızlık statüsü sona erer.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=20"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız Kişi Kimlik Belgesi ne zamana kadar geçerlidir?",
+        "answer": "\n<p>Vatansız Kişi Kimlik Belgesi, kişinin vatansızlık durumu devam ettiği sürece geçerli olup, her iki yılda bir yenilenmektedir. Bu belgenin geçerliliği, kişinin vatansızlık durumunun sona erdiği ana kadar devam eder. Eğer vatansız kişi, herhangi bir ülkenin vatandaşlığını kazanırsa ve bu şekilde vatansızlık durumu sona ererse, Vatansız Kişi Kimlik Belgesi geçerliliğini yitirir.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=21"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansız Kişi Kimlik Belgesi hangi durumlarda iptal edilebilir?",
+        "answer": "\n<p>Vatansız Kişi Kimlik Belgesi iki durumda iptal edilebilir. İlk durum, kişinin vatansızlık başvurusunda yanlış bilgi veya sahte belgeler sunduğunun sonradan anlaşılmasıdır. Eğer böyle bir durum ortaya çıkarsa, kişinin Vatansız Kişi Kimlik Belgesi iptal edilir.</p>\n<p>İkinci durum ise, kişi hakkında kamu düzeni veya güvenliği açısından ciddi bir tehdit oluşturduğu gerekçesiyle sınır dışı edilme kararı alınmasıdır. Böyle bir durumda da kişinin Vatansız Kişi Kimlik Belgesi iptal edilir. Vatansız Kişi Kimlik Belgesinin iptal edilmesi, kişinin artık vatansız olarak tanınmaması ve ilgili haklarını kaybetmesi anlamına gelir.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=22"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık başvurum kabul edilmezse ne yapabilirim?",
+        "answer": "\n<p>Başvurunuz reddedilirse, bu ret kararına karşı Ankara’da yetkili idare mahkemesinde itiraz edebilir ve iptal davası açabilirsiniz. Bu süreç, hukuki yollarla kararın yeniden gözden geçirilmesini talep etme hakkı tanır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=23"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Türkiye’de vatansızlık başvurum kabul edilmezse başka ülkeye başvurabilir miyim?",
+        "answer": "\n<p>Türkiye’de vatansızlık başvurunuz kabul edilmezse, başka bir ülkeye başvurarak vatansızlık statüsü talep edebilirsiniz. Ancak, bu durumda o ülkenin vatansızlık prosedürlerine ve yasal düzenlemelerine uymanız gerekecektir. Başka bir ülkede vatansız olarak tanınmanız halinde, Türkiye’deki başvurunuz geçersiz sayılacaktır.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=24"
+    },
+    {
+        "section": "Vatansızlık Tespit Prosedürü",
+        "question": "Vatansızlık başvurumla ilgili Mülteci Hakları Merkezi’nden nasıl bir destek alabilirim?",
+        "answer": "\n<p><strong>Mülteci Hakları Merkezi Türkiye</strong>’de koruma arayan yabancılara Türkiye’deki ilgili prosedürler ve hak ve hizmetlere erişim konularında ücretsiz hukuki bilgi ve destek sağlayan bir sivil toplum kuruluşudur. Mülteci Hakları Merkezi, Türkiye’deki göç makamları ve Birleşmiş Milletler kurumları dahil bütün kurumlardan bağımsızdır.</p>\n<p>Hafta içi her gün 9.30-13.00 ve 14.00-17.30 saatleri arasında Türkçe, İngilizce, Fransızca, Arapça ve Farsça dillerinde hizmet veren <a href=\"tel:+908502184830\"><strong>+90 850 218 48 30</strong></a> numarası üzerinden bizi arayarak vatansızlık başvurusu ve tespit prosedürü dahil durumunuza ilişkin sorularınızı uzman ekip arkadaşlarımıza sorabilirsiniz.</p>\n",
+        "language": "Turkish",
+        "deep_link": "https://multecihaklari.info/tr/services/vatansizlik-tespit-proseduru/?section=questions&question=25"
     }
 ]
